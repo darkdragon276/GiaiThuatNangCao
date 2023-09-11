@@ -1,0 +1,83 @@
+%This is my super simple Real Analysis Homework template
+
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage[]{amsthm} %lets us use \begin{proof}
+\usepackage[]{amssymb} %gives us the character \varnothing
+\usepackage[]{amsmath}
+
+\title{Homework 1}
+\author{Chu Hai Nam MSSV: 2370189}
+\date\today
+%This information doesn't actually show up on your document unless you use the maketitle command below
+
+\begin{document}
+\maketitle %This command prints the title based on information entered above
+
+%Section and subsection automatically number unless you put the asterisk next to them.
+\section*{Section 3.2}
+Let $m:\mathcal{A}\rightarrow [0,\infty)$ be a set function where $\mathcal{A}$ is a $\sigma$-algebra. Assume $m$ is countably additive over countable disjoint collections of sets in $\mathcal{A}$.
+%Basically, you type whatever text you want and use the $ sign to enter "math mode".
+%For fancy calligraphy letters, use \mathcal{}
+%Special characters are their own commands
+
+\subsection*{Problem 1}
+Given sets $A$, $B$, and $C$, if $A\subset B \textrm{ and } B \subset C$, then $A \subset C$.
+\begin{proof}
+Other symbols you can use for set notation are
+\begin{itemize}
+\item$A \supset B \supseteq C \subset D \subseteq E$. Also $\varnothing \textrm{vs} \emptyset$
+\item$\cup$ and $\cup_{k=1}^\infty E_k$
+\item$\cap$ and $\cap_{x \in \mathbb{N}} \{\frac{1}{\sqrt[3]{x}}\}$
+\item$\bigcup$ and $\bigcap\limits_{k=0}^n$ and $\bigcap$
+\item most Greek letters $\sigma \pi \theta \lambda_i e^{i\pi}$
+\item $\int_0^2 ln(2)x^2sin(x) dx$
+\item$\leq < \geq > = \neq$
+\end{itemize}
+If you want centered math on its own line, you can use a slash and square bracket.\\
+\[
+\left \{
+\sum\limits_{k=1}^\infty l(I_k):A\subseteq \bigcup_{k=1}^\infty \{I_k\}
+\right \}
+\]
+The left and right commands make the brackets get as big as we need them to be.
+\end{proof}
+
+\clearpage %Gives us a page break before the next section. Optional.
+\subsection*{Problem 2}
+Prove equation (3.19) states: \begin{equation} \lg(n!) = \Theta(n \lg n)\end{equation}
+\begin{proof}
+    $ $\newline
+    $ $\newline
+    We use Stirling's approximation for this proof \\
+    With large values of n, $\Theta (\frac{1}{n}) $is very smaller than 1. \\
+    So we can write n! as follows: \\
+    \begin{equation}
+        \begin{aligned}
+        \lg (n !) & \approx \lg \left(\sqrt{2 \pi n}\left(\frac{n}{e}\right)^n\right) \\
+        & =\lg (\sqrt{2 \pi n})+\lg \left(\frac{n}{e}\right)^n \\
+        & =\lg \sqrt{2 \pi}+\lg \sqrt{n}+n \lg \left(\frac{n}{e}\right) \\
+        & =\lg \sqrt{2 \pi}+\frac{1}{2} \lg n+n \lg n-n \lg e \\
+        & =\Theta(1)+\Theta(\lg n)+\Theta(n \lg n)-\Theta(n) \\
+        & =\Theta(n \lg n)
+        \end{aligned}
+    \end{equation}
+\end{proof}
+
+\subsection*{Problem 3}
+%
+\begin{proof}
+%
+\end{proof}
+
+\section*{Section 2.2}
+%
+\subsection*{Problem 6}
+Blah
+\subsection*{Problem 7}
+Blah
+\subsection*{Problem 10}
+Blah
+
+\end{document}
