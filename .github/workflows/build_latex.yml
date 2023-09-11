@@ -1,0 +1,31 @@
+name: Build LaTeX to PDF
+
+on:
+  push:
+    branches:
+      - master  # Chỉ chạy khi có sự thay đổi trên nhánh main
+    pull_request:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y texlive-latex-base texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra
+
+      - name: Build LaTeX to PDF
+        run: |
+          find . -name "*.tex" -type f -exec sh -c 'pdflatex -interaction=nonstopmode -halt-on-error "$0"' {} \;
+
+      - name: Upload PDFs
+        uses: actions/upload-artifact@v3
+        with:
+          name: pdf-output
+          path: ./*.pdf
