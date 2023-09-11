@@ -44,6 +44,8 @@
 # latexrun
 latex.out/
 
+*.pdf
+
 ## Auxiliary and intermediate files from other packages:
 # algorithms
 *.alg
