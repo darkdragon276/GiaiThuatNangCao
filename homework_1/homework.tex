@@ -6,7 +6,6 @@
 \usepackage[]{amsthm} %lets us use \begin{proof}
 \usepackage[]{amssymb} %gives us the character \varnothing
 \usepackage[]{amsmath}
-% testing branch
 
 \title{Homework 1}
 \author{Chu Hai Nam MSSV: 2370189}
@@ -16,60 +15,76 @@
 \begin{document}
 \maketitle %This command prints the title based on information entered above
 
-%Section and subsection automatically number unless you put the asterisk next to them.
 \section*{Section 3.2}
-Let $m:\mathcal{A}\rightarrow [0,\infty)$ be a set function where $\mathcal{A}$ is a $\sigma$-algebra. Assume $m$ is countably additive over countable disjoint collections of sets in $\mathcal{A}$.
-%Basically, you type whatever text you want and use the $ sign to enter "math mode".
-%For fancy calligraphy letters, use \mathcal{}
-%Special characters are their own commands
+Standard notations and common functions
 
-\subsection*{Problem 1}
-Given sets $A$, $B$, and $C$, if $A\subset B \textrm{ and } B \subset C$, then $A \subset C$.
-\begin{proof}
-Other symbols you can use for set notation are
+\subsection*{Problem 3.2.3}
 \begin{itemize}
-\item$A \supset B \supseteq C \subset D \subseteq E$. Also $\varnothing \textrm{vs} \emptyset$
-\item$\cup$ and $\cup_{k=1}^\infty E_k$
-\item$\cap$ and $\cap_{x \in \mathbb{N}} \{\frac{1}{\sqrt[3]{x}}\}$
-\item$\bigcup$ and $\bigcap\limits_{k=0}^n$ and $\bigcap$
-\item most Greek letters $\sigma \pi \theta \lambda_i e^{i\pi}$
-\item $\int_0^2 ln(2)x^2sin(x) dx$
-\item$\leq < \geq > = \neq$
+    \item Prove equation: \begin{equation} \lg(n!) = \Theta(n \lg n)\end{equation}
+    \begin{proof}
+        $ $\newline
+        $ $\newline
+        We use Stirling's approximation for this proof \\
+        With large values of n, $\Theta (\frac{1}{n}) $is very smaller than 1. \\
+        So we can write n! as follows: \\
+        \begin{equation}
+            \begin{aligned}
+            \lg (n !) & \approx \lg \left(\sqrt{2 \pi n}\left(\frac{n}{e}\right)^n\right) \\
+            & =\lg (\sqrt{2 \pi n})+\lg \left(\frac{n}{e}\right)^n \\
+            & =\lg \sqrt{2 \pi}+\lg \sqrt{n}+n \lg \left(\frac{n}{e}\right) \\
+            & =\lg \sqrt{2 \pi}+\frac{1}{2} \lg n+n \lg n-n \lg e \\
+            & =\Theta(1)+\Theta(\lg n)+\Theta(n \lg n)-\Theta(n) \\
+            & =\Theta(n \lg n)
+            \end{aligned}
+        \end{equation}
+    \end{proof}
+    \item Prove equation: \begin{equation} n! = \omega(2^n) \end{equation}
+    \begin{proof}
+        $ $\newline
+        $ $\newline
+        We using Stirling's approximation with the limit definition as follows:
+        \begin{equation}
+            \begin{aligned}
+            \lim _{n \rightarrow \infty} \frac{n !}{2^n} & =\lim _{n \rightarrow \infty} \frac{\sqrt{2 \pi n}\left(\frac{n}{e}\right)^n\left(1+\Theta\left(\frac{1}{n}\right)\right)}{2^n} \\
+            & =\sqrt{2 \pi} \times \lim _{n \rightarrow \infty} \sqrt{n}\left(\frac{n}{2 e}\right)^n \times \lim _{n \rightarrow \infty}\left(1+\Theta\left(\frac{1}{n}\right)\right) \\
+            & =\sqrt{2 \pi} \times \infty \times 1 \\
+            & =\infty
+            \end{aligned}
+        \end{equation}
+    \end{proof}
+    \item Prove equation: \begin{equation} n! = o(n^n) \end{equation}
+    \begin{proof}
+        $ $\newline
+        $ $\newline
+        We using Stirling's approximation with the limit definition as follows:
+        \begin{equation}
+            \begin{aligned}
+            \lim _{n \rightarrow \infty} \frac{n !}{n^n} & =\lim _{n \rightarrow \infty} \frac{\sqrt{2 \pi n}\left(\frac{n}{e}\right)^n\left(1+\Theta\left(\frac{1}{n}\right)\right)}{n^n} \\
+            & =\sqrt{2 \pi} \times \lim _{n \rightarrow \infty} \frac{\sqrt{n}}{e^n} \times \lim _{n \rightarrow \infty}\left(1+\Theta\left(\frac{1}{n}\right)\right) \\
+            & =\sqrt{2 \pi} \times 0 \times 1 \\
+            & =0
+            \end{aligned}
+        \end{equation}
+    \end{proof}
 \end{itemize}
-If you want centered math on its own line, you can use a slash and square bracket.\\
-\[
-\left \{
-\sum\limits_{k=1}^\infty l(I_k):A\subseteq \bigcup_{k=1}^\infty \{I_k\}
-\right \}
-\]
-The left and right commands make the brackets get as big as we need them to be.
-\end{proof}
 
-\clearpage %Gives us a page break before the next section. Optional.
-\subsection*{Problem 2}
-Prove equation (3.19) states: \begin{equation} \lg(n!) = \Theta(n \lg n)\end{equation}
+\subsection*{Problem 3.2.5}
+Which is asymptotically larger: $ \lg(\lg^*n) $ or $ \lg^*(\lg n) $ 
 \begin{proof}
     $ $\newline
     $ $\newline
-    We use Stirling's approximation for this proof \\
-    With large values of n, $\Theta (\frac{1}{n}) $is very smaller than 1. \\
-    So we can write n! as follows: \\
+    Follow definition of $ \lg^*n $:
     \begin{equation}
-        \begin{aligned}
-        \lg (n !) & \approx \lg \left(\sqrt{2 \pi n}\left(\frac{n}{e}\right)^n\right) \\
-        & =\lg (\sqrt{2 \pi n})+\lg \left(\frac{n}{e}\right)^n \\
-        & =\lg \sqrt{2 \pi}+\lg \sqrt{n}+n \lg \left(\frac{n}{e}\right) \\
-        & =\lg \sqrt{2 \pi}+\frac{1}{2} \lg n+n \lg n-n \lg e \\
-        & =\Theta(1)+\Theta(\lg n)+\Theta(n \lg n)-\Theta(n) \\
-        & =\Theta(n \lg n)
-        \end{aligned}
+        \lg^*n = min \{i \geq 0: \lg^{(i)} n \leq 1 \}
     \end{equation}
-\end{proof}
-
-\subsection*{Problem 3}
-%
-\begin{proof}
-%
+    
+    \begin{align*}
+        \intertext{We assign} \lg^*n & = a \\
+        \intertext{So} \lg(\lg^* n) & = \lg a \\
+        \intertext{As we applying logarithm once more thus recucing number of required iterations by 1} \lg^*(\lg n) &c = a - 1 \\
+        \intertext{Asymptotically} a - 1 & > \lg a \\
+        \lg^*(\lg n) & > \lg(\lg^* n) \\
+    \end{align*}
 \end{proof}
 
 \section*{Section 2.2}
