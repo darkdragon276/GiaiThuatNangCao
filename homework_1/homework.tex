@@ -19,72 +19,48 @@
 Standard notations and common functions
 
 \subsection*{Problem 3.2.3}
-\begin{itemize}
-    \item Prove equation: \begin{equation} \lg(n!) = \Theta(n \lg n)\end{equation}
-    \begin{proof}
-        $ $\newline
-        $ $\newline
-        We use Stirling's approximation for this proof \\
-        With large values of n, $\Theta (\frac{1}{n}) $is very smaller than 1. \\
-        So we can write n! as follows: \\
-        \begin{equation}
-            \begin{aligned}
-            \lg (n !) & \approx \lg \left(\sqrt{2 \pi n}\left(\frac{n}{e}\right)^n\right) \\
-            & =\lg (\sqrt{2 \pi n})+\lg \left(\frac{n}{e}\right)^n \\
-            & =\lg \sqrt{2 \pi}+\lg \sqrt{n}+n \lg \left(\frac{n}{e}\right) \\
-            & =\lg \sqrt{2 \pi}+\frac{1}{2} \lg n+n \lg n-n \lg e \\
-            & =\Theta(1)+\Theta(\lg n)+\Theta(n \lg n)-\Theta(n) \\
-            & =\Theta(n \lg n)
-            \end{aligned}
-        \end{equation}
-    \end{proof}
-    \item Prove equation: \begin{equation} n! = \omega(2^n) \end{equation}
-    \begin{proof}
-        $ $\newline
-        $ $\newline
-        We using Stirling's approximation with the limit definition as follows:
-        \begin{equation}
-            \begin{aligned}
-            \lim _{n \rightarrow \infty} \frac{n !}{2^n} & =\lim _{n \rightarrow \infty} \frac{\sqrt{2 \pi n}\left(\frac{n}{e}\right)^n\left(1+\Theta\left(\frac{1}{n}\right)\right)}{2^n} \\
-            & =\sqrt{2 \pi} \times \lim _{n \rightarrow \infty} \sqrt{n}\left(\frac{n}{2 e}\right)^n \times \lim _{n \rightarrow \infty}\left(1+\Theta\left(\frac{1}{n}\right)\right) \\
-            & =\sqrt{2 \pi} \times \infty \times 1 \\
-            & =\infty
-            \end{aligned}
-        \end{equation}
-    \end{proof}
-    \item Prove equation: \begin{equation} n! = o(n^n) \end{equation}
-    \begin{proof}
-        $ $\newline
-        $ $\newline
-        We using Stirling's approximation with the limit definition as follows:
-        \begin{equation}
-            \begin{aligned}
-            \lim _{n \rightarrow \infty} \frac{n !}{n^n} & =\lim _{n \rightarrow \infty} \frac{\sqrt{2 \pi n}\left(\frac{n}{e}\right)^n\left(1+\Theta\left(\frac{1}{n}\right)\right)}{n^n} \\
-            & =\sqrt{2 \pi} \times \lim _{n \rightarrow \infty} \frac{\sqrt{n}}{e^n} \times \lim _{n \rightarrow \infty}\left(1+\Theta\left(\frac{1}{n}\right)\right) \\
-            & =\sqrt{2 \pi} \times 0 \times 1 \\
-            & =0
-            \end{aligned}
-        \end{equation}
-    \end{proof}
-\end{itemize}
-
-\subsection*{Problem 3.2.5}
-Which is asymptotically larger: $ \lg(\lg^*n) $ or $ \lg^*(\lg n) $ 
+Is $2^{n+1} = O(2^n)$ ? Is $2^{2n} = O(2^n)$ ?
 \begin{proof}
     $ $\newline
     $ $\newline
-    Follow definition of $ \lg^*n $:
-    \begin{equation}
-        \lg^*n = min \{i \geq 0: \lg^{(i)} n \leq 1 \}
-    \end{equation}
-    
-    \begin{align*}
-        \intertext{We assign} \lg^*n & = a \\
-        \intertext{So} \lg(\lg^* n) & = \lg a \\
-        \intertext{As we applying logarithm once more thus recucing number of required iterations by 1} \lg^*(\lg n) &c = a - 1 \\
-        \intertext{Asymptotically} a - 1 & > \lg a \\
-        \lg^*(\lg n) & > \lg(\lg^* n) \\
-    \end{align*}
+    We determine positive constants $c$ and $n_0$ such that $0\le2^{n+1}\le c2^n$ for all $n\ge n_0$. \\
+    Since $2^{n+1}=2\cdot2^n$, we can pick $c=2$ and $n_0=1$. \\
+    So $2^{n+1}=O(2^n)$. \\
+    $ $\newline
+    We determine positive constants $c$ and $n_0$ are positive constants satisfying $0\le2^{2n}\le c2^n$ for all $n\ge n_0$. \\
+    Then $2^{2n}=2^n\cdot2^n\le c2^n$, which implies that $c\ge2^n$. \\
+    We would not choose the $c$, because $2^n$ becomes arbitrarily large as $n$ gets large. \\
+    So, $2^{2n}\ne O(2^n)$. \\
+\end{proof}
+
+\newcommand{\Tworst}{T_{worst}(n)}
+\newcommand{\Tbest}{T_{best}(n)}
+\subsection*{Problem 3.2.5}
+Prove that the running time of an algorithm is $ \Theta(g(n)) $ if and only if its worst-case
+running time is $ O(g(n)) $ and its best-case running time is $ \Omega(g(n)) $.
+\begin{proof}
+    $ $\newline
+    $ $\newline
+    For the input size $n$ with $T(n)$ be the running time of an algorithm, 
+    and let $\Tworst$ and $\Tbest$ be its worst-case running time and its best-case running time, respectively. \\
+    $ $\newline
+    Suppose that $T(n)=\Theta(g(n))$. \\
+    For all input size $n$, there is one worst case and one best case for the algorithm 
+    in terms of time required to run on these inputs. \\
+    Since $T(n)$ describes the running time for \emph{all} cases, it also describes the 
+    running time for the worst case and the best case. \\
+    Thus, $\Tworst=\Theta(g(n))$ and $\Tbest=\Theta(g(n))$, and by Theorem 3.1 \\
+    We have that $\Tworst=O(g(n))$ and $\Tbest=\Omega(g(n))$. \\
+    $ $\newline
+    Suppose that $\Tbest=\Omega(g(n))$ and $\Tworst=O(g(n))$. \\
+    Let $c_1$ and $n_1$ be positive constants such that $0\le c_1g(n)\le\Tbest$ for all $n\ge n_1$, \\
+    Let $c_2$ and $n_2$ be positive constants such that $0\le\Tworst\le c_2g(n)$ for all $n\ge n_2$. \\
+    For any input size $n$, $\Tbest\le T(n)\le\Tworst$.
+    Then for all $n\ge\max{n_1,n_2}$,
+    \[
+        0 \le c_1g(n) \le \Tbest \le T(n) \le \Tworst \le c_2g(n),
+    \]
+    So $T(n)=\Theta(g(n))$.
 \end{proof}
 
 \section*{Section 2.2}
