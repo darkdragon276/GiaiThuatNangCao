@@ -8,7 +8,10 @@
 \usepackage[]{amsmath}
 
 \title{Homework 1}
-\author{Chu Hai Nam MSSV: 2370189}
+\author{Chu Hai Nam MSSV: 2370189 \\
+        Diep Le Vy MSSV: 2370200 \\
+        Huynh Huy Vu MSSV: 2370199 \\}
+
 \date\today
 %This information doesn't actually show up on your document unless you use the maketitle command below
 
@@ -18,7 +21,7 @@
 \section*{Section 3.2}
 Standard notations and common functions
 
-\subsection*{Problem 3.2.3}
+\subsection*{Excerise 3.2-3}
 Is $2^{n+1} = O(2^n)$ ? Is $2^{2n} = O(2^n)$ ?
 \begin{proof}
     $ $\newline
@@ -35,7 +38,7 @@ Is $2^{n+1} = O(2^n)$ ? Is $2^{2n} = O(2^n)$ ?
 
 \newcommand{\Tworst}{T_{worst}(n)}
 \newcommand{\Tbest}{T_{best}(n)}
-\subsection*{Problem 3.2.5}
+\subsection*{Excerise 3.2-5}
 Prove that the running time of an algorithm is $ \Theta(g(n)) $ if and only if its worst-case
 running time is $ O(g(n)) $ and its best-case running time is $ \Omega(g(n)) $.
 \begin{proof}
@@ -63,13 +66,126 @@ running time is $ O(g(n)) $ and its best-case running time is $ \Omega(g(n)) $.
     So $T(n)=\Theta(g(n))$.
 \end{proof}
 
-\section*{Section 2.2}
-%
-\subsection*{Problem 6}
-Blah
-\subsection*{Problem 7}
-Blah
-\subsection*{Problem 10}
-Blah
+\clearpage %Gives us a page break before the next section. Optional.
 
+\section*{Section 5.2}
+\subsection*{Exercise 5.2-6}
+Let $A[1 \ldots n]$ be an array of $n$ distinct numbers. If $i < j$ and $A[i] > A[j]$, 
+then the pair $(i, j)$ is called an inversion of $A$. 
+(See Problem 2-4 on page 47 for more on inversions.) 
+Suppose that the elements of $A$ form a uniform random permutation of $\{1, 2, \ldots, n\}$. 
+Use indicator random variables to compute the expected number of inversions.
+
+\begin{proof}
+    $ $\newline
+    $ $\newline
+    Let $X_{ij}$ be an indicator random variable for the event where the pair $A[i], A[j]$ for $i < j$ is inverted, i.e., $A[i] > A[j]$. 
+    More precisely, we define $X_{ij}$ as:
+    \[ X_{ij} = I\{A[i] > A[j]\} \text{ for } 1 \leq i < j \leq n \\
+    \]
+    
+    We have $\Pr(X_{ij} = 1) = \frac{1}{2}$ because given two distinct random numbers, the probability that the first is bigger than the second is $\frac{1}{2}$. 
+    By Lemma 5.1, $E[X_{ij}] = \frac{1}{2}$.
+    
+    Let $X$ be the random variable denoting the total number of inverted pairs in the array, so that:
+    \[ X = \sum_{i=1}^{n-1} \sum_{j=i+1}^{n} X_{ij}
+    \]
+    
+    We want the expected number of inverted pairs, so we take the expectation of both sides of the above equation to obtain:
+    \[ E[X] = E\left[ \sum_{i=1}^{n-1} \sum_{j=i+1}^{n} X_{ij} \right]
+    \]
+    
+    We use linearity of expectation to get:
+    \[ E[X] = \sum_{i=1}^{n-1} \sum_{j=i+1}^{n} E[X_{ij}]
+    \]
+    
+    This simplifies to:
+    \[ E[X] = \sum_{i=1}^{n-1} \sum_{j=i+1}^{n} \frac{1}{2}
+    \]
+    
+    \[     = \sum_{i=1}^{n-1} \frac{n - i}{2}
+    \]
+    
+    \[     = \frac{1}{2} \sum_{i=1}^{n-1} (n - i)
+    \]
+    
+    \[     = \frac{1}{2} \cdot \frac{n(n-1)}{2} = \frac{n(n-1)}{4}
+    \]
+    
+    Thus, the expected number of inverted pairs is $\frac{n(n-1)}{4}$.
+\end{proof}
+
+\clearpage %Gives us a page break before the next section. Optional.
+
+\section*{Section 7.2}
+\subsection*{Exercise 7.2-3}
+%
+Show that the running time of QUICKSORT is $\theta (n^2)$ when the array $A$ contains distinct elements and is sorted in decreasing order.
+
+\begin{proof}
+    $ $\newline
+    $ $\newline
+    For each loop, QUICKSORT call on 2 sub-array, 1 is empty and another sub-array contain n-1 elements.
+    
+    \begin{itemize}
+    \item 
+        Suppose that PARTITION is called on a subarray $A[p:r]$ 
+        whose elements are distinct and in decreasing order ($A[p] > A[r]$)
+        PARTITION chooses the pivot $A[r]$, which is the smallest element.
+        Every test in line 4 comes up false, so that no elements are exchanged during the execution of the for loop. 
+        Before PARTITION returns, line 6 finds that $i \neq p + 1$, 
+        and so it swaps the elements in $A[p]$ and $A[r]$. 
+        PARTITION returns $r$ as the position of the pivot. 
+        The subarray containing elements less than or equal to the pivot is empty. 
+        The subarray containing elements greater than the pivot, $A[p+1:r]$, 
+        has all but the pivot and is in decreasing order, 
+        except that the maximum element of this subarray is in $A[r]$.
+    
+    \item 
+        When QUICKSORT calls PARTITION on $A[p:q-1]$, nothing changes, 
+        as this subarray is empty. 
+    \item 
+        When QUICKSORT calls PARTITION on $A[q+1:r]$, now the pivot is the greatest element in the subarray. 
+        Although every test in line 4 comes up true, the indices $i$ and $j$ are always equal in line 6, 
+        so that just as in the case where the pivot is the smallest element, 
+        no elements are exchanged during the execution of the for loop. 
+        Before PARTITION returns, line 6 finds that $i \neq r + 1$, 
+        so that the swap in line 6 leaves the pivot in $A[r]$. 
+        PARTITION returns $r$ as the position of the pivot. 
+        Now the subarray containing elements less than or equal to the pivot has all but the pivot and is in decreasing order, 
+        and the subarray containing elements greater than the pivot is empty. 
+        The next call to PARTITION, therefore, is on a subarray that is in decreasing order, 
+        so that it goes back to the first case above.
+    
+    \end{itemize}
+    Therefore, each recursive call is on a subarray only one element smaller, 
+    giving a recurrence for the running time of $T(n) = T(n-1) + \Theta(n)$, 
+    so the solution is $\Theta(n^2)$.
+\end{proof}
+
+\subsection*{Excerise 7.2-5}
+Suppose that the splits at every level of quicksort are in the constant proportion $\alpha$ to $\beta$, where $\alpha + \beta = 1$ and $0 < \alpha, \beta < 1$. 
+Show that the minimum depth of a leaf in the recursion tree is approximately $\ln \frac{1}{\alpha} n$ and that the maximum depth is approximately $\ln \frac{1}{\beta} n$. (Don't worry about integer round-off.)
+\begin{proof}
+    $ $\newline
+    $ $\newline
+    The minimum depth follows a path that always takes the smaller part of the partition—i.e., 
+    that multiplies the number of elements by $\alpha$. 
+    One level of recursion reduces the number of elements from $n$ to $\alpha n$, 
+    and $i$ levels of recursion reduce the number of elements to $\alpha^m n$. 
+    At a leaf, there is just one remaining element, 
+    and so at a minimum-depth leaf of depth $m$, we have $\alpha^m n = 1$. 
+    Thus, $\alpha^m = \frac{1}{n}$. 
+    Taking logarithms, we get $m \ln \alpha = \ln n$, or $m = \frac{\ln n}{\ln \alpha}$. 
+    (This quantity is positive because $0 < \alpha < 1$ implies that $\ln \alpha < 0$.)
+    
+    Similarly, the maximum-depth path corresponds to always taking the larger part of the partition, 
+    i.e., keeping a fraction $\beta$ of the elements each time. 
+    The maximum depth $M$ is reached when there is one element left, 
+    that is, when $\beta^M n = 1$. 
+    Thus, $M = \frac{\ln n}{\ln \beta}$. 
+    (Again, this quantity is positive because $0 < \beta < 1$ implies that $\log \beta < 0$.)
+    
+    All these equations are approximate because we are ignoring floors and ceilings.
+\end{proof}
 \end{document}
