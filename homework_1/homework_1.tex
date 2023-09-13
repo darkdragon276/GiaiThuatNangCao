@@ -67,6 +67,8 @@ running time is $ O(g(n)) $ and its best-case running time is $ \Omega(g(n)) $.
 \end{proof}
 
 \clearpage %Gives us a page break before the next section. Optional.
+
+\section*{Section 5.2}
 \subsection*{Exercise 5.2-6}
 Let $A[1 \ldots n]$ be an array of $n$ distinct numbers. If $i < j$ and $A[i] > A[j]$, 
 then the pair $(i, j)$ is called an inversion of $A$. 
@@ -113,6 +115,9 @@ Use indicator random variables to compute the expected number of inversions.
     Thus, the expected number of inverted pairs is $\frac{n(n-1)}{4}$.
 \end{proof}
 
+\clearpage %Gives us a page break before the next section. Optional.
+
+\section*{Section 7.2}
 \subsection*{Exercise 7.2-3}
 %
 Show that the running time of QUICKSORT is $\theta (n^2)$ when the array $A$ contains distinct elements and is sorted in decreasing order.
@@ -158,8 +163,6 @@ Show that the running time of QUICKSORT is $\theta (n^2)$ when the array $A$ con
     so the solution is $\Theta(n^2)$.
 \end{proof}
 
-\newpage 
-%
 \subsection*{Excerise 7.2-5}
 Suppose that the splits at every level of quicksort are in the constant proportion $\alpha$ to $\beta$, where $\alpha + \beta = 1$ and $0 < \alpha, \beta < 1$. 
 Show that the minimum depth of a leaf in the recursion tree is approximately $\ln \frac{1}{\alpha} n$ and that the maximum depth is approximately $\ln \frac{1}{\beta} n$. (Don't worry about integer round-off.)
