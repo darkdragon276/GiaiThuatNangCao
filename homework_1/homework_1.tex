@@ -6,8 +6,8 @@
 \usepackage[]{amsthm} %lets us use \begin{proof}
 \usepackage[]{amssymb} %gives us the character \varnothing
 \usepackage[]{amsmath}
-
 \usepackage{authblk}
+
 \title{Homework 1}
 \author{Chu Hai Nam MSSV: 2370189}
 \author{Diep Le Vy MSSV: 2370200}
@@ -165,6 +165,7 @@ so the solution is $\Theta(n^2)$.
 Suppose that the splits at every level of quicksort are in the constant proportion $\alpha$ to $\beta$, where $\alpha + \beta = 1$ and $0 < \alpha, \beta < 1$. 
 Show that the minimum depth of a leaf in the recursion tree is approximately $\ln \frac{1}{\alpha} n$ and that the maximum depth is approximately $\ln \frac{1}{\beta} n$. (Don't worry about integer round-off.)
 \begin{proof}
+
 The minimum depth follows a path that always takes the smaller part of the partition—i.e., 
 that multiplies the number of elements by $\alpha$. 
 One level of recursion reduces the number of elements from $n$ to $\alpha n$, 
@@ -173,16 +174,15 @@ At a leaf, there is just one remaining element,
 and so at a minimum-depth leaf of depth $m$, we have $\alpha^m n = 1$. 
 Thus, $\alpha^m = \frac{1}{n}$. 
 Taking logarithms, we get $m \ln \alpha = \ln n$, or $m = \frac{\ln n}{\ln \alpha}$. 
-(This quantity is positive because $0 < \alpha < 1$ implies that $\ln \alpha < 0.)
-
+(This quantity is positive because $0 < \alpha < 1$ implies that $\ln \alpha < 0$.)
 
 Similarly, the maximum-depth path corresponds to always taking the larger part of the partition, 
 i.e., keeping a fraction $\beta$ of the elements each time. 
 The maximum depth $M$ is reached when there is one element left, 
 that is, when $\beta^M n = 1$. 
 Thus, $M = \frac{\ln n}{\ln \beta}$. 
-(Again, this quantity is positive because $0 < \beta < 1$ implies that $\log \beta < 0.)
+(Again, this quantity is positive because $0 < \beta < 1$ implies that $\log \beta < 0$.)
 
 All these equations are approximate because we are ignoring floors and ceilings.
-
+\end{proof}
 \end{document}
