@@ -10,7 +10,9 @@
 \title{Homework 1}
 \author{Chu Hai Nam MSSV: 2370189 \\
         Diep Le Vy MSSV: 2370200 \\
-        Huynh Huy Vu MSSV: 2370199 \\}
+        Huynh Huy Vu MSSV: 2370199 \\
+        Nguyen Truong An MSSV: 2370388\\
+        Khuat Hoang tri MSSV: 2370127}
 
 \date\today
 %This information doesn't actually show up on your document unless you use the maketitle command below
@@ -69,6 +71,33 @@ running time is $ O(g(n)) $ and its best-case running time is $ \Omega(g(n)) $.
 \clearpage %Gives us a page break before the next section. Optional.
 
 \section*{Section 5.2}
+\subsection*{Exercise 5.2-1}
+In HIRE-ASSISTANT, assuming that the candidates are presented in a random order,what is the probability that you hire exactly one time? What is the probability that you hire exactly n times?
+\begin{proof}
+    $ $\newline
+    $ $\newline
+Hiring exactly one time if the best candidate is presented first. There are $(n-1)!$ orderings with the best candidate first, therefore, it is with probability $\frac{(n-1)!}{n!} = \frac{1}{n}$ that you only hire once. You will hire exactly n times if the candidates are presented in increasing order. This fixes the ordering to a single one,and so this will occur with probability $\frac{1}{n!}$
+\end{proof}
+
+\subsection*{Exercise 5.2-5}
+Use indicator random variables to solve the following problem, which is known as the hat-check problem. Each of n customers gives a hat to a hat-check person at a restaurant. The hat-check person gives the hats back to the customers in a random order. What is the expected number of customers who get back their own hat?
+\begin{proof}
+    $ $\newline
+    $ $\newline
+ We want to determine the expected number of fixed points in a random permutation.A fixed point of a permutation $\pi$ is a value $i$ for which $\pi(i) = i$.\\
+ We could enumerate all $n!$ permutations, count the total number of fixed points, and divide by $n!$ to determine the average number of fixed points per permutation. This would be a painstaking process, and the answer would turn out to be 1. We can use indicator random variables, however, to arrive at the same answer much more easily.\\
+Define a random variable X that equals the number of customers that get back their own hat, so that we want to compute $E[X]$.\\
+For $i=1,2,...n$ define the indicator random variable\\
+$X_i = I$\{customer i gets back his own hat\}\\
+Then $X = X_1+X_2+...+X_n$
+Since the ordering of hats is random, each customer has a probability of $\frac{1}{n}$ of getting back their own hat. \\
+In other words, $P_r\{X_i=1\}=\frac{1}{n}$ , which implies that $E[X_i]=\frac{1}{n}$\\
+Therefore,\\
+$E[X_i]=E[\displaystyle\sum_{i=1}^{n}X_i]=\displaystyle\sum_{i=1}^{n}E[X_i]=\displaystyle\sum_{i=1}^{n}\frac{1}{n}=1$
+\\
+Thus, we expect that exactly 1 customer gets back their own hat.
+\end{proof}
+
 \subsection*{Exercise 5.2-6}
 Let $A[1 \ldots n]$ be an array of $n$ distinct numbers. If $i < j$ and $A[i] > A[j]$, 
 then the pair $(i, j)$ is called an inversion of $A$. 
