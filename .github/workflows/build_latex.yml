@@ -3,9 +3,10 @@ name: Build LaTeX to PDF
 on:
   push:
     branches:
-      - master  # Chỉ chạy khi có sự thay đổi trên nhánh main
-    pull_request:
-      - master
+      - master  # Run when main change
+  pull_request:
+    branches:
+      - master # Only run when create PR to main
 
 jobs:
   build:
