@@ -1,0 +1,66 @@
+%This is my super simple Real Analysis Homework template
+
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage[]{amsthm} %lets us use \begin{proof}
+\usepackage[]{amssymb} %gives us the character \varnothing
+\usepackage[]{amsmath}
+
+\title{Homework 3}
+\author{Chu Hai Nam MSSV: 2370189 \\
+        Diep Le Vy MSSV: 2370200 \\
+        Huynh Huy Vu MSSV: 2370199 \\
+        Nguyen Truong An MSSV: 2370388\\
+        Khuat Hoang tri MSSV: 2370127}
+\date\today
+%This information doesn't actually show up on your document unless you use the maketitle command below
+
+\begin{document}
+\maketitle %This command prints the title based on information entered above
+
+\section*{Theorem 3.12}
+    The vertex cover problem is NP-complete.
+
+\begin{proof}
+    We will proof this problem is NP-complete by proofing this is both in NP and NP-hard.
+    \begin{itemize}
+        \item \textbf{NP:} \\
+        We will proof that the vertex cover problem is in NP by showing that the certificate is the vertex cover.\\
+        Given the graph $G = (V,E)$ and k is interger.\\
+        \textbf{Certificate:} A set of vertices, the vertex cover $V'\subseteq V$\\
+        \textbf{Verifier:} Check if the set $V'$ is a vertex cover of size k in $G$.\\
+        If the set $V'$ is a vertex cover of size k in $G$, then the certificate is accepted.\\
+        If the certificate is accepted, then the set $V'$ is a vertex cover of size k in $G$.\\
+        \textbf{Proof:} The verifier can check if the set $V'$ is a vertex cover of size k in $G$ by checking if for every edge $(u,v) \in E$, either $u \in V'$ or $v \in V'$.\\
+        The running time is polynominal time thus the vertex cover problem is in NP.
+
+        \item \textbf{NP-hard:} \\
+        We will proof that the vertex cover problem is NP-hard by reducing the vertex cover problem to the clique problem.\\
+        Given the graph $G = (V,E)$ and k is interger.\\
+        \textbf{Reduction:} Construct a new graph $G' = (V',E')$ where $V' = V$ and $E' = \{(u,v) | (u,v) \notin E\}$.\\
+        \textbf{Claim:} $G$ has a vertex cover of size k if and only if $G'$ has a clique of size $|V| - k$.\\
+        \textbf{Proof:} \\
+        \begin{itemize}
+            \item If $G$ has a vertex cover of size k, then $G'$ has a clique of size $|V| - k$.\\
+            Let $V'$ be the vertex cover of size k in $G$.\\
+            Let $V'' = V - V'$, then $|V''| = |V| - k$.\\
+            Since $V'$ is the vertex cover of size k in $G$, then for every edge $(u,v) \in E$, either $u \in V'$ or $v \in V'$.\\
+            Thus, for every edge $(u,v) \notin E$, both $u \in V''$ and $v \in V''$.\\
+            Therefore, $V''$ is a clique of size $|V| - k$ in $G'$.
+            \item If $G'$ has a clique of size $|V| - k$, then $G$ has a vertex cover of size k.\\
+            Let $V''$ be the clique of size $|V| - k$ in $G'$.\\
+            Let $V' = V - V''$, then $|V'| = k$.\\
+            Since $V''$ is the clique of size $|V| - k$ in $G'$, then for every edge $(u,v) \notin E$, both $u \in V''$ and $v \in V''$.\\
+            Thus, for every edge $(u,v) \in E$, either $u \in V'$ or $v \in V'$.\\
+            In other words, for every edge $(u,v) \in E$, at least one of $u$ and $v$ is in $V'$.\\
+            $V-V'$ is a clique of size $|V| - |V'| = k$ in $G$.\\
+            Therefore, $V'$ is the vertex cover of size k in $G$.
+        \end{itemize}
+    \end{itemize}
+    
+    Since the vertex cover problem is both in NP and NP-hard, the vertex cover problem is NP-complete.
+
+\end{proof}
+
+\end {document}
