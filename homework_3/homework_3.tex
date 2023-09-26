@@ -19,7 +19,48 @@
 \begin{document}
 \maketitle %This command prints the title based on information entered above
 
-\section*{Theorem 3.12}
+\section*{Theorem 34.11}
+    Proof that: Clique is NP-complete
+
+\begin{proof}
+    Firstly, we all know that for a given graph G = (V, E), if we have set 
+    $V$'$ \subseteq V$ of vertices in the Clique, we can check whether for each pair
+    $ u, v \in V$'$ $, the edge $ (u, v) $ belongs to G in polynomial time.
+    \textbf{This means, $ CLIQUE \in NP $}
+
+    Next, we define the complement of G(V, E) is $ \bar{G} (\bar{V}, \bar{E}) $.
+    Call $X$ a clique of G(V, E) if and only if $X$ is an $ IndependentSet $ of
+    $ \bar{G} (\bar{V}, \bar{E}) $. \textbf{Therefore,} with $ IndependentSet \leq_p CLIQUE $, 
+    if $ IndependentSet \in NP-complete $, then $ CLIQUE \in NP-complete $
+
+    We can create a graph for each statement with 3 variables, e.g $C = (x  \lor \bar{y} \lor z)$, each vertice connects with each other via one edge.
+    Then, after connecting 3 statements toghether, the graph will have $3m$ vertices since we have 3 vertices for each statement.
+    With each $x_i$, there is only one of the two literals $x_i$ and $ \bar{x_i} $ receives the True value. Therefore, we connect the pairs
+    of $x_i$ and $ \bar{x_i} $ toghether. Now, we establish \textbf{the size of clique K = m} since in each statement, only one variable belongs to
+    the independent set X
+
+    With each $x_i$, if the assignment of $ \varphi (n, m) $ for $x_i$ value of True, we collect the vertice $x_i$ into set $X$ and vice versa.
+    If there are at least 2 literals with value, we will only collect one to make sure that X independent. Therefore, $X$ will have $m$ vertices
+
+    In the opposite side, call $X$ an independent set with the size of $m$. Since the graph have $3m$ vertices and each statement has one the maximum
+    of one vertice in $X$, $X$ will have $m$ vertices. In $X$ there is no $x_i$ and $ \bar{x_i} $ due to the structure of the graph (there is no edge
+    between them). Therefore, $X$ has $m$ literals and each literal can not be $x_i$ and $ \bar{x_i} $ simulstaneously. We will assign value so that all
+    literals in $X$ is True, which makes the $ \varphi (n, m) = True $
+
+    In conclusion, with $ \varphi (n, m) = (x  \lor \bar{y} \lor z) \land (\bar{x}  \lor y \lor z) \land (\bar{x}  \lor y \lor \bar{z}) $,
+    there is an assignment that make $ \varphi (n, m) $ True if and only if  G(V, E) has an $ IndependentSet $ with the size of $m$. 
+    Therefore,
+
+        $3SAT \leq_p IndependentSet$
+
+        $IndependentSet \leq_p CLIQUE$
+
+        $3SAT \in NP-complete \Rightarrow CLIQUE \in NP-complete$
+
+
+\end{proof} 
+
+\section*{Theorem 34.12}
     The vertex cover problem is NP-complete.
 
 \begin{proof}
