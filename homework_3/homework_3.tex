@@ -6,6 +6,7 @@
 \usepackage[]{amsthm} %lets us use \begin{proof}
 \usepackage[]{amssymb} %gives us the character \varnothing
 \usepackage[]{amsmath}
+\usepackage{graphicx}
 
 \title{Homework 3}
 \author{Chu Hai Nam MSSV: 2370189 \\
@@ -130,7 +131,9 @@
             & \leq 16|E|+(2|V|-1)|V| .
             \end{aligned}
             $$
-            \item
+            \item With the construction, any graph with a vertex cover, can be used to make a graph with a Hamiltonian \\
+            Cycle graph. Since creating such a graph can be done under polynomial time, simply replace edges with \\
+            widgets and make proper connections, we have a reduction from Vertex Cover to Hamiltonian Cycle. \\
         \end{itemize}
     \end{itemize}
     
