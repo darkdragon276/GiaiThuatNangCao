@@ -301,3 +301,50 @@ TSWLatexianTemp*
 # option is specified. Footnotes are the stored in a file with suffix Notes.bib.
 # Uncomment the next line to have this generated file ignored.
 #*Notes.bib
+
+# for java
+##############################
+## Java
+##############################
+.mtj.tmp/
+*.class
+*.war
+*.ear
+*.nar
+hs_err_pid*
+replay_pid*
+
+##############################
+## IntelliJ
+##############################
+out/
+.idea/
+.idea_modules/
+*.ipr
+*.iws
+
+##############################
+## Eclipse
+##############################
+.settings/
+bin/
+tmp/
+.metadata
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.factorypath
+
+##############################
+## Visual Studio Code
+##############################
+.vscode/
+.code-workspace
+
+##############################
+## OS X
+##############################
+.DS_Store
