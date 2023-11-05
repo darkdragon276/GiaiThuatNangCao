@@ -13,7 +13,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class Utils {
-    private final static String outJsonPath = "./resource/output.json";
+    private final static String outJsonPath = "./export/output.json";
     private final static String inJsonPath = "./resource/input.json";
 
     public static List<JsonAddressObject> readJSONData() {
@@ -57,8 +57,8 @@ public class Utils {
 
     public static void main(String[] args) {
         List<JsonAddressObject> readJsonData = Utils.readJSONData();
-        readJsonData.forEach(object -> object.setDistrict("Binh Thuan"));
-        preProcess(readJsonData.get(0).getPred_no_corret());
+//        readJsonData.forEach(object -> object.setAddress("Binh Thuan"));
+        preProcess(readJsonData.get(0).getText());
         Utils.writeJSONData(readJsonData);
     }
 }
