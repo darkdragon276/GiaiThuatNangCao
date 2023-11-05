@@ -3,10 +3,10 @@ package src;
 public class JsonAddressObject {
     private String text;
 
-    private JsonAddressNestedObject address;
+    private Result result;
 
-    public JsonAddressObject(JsonAddressNestedObject address) {
-        this.address = address;
+    public JsonAddressObject(Result result) {
+        this.result = result;
     }
 
     public String getText() {
@@ -17,11 +17,11 @@ public class JsonAddressObject {
         this.text = text;
     }
 
-    public JsonAddressNestedObject getAddress() {
-        return address;
+    public Result getAddress() {
+        return result;
     }
 
-    public void setAddress(JsonAddressNestedObject address) {
-        this.address = address;
+    public void setAddress(Result result) {
+        this.result = result;
     }
 }

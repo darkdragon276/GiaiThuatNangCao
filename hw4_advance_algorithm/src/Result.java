@@ -1,11 +1,11 @@
 package src;
 
-public class JsonAddressNestedObject {
+public class Result {
     private String province;
     private String district;
     private String ward;
 
-    public JsonAddressNestedObject(String province, String district, String ward) {
+    public Result(String province, String district, String ward) {
         this.province = province;
         this.district = district;
         this.ward = ward;
