@@ -1,10 +1,9 @@
 package src;
 
-import com.opencsv.CSVReader;
-import com.opencsv.CSVReaderBuilder;
+import jdk.jshell.execution.Util;
 
-import java.io.FileReader;
-import java.nio.charset.StandardCharsets;
+import java.lang.reflect.Array;
+import java.util.Arrays;
 import java.util.List;
 
 class Main {
@@ -15,30 +14,31 @@ class Main {
     static String districtsPath = "./resource/Districts.csv";
     static String wardsPath = "./resource/Wards.csv";
 
-    public static void buildAddressTree(String filePath, AddressSearchTrie addressTrie) {
-        try (FileReader filereader = new FileReader(filePath, StandardCharsets.UTF_8)) {
-            CSVReader csvReader = new CSVReaderBuilder(filereader).withSkipLines(1).build();
-            List<String[]> allData = csvReader.readAll();
-            for (String[] row : allData) {
-                addressTrie.insertAddress(row[0], row[1]);
-            }
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-    }
-
     public static void main(String[] args) {
 
         System.out.println("hello world");
         // build data
-        buildAddressTree(Main.provincesPath, Main.provincesTrie);
-        buildAddressTree(Main.districtsPath, Main.districtsTrie);
-        buildAddressTree(Main.wardsPath, Main.wardsTrie);
+        Utils.buildAddressTree(Main.provincesPath, Main.provincesTrie);
+        Utils.buildAddressTree(Main.districtsPath, Main.districtsTrie);
+        Utils.buildAddressTree(Main.wardsPath, Main.wardsTrie);
         RelationDataMap relationData = new RelationDataMap();
 //        relationData.print();
 
-        // process data
-        String refId = Main.provincesTrie.searchAddressId("binhthuan").get(0);
-        if (refId != null) System.out.println(relationData.getProvincesMap().get(refId));
+        // read data
+        List<JsonAddressObject> listInputAddress = Utils.readJSONData();
+        for (JsonAddressObject inputAddress: listInputAddress) {
+            String[] listAddress = Utils.preProcess(inputAddress.getText());
+            System.out.println(Arrays.toString(listAddress));
+
+            List<String> refIds = Main.provincesTrie.searchAddressId(listAddress[listAddress.length - 1]);
+            System.out.println(Arrays.toString(refIds.toArray()));
+
+            if(refIds.isEmpty()) continue;
+            String provinceId = refIds.get(0);
+            inputAddress.setResult(new Result(relationData.getProvincesMap().get(provinceId), "", ""));
+        }
+
+        // write data
+        Utils.writeJSONData(listInputAddress);
     }
 }
