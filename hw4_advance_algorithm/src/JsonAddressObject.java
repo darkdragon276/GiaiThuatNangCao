@@ -17,11 +17,11 @@ public class JsonAddressObject {
         this.text = text;
     }
 
-    public Result getAddress() {
+    public Result getResult() {
         return result;
     }
 
-    public void setAddress(Result result) {
+    public void setResult(Result result) {
         this.result = result;
     }
 }

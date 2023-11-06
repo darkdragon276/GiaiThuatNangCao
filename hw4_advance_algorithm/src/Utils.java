@@ -3,6 +3,8 @@ package src;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.stream.JsonReader;
+import com.opencsv.CSVReader;
+import com.opencsv.CSVReaderBuilder;
 
 import java.io.FileReader;
 import java.io.FileWriter;
@@ -38,10 +40,22 @@ public class Utils {
         }
     }
 
+    public static boolean isNumeric(String strNum) {
+        if (strNum == null) {
+            return false;
+        }
+        try {
+            int d = Integer.parseInt(strNum);
+        } catch (NumberFormatException nfe) {
+            return false;
+        }
+        return true;
+    }
+
     public static String[] preProcess(String jsonTerm) {
         String[] wordArray = Arrays
                 // split text follow regex
-                .stream(jsonTerm.split("([A-X][,.-]\\s|[,.-]\\s|[A-Z]\\s)"))
+                .stream(jsonTerm.split("([A-X][,.-]\\s|[,.-]\\s|[A-Z]\\s|[,.-]\\s*)"))
                 // remove empty element
                 .filter(s -> !(s.isBlank() || s.isEmpty()))
                 // lower case, remove white space, remove accent
@@ -51,14 +65,18 @@ public class Utils {
                         ).replaceAll("\\p{M}", "")
                 )
                 .toArray(String[]::new);
-        System.out.println(Arrays.toString(wordArray));
         return wordArray;
     }
 
-    public static void main(String[] args) {
-        List<JsonAddressObject> readJsonData = Utils.readJSONData();
-//        readJsonData.forEach(object -> object.setAddress("Binh Thuan"));
-        preProcess(readJsonData.get(0).getText());
-        Utils.writeJSONData(readJsonData);
+    public static void buildAddressTree(String filePath, AddressSearchTrie addressTrie) {
+        try (FileReader filereader = new FileReader(filePath, StandardCharsets.UTF_8)) {
+            CSVReader csvReader = new CSVReaderBuilder(filereader).withSkipLines(1).build();
+            List<String[]> allData = csvReader.readAll();
+            for (String[] row : allData) {
+                addressTrie.insertAddress(row[0], row[1]);
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 }
