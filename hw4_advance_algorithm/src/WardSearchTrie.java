@@ -5,26 +5,26 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class AddressSearchTrie {
-    private final AddressNode root;
+public class WardSearchTrie {
+    private final WardNode root;
 
-    public AddressSearchTrie() {
-        this.root = new AddressNode("root", '.');
+    public WardSearchTrie() {
+        this.root = new WardNode("root", '.');
     }
 
     public void insertAddress(String word, String refId) {
         if (Utils.isNumeric(word)) return;
-        AddressNode pCrawl = this.root;
+        WardNode pCrawl = this.root;
         for (int i = word.length() - 1; i >= 0; i--) {
-            pCrawl.setChild(word.charAt(i), new AddressNode(word.substring(i), word.charAt(i)));
+            pCrawl.setChild(word.charAt(i), new WardNode(word.substring(i), word.charAt(i)));
             pCrawl = pCrawl.getChild(word.charAt(i));
         }
         pCrawl.setLeafRefId(refId);
     }
 
     public List<String> searchAddressId(String word) {
-        AddressNode pCrawl = this.root;
-        HashMap<Character, AddressNode> tempChildren = new HashMap<>();
+        WardNode pCrawl = this.root;
+        HashMap<Character, WardNode> tempChildren = new HashMap<>();
         String tempWord = "";
         List<String> retListRefId = new ArrayList<>();
         for (int i = word.length() - 1; i >= 0; i--) {
@@ -45,17 +45,17 @@ public class AddressSearchTrie {
             } else {
             	pCrawl = pCrawl.getChild(word.charAt(i));
             }
-            if (!pCrawl.getLeafRefId().isBlank() && !pCrawl.getLeafRefId().isEmpty()) {
-                retListRefId.add(pCrawl.getLeafRefId());
+            if (!pCrawl.getLeafRefId().isEmpty()) {
+                retListRefId.addAll(pCrawl.getLeafRefId());
             }
         }
         if (tempWord.isEmpty()) {
-            if (!pCrawl.getLeafRefId().isBlank() && !pCrawl.getLeafRefId().isEmpty()) {
-                retListRefId.add(pCrawl.getLeafRefId());
+            if (!pCrawl.getLeafRefId().isEmpty()) {
+                retListRefId.addAll(pCrawl.getLeafRefId());
             }
         } else {
-            for (Map.Entry<Character, AddressNode> entry : tempChildren.entrySet()) {
-                AddressNode pCrawlSubString = entry.getValue();
+            for (Map.Entry<Character, WardNode> entry : tempChildren.entrySet()) {
+                WardNode pCrawlSubString = entry.getValue();
                 System.out.println(tempWord);
                 for (int j = tempWord.length() - 1; j >= 0; j--) {
                     if (pCrawlSubString.getChild(tempWord.charAt(j)) == null) {
@@ -63,22 +63,11 @@ public class AddressSearchTrie {
                     }
                     pCrawlSubString = pCrawlSubString.getChild(tempWord.charAt(j));
                 }
-                if (!pCrawlSubString.getLeafRefId().isBlank() && !pCrawlSubString.getLeafRefId().isEmpty()) {
-                    retListRefId.add(pCrawlSubString.getLeafRefId());
+                if (!pCrawlSubString.getLeafRefId().isEmpty()) {
+                    retListRefId.addAll(pCrawlSubString.getLeafRefId());
                 }
             }
         }
         return retListRefId;
-    }
-
-    public String normalSearch(String word) {
-        AddressNode pCrawl = this.root;
-        for (int i = word.length() - 1; i >= 0; i--) {
-            if (pCrawl.getChild(word.charAt(i)) == null) {
-                return "";
-            }
-            pCrawl = pCrawl.getChild(word.charAt(i));
-        }
-        return pCrawl.getLeafRefId();
     }
 }

@@ -55,15 +55,16 @@ public class Utils {
     public static String[] preProcess(String jsonTerm) {
         String[] wordArray = Arrays
                 // split text follow regex
-                .stream(jsonTerm.split("([A-X][,.-]\\s|[,.-]\\s|[A-Z]\\s|[,.-]\\s*)"))
+                .stream(jsonTerm.split("[-,\\s]"))
                 // remove empty element
                 .filter(s -> !(s.isBlank() || s.isEmpty()))
                 // lower case, remove white space, remove accent
                 .map(s -> Normalizer.normalize(
                                 s.toLowerCase().trim().replaceAll("\\s+", ""),
                                 Normalizer.Form.NFKD
-                        ).replaceAll("\\p{M}", "")
+                        ).replaceAll("\\p{M}|[-.]", "").replaceAll("đ", "d")
                 )
+                .filter(s -> (s.compareTo("huyen") != 0 && s.compareTo("tinh") != 0 ))
                 .toArray(String[]::new);
         return wordArray;
     }
@@ -74,6 +75,30 @@ public class Utils {
             List<String[]> allData = csvReader.readAll();
             for (String[] row : allData) {
                 addressTrie.insertAddress(row[0], row[1]);
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    public static void buildAddressTree(String filePath, WardSearchTrie wardTrie) {
+        try (FileReader filereader = new FileReader(filePath, StandardCharsets.UTF_8)) {
+            CSVReader csvReader = new CSVReaderBuilder(filereader).withSkipLines(1).build();
+            List<String[]> allData = csvReader.readAll();
+            for (String[] row : allData) {
+                wardTrie.insertAddress(row[0], row[1]);
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    public static void buildExceptionTree(String filePath, AddressSearchTrie addressTrie) {
+        try (FileReader filereader = new FileReader(filePath, StandardCharsets.UTF_8)) {
+            CSVReader csvReader = new CSVReaderBuilder(filereader).build();
+            List<String[]> allData = csvReader.readAll();
+            for (String[] row : allData) {
+                addressTrie.insertAddress(row[0], "common_nouns");
             }
         } catch (Exception e) {
             e.printStackTrace();
