@@ -55,25 +55,75 @@ public class Utils {
     public static String[] preProcess(String jsonTerm) {
         String[] wordArray = Arrays
                 // split text follow regex
-                .stream(jsonTerm.split("([A-X][,.-]\\s|[,.-]\\s|[A-Z]\\s|[,.-]\\s*)"))
+                .stream(jsonTerm.split("[-,\\s]"))
                 // remove empty element
                 .filter(s -> !(s.isBlank() || s.isEmpty()))
+                .map(s -> s.toLowerCase().replaceAll("[.-]", ""))
+                .toArray(String[]::new);
+
+        return Arrays.stream(filterException(wordArray))
+                .filter(s -> !Main.exceptionTrie.searchNormalException(s))
                 // lower case, remove white space, remove accent
                 .map(s -> Normalizer.normalize(
-                                s.toLowerCase().trim().replaceAll("\\s+", ""),
+                                s.trim().replaceAll("\\s+", ""),
                                 Normalizer.Form.NFKD
-                        ).replaceAll("\\p{M}", "")
+                        ).replaceAll("\\p{M}", "").replaceAll("đ", "d")
                 )
                 .toArray(String[]::new);
-        return wordArray;
     }
 
-    public static void buildAddressTree(String filePath, AddressSearchTrie addressTrie) {
+//    public static void main(String[] args) {
+//        Utils.buildExceptionTree(Main.exceptionPath, Main.exceptionTrie);
+//        System.out.println(Main.exceptionTrie.searchNormalException("h"));
+//    }
+
+    public static String[] filterException(String[] listWord) {
+        List<String> removedPrefixWords = new ArrayList<>();
+        for (int i = 0; i < listWord.length; i++) {
+            String twinWord = (i < listWord.length - 1) ? listWord[i] + listWord[i + 1] : listWord[i];
+            int resultSearchValue = Main.exceptionTrie.searchException(twinWord);
+            if (resultSearchValue <= 3) {
+                removedPrefixWords.add(listWord[i]);
+            } else if (resultSearchValue < twinWord.length() - 1) {
+                removedPrefixWords.add(twinWord.substring(resultSearchValue));
+                i++;
+            } else {
+                i++;
+            }
+        }
+        return removedPrefixWords.toArray(String[]::new);
+    }
+
+    public static void buildAddressTree(String filePath, SingleIndexTrie addressTrie) {
         try (FileReader filereader = new FileReader(filePath, StandardCharsets.UTF_8)) {
             CSVReader csvReader = new CSVReaderBuilder(filereader).withSkipLines(1).build();
             List<String[]> allData = csvReader.readAll();
             for (String[] row : allData) {
                 addressTrie.insertAddress(row[0], row[1]);
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    public static void buildAddressTree(String filePath, MultiIndexTrie wardTrie) {
+        try (FileReader filereader = new FileReader(filePath, StandardCharsets.UTF_8)) {
+            CSVReader csvReader = new CSVReaderBuilder(filereader).withSkipLines(1).build();
+            List<String[]> allData = csvReader.readAll();
+            for (String[] row : allData) {
+                wardTrie.insertAddress(row[0], row[1]);
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    public static void buildExceptionTree(String filePath, SingleIndexTrie addressTrie) {
+        try (FileReader filereader = new FileReader(filePath, StandardCharsets.UTF_8)) {
+            CSVReader csvReader = new CSVReaderBuilder(filereader).withSkipLines(1).build();
+            List<String[]> allData = csvReader.readAll();
+            for (String[] row : allData) {
+                addressTrie.insertException(row[0], "common_nouns");
             }
         } catch (Exception e) {
             e.printStackTrace();
