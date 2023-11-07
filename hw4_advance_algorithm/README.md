@@ -4,7 +4,8 @@
 * Files data: ./resource/*
 * Files code: ./src/*
 * Files libs: ./libs/*
-* Library using: gson-2.10.1, opencsv-3.8, jdk-17
+* Library using: gson-2.10.1, opencsv-3.8, jdk-21
+* Output json file: ./export/output.json
 
 # How to run
 
