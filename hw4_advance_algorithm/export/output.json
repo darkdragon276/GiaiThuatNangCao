@@ -2,15 +2,6 @@
   {
     "text": "TT Tân Bình Huyện Yên Sơn, Tuyên Quang",
     "result": {
-      "text_preprocessed": [
-        "tt",
-        "tan",
-        "binh",
-        "yen",
-        "son",
-        "tuyen",
-        "quang"
-      ],
       "province": "Tỉnh Tuyên Quang",
       "district": "Huyện Yên Sơn",
       "ward": ""
@@ -19,14 +10,6 @@
   {
     "text": "357/28,Ng-T- Thuật,P1,Q3,TP.HồChíMinh.",
     "result": {
-      "text_preprocessed": [
-        "357/28",
-        "ng",
-        "thuat",
-        "p1",
-        "q3",
-        "tphochiminh"
-      ],
       "province": "Thành phố Hồ Chí Minh",
       "district": "Quận 3",
       "ward": "Phường 01"
@@ -35,34 +18,14 @@
   {
     "text": "284DBis Ng Văn Giáo, P3, Mỹ Tho, T.Giang.",
     "result": {
-      "text_preprocessed": [
-        "284dbis",
-        "ng",
-        "van",
-        "giao",
-        "p3",
-        "my",
-        "tho",
-        "tgiang"
-      ],
-      "province": "",
-      "district": "",
-      "ward": ""
+      "province": "Tỉnh Tiền Giang",
+      "district": "Thành phố Mỹ Tho",
+      "ward": "Phường 3"
     }
   },
   {
     "text": "Nà Làng Phú Bình, Chiêm Hoá, Tuyên Quang",
     "result": {
-      "text_preprocessed": [
-        "na",
-        "lang",
-        "phu",
-        "binh",
-        "chiem",
-        "hoa",
-        "tuyen",
-        "quang"
-      ],
       "province": "Tỉnh Tuyên Quang",
       "district": "Huyện Chiêm Hóa",
       "ward": "Xã Phú Bình"
@@ -71,19 +34,6 @@
   {
     "text": "59/12 Ng-B-Khiêm, Đa Kao Quận 1, TP. Hồ Chí Minh",
     "result": {
-      "text_preprocessed": [
-        "59/12",
-        "ng",
-        "b",
-        "khiem",
-        "da",
-        "kao",
-        "quan",
-        "1",
-        "ho",
-        "chi",
-        "minh"
-      ],
       "province": "Thành phố Hồ Chí Minh",
       "district": "Quận 1",
       "ward": "Phường Đa Kao"
@@ -92,19 +42,6 @@
   {
     "text": "46/8F Trung Chánh 2 Trung Chánh, Hóc Môn, TP. Hồ Chí Minh",
     "result": {
-      "text_preprocessed": [
-        "46/8f",
-        "trung",
-        "chanh",
-        "2",
-        "trung",
-        "chanh",
-        "hoc",
-        "mon",
-        "ho",
-        "chi",
-        "minh"
-      ],
       "province": "Thành phố Hồ Chí Minh",
       "district": "Huyện Hóc Môn",
       "ward": "Xã Trung Chánh"
@@ -113,15 +50,6 @@
   {
     "text": "T18,Cẩm Bình, Cẩm Phả, Quảng Ninh.",
     "result": {
-      "text_preprocessed": [
-        "t18",
-        "cam",
-        "binh",
-        "cam",
-        "pha",
-        "quang",
-        "ninh"
-      ],
       "province": "Tỉnh Quảng Ninh",
       "district": "Thành phố Cẩm Phả",
       "ward": "Phường Cẩm Bình"
@@ -130,14 +58,6 @@
   {
     "text": "Thanh Long, Yên Mỹ Hưng Yên",
     "result": {
-      "text_preprocessed": [
-        "thanh",
-        "long",
-        "yen",
-        "my",
-        "hung",
-        "yen"
-      ],
       "province": "Tỉnh Hưng Yên",
       "district": "Huyện Yên Mỹ",
       "ward": "Xã Thanh Long"
@@ -146,15 +66,6 @@
   {
     "text": "D2, Thạnh Lợi, Vĩnh Thạnh Cần Thơ",
     "result": {
-      "text_preprocessed": [
-        "d2",
-        "thanh",
-        "loi",
-        "vinh",
-        "thanh",
-        "can",
-        "tho"
-      ],
       "province": "Thành phố Cần Thơ",
       "district": "Huyện Vĩnh Thạnh",
       "ward": "Xã Thạnh Lợi"
@@ -163,16 +74,6 @@
   {
     "text": "Cổ Lũy Hải Ba, Hải Lăng, Quảng Trị",
     "result": {
-      "text_preprocessed": [
-        "co",
-        "luy",
-        "hai",
-        "ba",
-        "hai",
-        "lang",
-        "quang",
-        "tri"
-      ],
       "province": "Tỉnh Quảng Trị",
       "district": "Huyện Hải Lăng",
       "ward": "Xã Hải Ba"
@@ -181,18 +82,6 @@
   {
     "text": "Khu phố 4 Thị trấn, Dương Minh Châu, Tây Ninh",
     "result": {
-      "text_preprocessed": [
-        "khu",
-        "pho",
-        "4",
-        "thi",
-        "tran",
-        "duong",
-        "minh",
-        "chau",
-        "tay",
-        "ninh"
-      ],
       "province": "Tỉnh Tây Ninh",
       "district": "Huyện Dương Minh Châu",
       "ward": ""
@@ -201,65 +90,22 @@
   {
     "text": "Khu phố 3, Trảng Dài, Thành phố Biên Hòa, Đồng Nai.",
     "result": {
-      "text_preprocessed": [
-        "khu",
-        "pho",
-        "3",
-        "trang",
-        "dai",
-        "thanh",
-        "pho",
-        "bien",
-        "hoa",
-        "dong",
-        "nai"
-      ],
       "province": "Tỉnh Đồng Nai",
       "district": "Thành phố Biên Hòa",
-      "ward": ""
+      "ward": "Phường Trảng Dài"
     }
   },
   {
     "text": "Số Nhà 38, Tổ 9 Tô Hiệu, Thành phố Sơn La, Sơn La",
     "result": {
-      "text_preprocessed": [
-        "so",
-        "nha",
-        "38",
-        "to",
-        "9",
-        "to",
-        "hieu",
-        "thanh",
-        "pho",
-        "son",
-        "la",
-        "son",
-        "la"
-      ],
       "province": "Tỉnh Sơn La",
       "district": "Thành phố Sơn La",
-      "ward": ""
+      "ward": "Phường Tô Hiệu"
     }
   },
   {
     "text": "CH F1614-HH2-Khu ĐTM Dương Nội, Yên Nghĩa, Hà Đông, Hà Nội",
     "result": {
-      "text_preprocessed": [
-        "ch",
-        "f1614",
-        "hh2",
-        "khu",
-        "dtm",
-        "duong",
-        "noi",
-        "yen",
-        "nghia",
-        "ha",
-        "dong",
-        "ha",
-        "noi"
-      ],
       "province": "Thành phố Hà Nội",
       "district": "Quận Hà Đông",
       "ward": "Phường Yên Nghĩa"
@@ -268,56 +114,22 @@
   {
     "text": "Khu 3 Suối Hoa, Thành phố Bắc Ninh, Bắc Ninh",
     "result": {
-      "text_preprocessed": [
-        "khu",
-        "3",
-        "suoi",
-        "hoa",
-        "thanh",
-        "pho",
-        "bac",
-        "ninh",
-        "bac",
-        "ninh"
-      ],
       "province": "Tỉnh Bắc Ninh",
       "district": "Thành phố Bắc Ninh",
-      "ward": ""
+      "ward": "Phường Suối Hoa"
     }
   },
   {
     "text": "Phú Lộc Phú Thạnh, Phú Tân, An Giang",
     "result": {
-      "text_preprocessed": [
-        "phu",
-        "loc",
-        "phu",
-        "thanh",
-        "phu",
-        "tan",
-        "an",
-        "giang"
-      ],
       "province": "Tỉnh An Giang",
       "district": "Huyện Phú Tân",
-      "ward": ""
+      "ward": "Xã Phú Thạnh"
     }
   },
   {
     "text": "Nguyễn Khuyến Thị trấn Vĩnh Trụ, Lý Nhân, Hà Nam",
     "result": {
-      "text_preprocessed": [
-        "nguyen",
-        "khuyen",
-        "thi",
-        "tran",
-        "vinh",
-        "tru",
-        "ly",
-        "nhan",
-        "ha",
-        "nam"
-      ],
       "province": "Tỉnh Hà Nam",
       "district": "Huyện Lý Nhân",
       "ward": "Thị trấn Vĩnh Trụ"
@@ -326,14 +138,6 @@
   {
     "text": "Nam chính Tiền hải, Thái bình",
     "result": {
-      "text_preprocessed": [
-        "nam",
-        "chinh",
-        "tien",
-        "hai",
-        "thai",
-        "binh"
-      ],
       "province": "Tỉnh Thái Bình",
       "district": "Huyện Tiền Hải",
       "ward": "Xã Nam Chính"
@@ -342,16 +146,6 @@
   {
     "text": "Đá Hàng Hiệp Thạnh, Gò Dầu, Tây Ninh",
     "result": {
-      "text_preprocessed": [
-        "da",
-        "hang",
-        "hiep",
-        "thanh",
-        "go",
-        "dau",
-        "tay",
-        "ninh"
-      ],
       "province": "Tỉnh Tây Ninh",
       "district": "Huyện Gò Dầu",
       "ward": "Xã Hiệp Thạnh"
@@ -360,42 +154,14 @@
   {
     "text": "371/11 Thoại Ngọc Hầu Hiệp Tân, Tân Phú, TP. Hồ Chí Minh",
     "result": {
-      "text_preprocessed": [
-        "371/11",
-        "thoai",
-        "ngoc",
-        "hau",
-        "hiep",
-        "tan",
-        "tan",
-        "phu",
-        "ho",
-        "chi",
-        "minh"
-      ],
       "province": "Thành phố Hồ Chí Minh",
-      "district": "Huyện An Phú",
-      "ward": ""
+      "district": "Quận Tân Phú",
+      "ward": "Phường Hiệp Tân"
     }
   },
   {
     "text": "Số 93, khu phố 9, thị trấn Hai Riêng, Sông Hinh, Phú Yên.",
     "result": {
-      "text_preprocessed": [
-        "so",
-        "93",
-        "khu",
-        "pho",
-        "9",
-        "thi",
-        "tran",
-        "hai",
-        "rieng",
-        "song",
-        "hinh",
-        "phu",
-        "yen"
-      ],
       "province": "Tỉnh Phú Yên",
       "district": "Huyện Sông Hinh",
       "ward": "Thị trấn Hai Riêng"
@@ -404,20 +170,6 @@
   {
     "text": "Tổ Dân Phố 3 Thị trấn Chư Prông, Chư Prông, Gia Lai",
     "result": {
-      "text_preprocessed": [
-        "to",
-        "dan",
-        "pho",
-        "3",
-        "thi",
-        "tran",
-        "chu",
-        "prong",
-        "chu",
-        "prong",
-        "gia",
-        "lai"
-      ],
       "province": "Tỉnh Gia Lai",
       "district": "Huyện Chư Prông",
       "ward": "Thị trấn Chư Prông"
@@ -426,15 +178,6 @@
   {
     "text": "Xã Minh Đạo, Huyện Tiên Du, Tỉnh Bắc Ninh",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "minh",
-        "dao",
-        "tien",
-        "du",
-        "bac",
-        "ninh"
-      ],
       "province": "Tỉnh Bắc Ninh",
       "district": "Huyện Tiên Du",
       "ward": "Xã Minh Đạo"
@@ -443,15 +186,6 @@
   {
     "text": "Xã Bồng Khê Huyện Con Cuông, Nghệ An",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "bong",
-        "khe",
-        "con",
-        "cuong",
-        "nghe",
-        "an"
-      ],
       "province": "Tỉnh Nghệ An",
       "district": "Huyện Con Cuông",
       "ward": "Xã Bồng Khê"
@@ -460,16 +194,6 @@
   {
     "text": "Thôn 16 Cư Prông, Ea Kar, Đắk Lắk",
     "result": {
-      "text_preprocessed": [
-        "thon",
-        "16",
-        "cu",
-        "prong",
-        "ea",
-        "kar",
-        "dak",
-        "lak"
-      ],
       "province": "Tỉnh Đắk Lắk",
       "district": "Huyện Ea Kar",
       "ward": "Xã Cư Prông"
@@ -478,20 +202,6 @@
   {
     "text": "Số 259/54/8, Tổ 28, KP1, Long Bình Tân, Biên Hòa, Đồng Nai.",
     "result": {
-      "text_preprocessed": [
-        "so",
-        "259/54/8",
-        "to",
-        "28",
-        "kp1",
-        "long",
-        "binh",
-        "tan",
-        "bien",
-        "hoa",
-        "dong",
-        "nai"
-      ],
       "province": "Tỉnh Đồng Nai",
       "district": "Thành phố Biên Hòa",
       "ward": "Phường Long Bình Tân"
@@ -500,16 +210,6 @@
   {
     "text": "Pháp Ngỡ, Vĩnh Hòa Vĩnh Lộc, Thanh Hóa",
     "result": {
-      "text_preprocessed": [
-        "phap",
-        "ngo",
-        "vinh",
-        "hoa",
-        "vinh",
-        "loc",
-        "thanh",
-        "hoa"
-      ],
       "province": "Tỉnh Thanh Hóa",
       "district": "Huyện Vĩnh Lộc",
       "ward": "Xã Vĩnh Hòa"
@@ -518,16 +218,6 @@
   {
     "text": "Thôn Chua Bình Minh, Thanh Oai, Hà Nội",
     "result": {
-      "text_preprocessed": [
-        "thon",
-        "chua",
-        "binh",
-        "minh",
-        "thanh",
-        "oai",
-        "ha",
-        "noi"
-      ],
       "province": "Thành phố Hà Nội",
       "district": "Huyện Thanh Oai",
       "ward": "Xã Bình Minh"
@@ -536,19 +226,6 @@
   {
     "text": "Tiểu khu 3, thị trấn Ba Hàng, huyện Phổ Yên, tỉnh Thái Nguyên.",
     "result": {
-      "text_preprocessed": [
-        "tieu",
-        "khu",
-        "3",
-        "thi",
-        "tran",
-        "ba",
-        "hang",
-        "pho",
-        "yen",
-        "thai",
-        "nguyen"
-      ],
       "province": "Tỉnh Thái Nguyên",
       "district": "Thành phố Phổ Yên",
       "ward": "Phường Ba Hàng"
@@ -557,16 +234,6 @@
   {
     "text": "Xóm 2, Hưng Mỹ, Hưng Nguyên, Nghệ An",
     "result": {
-      "text_preprocessed": [
-        "xom",
-        "2",
-        "hung",
-        "my",
-        "hung",
-        "nguyen",
-        "nghe",
-        "an"
-      ],
       "province": "Tỉnh Nghệ An",
       "district": "Huyện Hưng Nguyên",
       "ward": "Xã Hưng Mỹ"
@@ -575,17 +242,6 @@
   {
     "text": "Bương Hạ Nam, Quỳnh Ngọc Quỳnh Phụ, Thái Bình",
     "result": {
-      "text_preprocessed": [
-        "buong",
-        "ha",
-        "nam",
-        "quynh",
-        "ngoc",
-        "quynh",
-        "phu",
-        "thai",
-        "binh"
-      ],
       "province": "Tỉnh Thái Bình",
       "district": "Huyện Quỳnh Phụ",
       "ward": "Xã Quỳnh Ngọc"
@@ -594,14 +250,6 @@
   {
     "text": "Nậm Cha Sìn Hổ, Lai Châu",
     "result": {
-      "text_preprocessed": [
-        "nam",
-        "cha",
-        "sin",
-        "ho",
-        "lai",
-        "chau"
-      ],
       "province": "Tỉnh Lai Châu",
       "district": "Huyện Sìn Hồ",
       "ward": "Xã Nậm Cha"
@@ -610,18 +258,6 @@
   {
     "text": "TDP Hạ 10, Tây Tựu Bắc Từ Liêm, Hà Nội",
     "result": {
-      "text_preprocessed": [
-        "tdp",
-        "ha",
-        "10",
-        "tay",
-        "tuu",
-        "bac",
-        "tu",
-        "liem",
-        "ha",
-        "noi"
-      ],
       "province": "Thành phố Hà Nội",
       "district": "Quận Bắc Từ Liêm",
       "ward": "Phường Tây Tựu"
@@ -630,92 +266,38 @@
   {
     "text": "P. Nghi Hương Thị xã Cửa Lò, Nghệ An",
     "result": {
-      "text_preprocessed": [
-        "p",
-        "nghi",
-        "huong",
-        "thi",
-        "xa",
-        "cua",
-        "lo",
-        "nghe",
-        "an"
-      ],
       "province": "Tỉnh Nghệ An",
       "district": "Thị xã Cửa Lò",
-      "ward": ""
+      "ward": "Phường Nghi Hương"
     }
   },
   {
     "text": "Hoằng Anh Thành phố Thanh Hóa, Thanh Hóa",
     "result": {
-      "text_preprocessed": [
-        "hoang",
-        "anh",
-        "thanh",
-        "pho",
-        "thanh",
-        "hoa",
-        "thanh",
-        "hoa"
-      ],
       "province": "Tỉnh Thanh Hóa",
-      "district": "Huyện Thạnh Hóa",
+      "district": "Thành phố Thanh Hóa",
       "ward": ""
     }
   },
   {
     "text": "Ấp Phú Hữu Hữu Định, Châu Thành, Bến Tre",
     "result": {
-      "text_preprocessed": [
-        "ap",
-        "phu",
-        "huu",
-        "huu",
-        "dinh",
-        "chau",
-        "thanh",
-        "ben",
-        "tre"
-      ],
       "province": "Tỉnh Bến Tre",
       "district": "Huyện Châu Thành",
-      "ward": ""
+      "ward": "Xã Hữu Định"
     }
   },
   {
     "text": "Phường Yên Thanh, thành phố Uông Bí, tỉnh Quảng Ninh.",
     "result": {
-      "text_preprocessed": [
-        "phuong",
-        "yen",
-        "thanh",
-        "thanh",
-        "pho",
-        "uong",
-        "bi",
-        "quang",
-        "ninh"
-      ],
       "province": "Tỉnh Quảng Ninh",
       "district": "Thành phố Uông Bí",
-      "ward": ""
+      "ward": "Phường Yên Thanh"
     }
   },
   {
     "text": "Khóm 1 TT Càng Long, Càng Long, Trà Vinh",
     "result": {
-      "text_preprocessed": [
-        "khom",
-        "1",
-        "tt",
-        "cang",
-        "long",
-        "cang",
-        "long",
-        "tra",
-        "vinh"
-      ],
       "province": "Tỉnh Trà Vinh",
       "district": "Huyện Càng Long",
       "ward": "Thị trấn Càng Long"
@@ -724,16 +306,6 @@
   {
     "text": "KP 1B, P.An Phú, TX.Thuận An, Bình Dương",
     "result": {
-      "text_preprocessed": [
-        "kp",
-        "1b",
-        "pan",
-        "phu",
-        "txthuan",
-        "an",
-        "binh",
-        "duong"
-      ],
       "province": "Tỉnh Bình Dương",
       "district": "Thành phố Thuận An",
       "ward": "Phường An Phú"
@@ -742,17 +314,6 @@
   {
     "text": "Thôn Xuân Lũng Bình Trung, Cao Lộc, Lạng Sơn",
     "result": {
-      "text_preprocessed": [
-        "thon",
-        "xuan",
-        "lung",
-        "binh",
-        "trung",
-        "cao",
-        "loc",
-        "lang",
-        "son"
-      ],
       "province": "Tỉnh Lạng Sơn",
       "district": "Huyện Cao Lộc",
       "ward": "Xã Bình Trung"
@@ -761,54 +322,22 @@
   {
     "text": "Phường Hòa Cường Nam, Quận Hải Châu, Thành phố Đà Nẵng.",
     "result": {
-      "text_preprocessed": [
-        "phuong",
-        "hoa",
-        "cuong",
-        "nam",
-        "quan",
-        "hai",
-        "chau",
-        "thanh",
-        "pho",
-        "da",
-        "nang"
-      ],
       "province": "Thành phố Đà Nẵng",
-      "district": "",
+      "district": "Quận Hải Châu",
       "ward": ""
     }
   },
   {
     "text": "TT. Phù Mỹ Phù Mỹ, Bình Định",
     "result": {
-      "text_preprocessed": [
-        "tt",
-        "phu",
-        "my",
-        "phu",
-        "my",
-        "binh",
-        "dinh"
-      ],
       "province": "Tỉnh Bình Định",
-      "district": "Thị xã Phú Mỹ",
-      "ward": "Phường Phú Mỹ"
+      "district": "Huyện Phù Mỹ",
+      "ward": "Thị trấn Phù Mỹ"
     }
   },
   {
     "text": "Đô xá, Dân Lực, Triệu Sơn, Thanh Hoá.",
     "result": {
-      "text_preprocessed": [
-        "do",
-        "xa",
-        "dan",
-        "luc",
-        "trieu",
-        "son",
-        "thanh",
-        "hoa"
-      ],
       "province": "Tỉnh Thanh Hóa",
       "district": "Huyện Triệu Sơn",
       "ward": "Xã Dân Lực"
@@ -817,17 +346,6 @@
   {
     "text": "154/4/81 Nguyễn - Phúc Chu, P15, TB, TP. Hồ Chí Minh",
     "result": {
-      "text_preprocessed": [
-        "154/4/81",
-        "nguyen",
-        "phuc",
-        "chu",
-        "p15",
-        "tb",
-        "ho",
-        "chi",
-        "minh"
-      ],
       "province": "Thành phố Hồ Chí Minh",
       "district": "",
       "ward": ""
@@ -836,58 +354,22 @@
   {
     "text": "Xã Cao Dương, Huyện Thanh Oai, Thành phố Hà Nội",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "cao",
-        "duong",
-        "thanh",
-        "oai",
-        "thanh",
-        "pho",
-        "ha",
-        "noi"
-      ],
       "province": "Thành phố Hà Nội",
-      "district": "",
-      "ward": ""
+      "district": "Huyện Thanh Oai",
+      "ward": "Xã Cao Dương"
     }
   },
   {
     "text": "Tổ 8, Ấp An Bình Minh Hòa, Châu Thành, Kiên Giang",
     "result": {
-      "text_preprocessed": [
-        "to",
-        "8",
-        "ap",
-        "an",
-        "binh",
-        "minh",
-        "hoa",
-        "chau",
-        "thanh",
-        "kien",
-        "giang"
-      ],
       "province": "Tỉnh Kiên Giang",
       "district": "Huyện Châu Thành",
-      "ward": ""
+      "ward": "Xã Minh Hòa"
     }
   },
   {
     "text": "Khu vực 1 TT Đức Hòa, Đức Hòa, Long An",
     "result": {
-      "text_preprocessed": [
-        "khu",
-        "vuc",
-        "1",
-        "tt",
-        "duc",
-        "hoa",
-        "duc",
-        "hoa",
-        "long",
-        "an"
-      ],
       "province": "Tỉnh Long An",
       "district": "Huyện Đức Hòa",
       "ward": "Thị trấn Đức Hòa"
@@ -896,36 +378,14 @@
   {
     "text": "Phường Định Công, Quận Hoàng Mai, Thành phố Hà Nội",
     "result": {
-      "text_preprocessed": [
-        "phuong",
-        "dinh",
-        "cong",
-        "quan",
-        "hoang",
-        "mai",
-        "thanh",
-        "pho",
-        "ha",
-        "noi"
-      ],
       "province": "Thành phố Hà Nội",
-      "district": "",
+      "district": "Quận Hoàng Mai",
       "ward": ""
     }
   },
   {
     "text": "Khóm 1,Thị Trấn Tam Bình, Vĩnh Long",
     "result": {
-      "text_preprocessed": [
-        "khom",
-        "1",
-        "thi",
-        "tran",
-        "tam",
-        "binh",
-        "vinh",
-        "long"
-      ],
       "province": "Tỉnh Vĩnh Long",
       "district": "Huyện Tam Bình",
       "ward": ""
@@ -934,14 +394,6 @@
   {
     "text": "Mê linh Lâm hà,Lâm đồng",
     "result": {
-      "text_preprocessed": [
-        "me",
-        "linh",
-        "lam",
-        "ha",
-        "lam",
-        "dong"
-      ],
       "province": "Tỉnh Lâm Đồng",
       "district": "Huyện Lâm Hà",
       "ward": "Xã Mê Linh"
@@ -950,14 +402,6 @@
   {
     "text": "Đức Long TP. Phan Thiết, Bình Thuận",
     "result": {
-      "text_preprocessed": [
-        "duc",
-        "long",
-        "phan",
-        "thiet",
-        "binh",
-        "thuan"
-      ],
       "province": "Tỉnh Bình Thuận",
       "district": "Thành phố Phan Thiết",
       "ward": "Phường Đức Long"
@@ -966,18 +410,6 @@
   {
     "text": "Phố Đức Sơn, TT Bút Sơn, Hoằng Hoá, Thanh Hoá.",
     "result": {
-      "text_preprocessed": [
-        "pho",
-        "duc",
-        "son",
-        "tt",
-        "but",
-        "son",
-        "hoang",
-        "hoa",
-        "thanh",
-        "hoa"
-      ],
       "province": "Tỉnh Thanh Hóa",
       "district": "Huyện Hoằng Hóa",
       "ward": "Thị trấn Bút Sơn"
@@ -986,18 +418,6 @@
   {
     "text": "Tổ 1, Phú trung P.An Lộc, TX.Bình Long, Bình Phước",
     "result": {
-      "text_preprocessed": [
-        "to",
-        "1",
-        "phu",
-        "trung",
-        "pan",
-        "loc",
-        "txbinh",
-        "long",
-        "binh",
-        "phuoc"
-      ],
       "province": "Tỉnh Bình Phước",
       "district": "Thị xã Bình Long",
       "ward": "Phường An Lộc"
@@ -1006,14 +426,6 @@
   {
     "text": "Thái Hòa Huyện Thái Thụy, Thái Bình",
     "result": {
-      "text_preprocessed": [
-        "thai",
-        "hoa",
-        "thai",
-        "thuy",
-        "thai",
-        "binh"
-      ],
       "province": "Tỉnh Thái Bình",
       "district": "Huyện Thái Thụy",
       "ward": ""
@@ -1022,33 +434,14 @@
   {
     "text": "Xã Thanh Hòa, Huyện Cai Lậy, Tỉnh Tiền Giang",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "thanh",
-        "hoa",
-        "cai",
-        "lay",
-        "tien",
-        "giang"
-      ],
       "province": "Tỉnh Tiền Giang",
-      "district": "Huyện Cai Lậy",
-      "ward": ""
+      "district": "Thị xã Cai Lậy",
+      "ward": "Xã Thanh Hòa"
     }
   },
   {
     "text": "Thôn 3 Sơn Hải, Quỳnh Lưu, Nghệ An",
     "result": {
-      "text_preprocessed": [
-        "thon",
-        "3",
-        "son",
-        "hai",
-        "quynh",
-        "luu",
-        "nghe",
-        "an"
-      ],
       "province": "Tỉnh Nghệ An",
       "district": "Huyện Quỳnh Lưu",
       "ward": "Xã Sơn Hải"
@@ -1057,36 +450,14 @@
   {
     "text": "Thôn Thành Bắc, Xã Quảng Thành, TP Thanh Hoá, Thanh Hoá",
     "result": {
-      "text_preprocessed": [
-        "thon",
-        "thanh",
-        "bac",
-        "xa",
-        "quang",
-        "thanh",
-        "thanh",
-        "hoa",
-        "thanh",
-        "hoa"
-      ],
       "province": "Tỉnh Thanh Hóa",
-      "district": "Huyện Thạnh Hóa",
-      "ward": ""
+      "district": "Thành phố Thanh Hóa",
+      "ward": "Phường Quảng Thành"
     }
   },
   {
     "text": "Chùa hà, Định Trung, Vĩnh Yên Vĩnh Phúc",
     "result": {
-      "text_preprocessed": [
-        "chua",
-        "ha",
-        "dinh",
-        "trung",
-        "vinh",
-        "yen",
-        "vinh",
-        "phuc"
-      ],
       "province": "Tỉnh Vĩnh Phúc",
       "district": "Thành phố Vĩnh Yên",
       "ward": "Phường Định Trung"
@@ -1095,17 +466,6 @@
   {
     "text": "T. Phước Trạch 2 Ea Phê, Krông Păc, Đắk Lắk",
     "result": {
-      "text_preprocessed": [
-        "phuoc",
-        "trach",
-        "2",
-        "ea",
-        "phe",
-        "krong",
-        "pac",
-        "dak",
-        "lak"
-      ],
       "province": "Tỉnh Đắk Lắk",
       "district": "Huyện Krông Pắc",
       "ward": "Xã Ea Phê"
@@ -1114,15 +474,6 @@
   {
     "text": "Xã Lương Lỗ, Huyện Thanh Ba, Tỉnh Phú Thọ",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "luong",
-        "lo",
-        "thanh",
-        "ba",
-        "phu",
-        "tho"
-      ],
       "province": "Tỉnh Phú Thọ",
       "district": "Huyện Thanh Ba",
       "ward": "Xã Lương Lỗ"
@@ -1131,17 +482,6 @@
   {
     "text": "Khang Thọ Hưng Hoằng Đức, Hoằng Hóa, Thanh Hóa",
     "result": {
-      "text_preprocessed": [
-        "khang",
-        "tho",
-        "hung",
-        "hoang",
-        "duc",
-        "hoang",
-        "hoa",
-        "thanh",
-        "hoa"
-      ],
       "province": "Tỉnh Thanh Hóa",
       "district": "Huyện Hoằng Hóa",
       "ward": "Xã Hoằng Đức"
@@ -1150,14 +490,6 @@
   {
     "text": "Nam hải Nam trực - Nam định",
     "result": {
-      "text_preprocessed": [
-        "nam",
-        "hai",
-        "nam",
-        "truc",
-        "nam",
-        "dinh"
-      ],
       "province": "Tỉnh Nam Định",
       "district": "Huyện Nam Trực",
       "ward": "Xã Nam Hải"
@@ -1166,19 +498,6 @@
   {
     "text": "489/24A/18 Huỳnh Văn Bánh Phường 13, Phú Nhuận, TP. Hồ Chí Minh",
     "result": {
-      "text_preprocessed": [
-        "489/24a/18",
-        "huynh",
-        "van",
-        "banh",
-        "phuong",
-        "13",
-        "phu",
-        "nhuan",
-        "ho",
-        "chi",
-        "minh"
-      ],
       "province": "Thành phố Hồ Chí Minh",
       "district": "Quận Phú Nhuận",
       "ward": "Phường 13"
@@ -1187,20 +506,6 @@
   {
     "text": "285 B/1A Bình Gĩa Phường 8,Vũng Tàu,Bà Rịa - Vũng Tàu",
     "result": {
-      "text_preprocessed": [
-        "285",
-        "b/1a",
-        "binh",
-        "gia",
-        "phuong",
-        "8",
-        "vung",
-        "tau",
-        "ba",
-        "ria",
-        "vung",
-        "tau"
-      ],
       "province": "Tỉnh Bà Rịa - Vũng Tàu",
       "district": "Thành phố Vũng Tàu",
       "ward": "Phường 8"
@@ -1209,38 +514,14 @@
   {
     "text": "Mỹ Hòa xã Mỹ Long, H.Cai Lậy, Tiền Giang",
     "result": {
-      "text_preprocessed": [
-        "my",
-        "hoa",
-        "xa",
-        "my",
-        "long",
-        "hcai",
-        "lay",
-        "tien",
-        "giang"
-      ],
       "province": "Tỉnh Tiền Giang",
-      "district": "Huyện Cai Lậy",
+      "district": "Thị xã Cai Lậy",
       "ward": "Xã Mỹ Long"
     }
   },
   {
     "text": "Thới Hòa A Thị trấn Cờ Đỏ, Cờ Đỏ, Cần Thơ",
     "result": {
-      "text_preprocessed": [
-        "thoi",
-        "hoa",
-        "a",
-        "thi",
-        "tran",
-        "co",
-        "do",
-        "co",
-        "do",
-        "can",
-        "tho"
-      ],
       "province": "Thành phố Cần Thơ",
       "district": "Huyện Cờ Đỏ",
       "ward": "Thị trấn Cờ Đỏ"
@@ -1249,15 +530,6 @@
   {
     "text": "xã Minh Lãng, huyện Vũ Thư, tỉnh Thái Bình",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "minh",
-        "lang",
-        "vu",
-        "thu",
-        "thai",
-        "binh"
-      ],
       "province": "Tỉnh Thái Bình",
       "district": "Huyện Vũ Thư",
       "ward": "Xã Minh Lãng"
@@ -1266,16 +538,6 @@
   {
     "text": "Bộ Đầu Thống Nhất, Thường Tín, Hà Nội",
     "result": {
-      "text_preprocessed": [
-        "bo",
-        "dau",
-        "thong",
-        "nhat",
-        "thuong",
-        "tin",
-        "ha",
-        "noi"
-      ],
       "province": "Thành phố Hà Nội",
       "district": "Huyện Thường Tín",
       "ward": "Xã Thống Nhất"
@@ -1284,15 +546,6 @@
   {
     "text": "Xã Tân Bình Huyện Như Xuân, Thanh Hoá",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "tan",
-        "binh",
-        "nhu",
-        "xuan",
-        "thanh",
-        "hoa"
-      ],
       "province": "Tỉnh Thanh Hóa",
       "district": "Huyện Như Xuân",
       "ward": "Xã Tân Bình"
@@ -1301,36 +554,14 @@
   {
     "text": "Phố 2, Vân Giang Thành phố Ninh Bình, Ninh Bình",
     "result": {
-      "text_preprocessed": [
-        "pho",
-        "2",
-        "van",
-        "giang",
-        "thanh",
-        "pho",
-        "ninh",
-        "binh",
-        "ninh",
-        "binh"
-      ],
       "province": "Tỉnh Ninh Bình",
       "district": "Thành phố Ninh Bình",
-      "ward": ""
+      "ward": "Phường Vân Giang"
     }
   },
   {
     "text": "Thôn 1 Quảng Bị, Chương Mỹ, Hà Nội",
     "result": {
-      "text_preprocessed": [
-        "thon",
-        "1",
-        "quang",
-        "bi",
-        "chuong",
-        "my",
-        "ha",
-        "noi"
-      ],
       "province": "Thành phố Hà Nội",
       "district": "Huyện Chương Mỹ",
       "ward": "Xã Quảng Bị"
@@ -1339,35 +570,14 @@
   {
     "text": "Xã Tân Minh, Huyện Sóc Sơn, Thành phố Hà Nội",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "tan",
-        "minh",
-        "soc",
-        "son",
-        "thanh",
-        "pho",
-        "ha",
-        "noi"
-      ],
       "province": "Thành phố Hà Nội",
-      "district": "",
-      "ward": ""
+      "district": "Huyện Sóc Sơn",
+      "ward": "Xã Tân Minh"
     }
   },
   {
     "text": "Tổ 11 Sài Đồng, Long Biên, Hà Nội",
     "result": {
-      "text_preprocessed": [
-        "to",
-        "11",
-        "sai",
-        "dong",
-        "long",
-        "bien",
-        "ha",
-        "noi"
-      ],
       "province": "Thành phố Hà Nội",
       "district": "Quận Long Biên",
       "ward": "Phường Sài Đồng"
@@ -1376,42 +586,14 @@
   {
     "text": "4248 CT12C ĐTM K/Văn-K/Lũ Đại Kim, Hoàng Mai, Hà Nội",
     "result": {
-      "text_preprocessed": [
-        "4248",
-        "ct12c",
-        "dtm",
-        "k/van",
-        "k/lu",
-        "dai",
-        "kim",
-        "hoang",
-        "mai",
-        "ha",
-        "noi"
-      ],
       "province": "Thành phố Hà Nội",
-      "district": "Thị xã Hoàng Mai",
-      "ward": ""
+      "district": "Quận Hoàng Mai",
+      "ward": "Phường Đại Kim"
     }
   },
   {
     "text": "KP Phước Trung Thị trấn Đất Đỏ, Đất Đỏ, Bà Rịa - Vũng Tàu",
     "result": {
-      "text_preprocessed": [
-        "kp",
-        "phuoc",
-        "trung",
-        "thi",
-        "tran",
-        "dat",
-        "do",
-        "dat",
-        "do",
-        "ba",
-        "ria",
-        "vung",
-        "tau"
-      ],
       "province": "Tỉnh Bà Rịa - Vũng Tàu",
       "district": "Huyện Đất Đỏ",
       "ward": "Thị trấn Đất Đỏ"
@@ -1420,17 +602,6 @@
   {
     "text": "55/30 Nguyễn - Thượng Hiền,P5,BT, TP. Hồ Chí Minh",
     "result": {
-      "text_preprocessed": [
-        "55/30",
-        "nguyen",
-        "thuong",
-        "hien",
-        "p5",
-        "bt",
-        "ho",
-        "chi",
-        "minh"
-      ],
       "province": "Thành phố Hồ Chí Minh",
       "district": "",
       "ward": ""
@@ -1439,18 +610,6 @@
   {
     "text": "290 Tùng Thiện- Vương,P.13, Quận 8, TP. Hồ Chí Minh.",
     "result": {
-      "text_preprocessed": [
-        "290",
-        "tung",
-        "thien",
-        "vuong",
-        "p13",
-        "quan",
-        "8",
-        "ho",
-        "chi",
-        "minh"
-      ],
       "province": "Thành phố Hồ Chí Minh",
       "district": "Quận 8",
       "ward": "Phường 13"
@@ -1459,18 +618,6 @@
   {
     "text": "Tổ 5A2, KP5 TT. Trảng Bom, Trảng Bom, Đồng Nai",
     "result": {
-      "text_preprocessed": [
-        "to",
-        "5a2",
-        "kp5",
-        "tt",
-        "trang",
-        "bom",
-        "trang",
-        "bom",
-        "dong",
-        "nai"
-      ],
       "province": "Tỉnh Đồng Nai",
       "district": "Huyện Trảng Bom",
       "ward": "Thị trấn Trảng Bom"
@@ -1479,19 +626,6 @@
   {
     "text": "8 Trịnh Văn Cấn P.C-Ô-Lãnh, Q.1, TP. Hồ Chí Minh",
     "result": {
-      "text_preprocessed": [
-        "8",
-        "trinh",
-        "van",
-        "can",
-        "pc",
-        "o",
-        "lanh",
-        "q1",
-        "ho",
-        "chi",
-        "minh"
-      ],
       "province": "Thành phố Hồ Chí Minh",
       "district": "Quận 1",
       "ward": ""
@@ -1500,17 +634,6 @@
   {
     "text": "Thôn Đồng Lực Hoàng Lâu, Tam Dương, Vĩnh Phúc",
     "result": {
-      "text_preprocessed": [
-        "thon",
-        "dong",
-        "luc",
-        "hoang",
-        "lau",
-        "tam",
-        "duong",
-        "vinh",
-        "phuc"
-      ],
       "province": "Tỉnh Vĩnh Phúc",
       "district": "Huyện Tam Dương",
       "ward": "Xã Hoàng Lâu"
@@ -1519,16 +642,6 @@
   {
     "text": "Thái Hòa, Hợp Đồng Chương Mỹ, Hà Nội",
     "result": {
-      "text_preprocessed": [
-        "thai",
-        "hoa",
-        "hop",
-        "dong",
-        "chuong",
-        "my",
-        "ha",
-        "noi"
-      ],
       "province": "Thành phố Hà Nội",
       "district": "Huyện Chương Mỹ",
       "ward": "Xã Hợp Đồng"
@@ -1537,14 +650,6 @@
   {
     "text": "Đồng Trạch, Bố Trạch Quảng Bình",
     "result": {
-      "text_preprocessed": [
-        "dong",
-        "trach",
-        "bo",
-        "trach",
-        "quang",
-        "binh"
-      ],
       "province": "Tỉnh Quảng Bình",
       "district": "Huyện Bố Trạch",
       "ward": "Xã Đồng Trạch"
@@ -1553,16 +658,6 @@
   {
     "text": "Thôn Yến Thạch Xá- Thạch Thất-Hà Nội",
     "result": {
-      "text_preprocessed": [
-        "thon",
-        "yen",
-        "thach",
-        "xa",
-        "thach",
-        "that",
-        "ha",
-        "noi"
-      ],
       "province": "Thành phố Hà Nội",
       "district": "Huyện Thạch Thất",
       "ward": "Xã Thạch Xá"
@@ -1571,18 +666,6 @@
   {
     "text": "tổ 17 Cụm 3 Phú Thượng, Tây Hồ, Hà Nội",
     "result": {
-      "text_preprocessed": [
-        "to",
-        "17",
-        "cum",
-        "3",
-        "phu",
-        "thuong",
-        "tay",
-        "ho",
-        "ha",
-        "noi"
-      ],
       "province": "Thành phố Hà Nội",
       "district": "Quận Tây Hồ",
       "ward": "Phường Phú Thượng"
@@ -1591,17 +674,6 @@
   {
     "text": "Bản U Gia Huổi Luông, Phong Thổ, Lai Châu",
     "result": {
-      "text_preprocessed": [
-        "ban",
-        "u",
-        "gia",
-        "huoi",
-        "luong",
-        "phong",
-        "tho",
-        "lai",
-        "chau"
-      ],
       "province": "Tỉnh Lai Châu",
       "district": "Huyện Phong Thổ",
       "ward": "Xã Huổi Luông"
@@ -1610,45 +682,14 @@
   {
     "text": "Khu phố Nam Tân, TT Thuận Nam, Hàm Thuận Bắc, Bình Thuận.",
     "result": {
-      "text_preprocessed": [
-        "khu",
-        "pho",
-        "nam",
-        "tan",
-        "tt",
-        "thuan",
-        "nam",
-        "ham",
-        "thuan",
-        "bac",
-        "binh",
-        "thuan"
-      ],
       "province": "Tỉnh Bình Thuận",
-      "district": "Huyện Thuận Bắc",
-      "ward": ""
+      "district": "Huyện Hàm Thuận Bắc",
+      "ward": "Thị trấn Thuận Nam"
     }
   },
   {
     "text": "2 dãy C ngõ 16 Ngô Quyền, tổ 14, Quang Trung, Hà Đông, Hà Nội",
     "result": {
-      "text_preprocessed": [
-        "2",
-        "day",
-        "c",
-        "ngo",
-        "16",
-        "ngo",
-        "quyen",
-        "to",
-        "14",
-        "quang",
-        "trung",
-        "ha",
-        "dong",
-        "ha",
-        "noi"
-      ],
       "province": "Thành phố Hà Nội",
       "district": "Quận Hà Đông",
       "ward": "Phường Quang Trung"
@@ -1657,14 +698,6 @@
   {
     "text": "Sơn Hà Nho Quan, Ninh Bình",
     "result": {
-      "text_preprocessed": [
-        "son",
-        "ha",
-        "nho",
-        "quan",
-        "ninh",
-        "binh"
-      ],
       "province": "Tỉnh Ninh Bình",
       "district": "Huyện Nho Quan",
       "ward": "Xã Sơn Hà"
@@ -1673,18 +706,6 @@
   {
     "text": "3/107 Ngõ Quỳnh Thanh Nhàn, Hai Bà Trưng, Hà Nội",
     "result": {
-      "text_preprocessed": [
-        "3/107",
-        "ngo",
-        "quynh",
-        "thanh",
-        "nhan",
-        "hai",
-        "ba",
-        "trung",
-        "ha",
-        "noi"
-      ],
       "province": "Thành phố Hà Nội",
       "district": "Quận Hai Bà Trưng",
       "ward": "Phường Thanh Nhàn"
@@ -1693,16 +714,6 @@
   {
     "text": "Hàng Gòn Hàng Gòn, TX.Long Khánh, Đồng Nai",
     "result": {
-      "text_preprocessed": [
-        "hang",
-        "gon",
-        "hang",
-        "gon",
-        "txlong",
-        "khanh",
-        "dong",
-        "nai"
-      ],
       "province": "Tỉnh Đồng Nai",
       "district": "Thành phố Long Khánh",
       "ward": "Xã Hàng Gòn"
@@ -1711,32 +722,14 @@
   {
     "text": "Xã Nguyên Bình Huyện Tĩnh Gia, Thanh Hoá",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "nguyen",
-        "binh",
-        "gia",
-        "thanh",
-        "hoa"
-      ],
       "province": "Tỉnh Thanh Hóa",
-      "district": "Huyện Bình Gia",
+      "district": "",
       "ward": ""
     }
   },
   {
     "text": "Cụm 5, Ngọc Tảo, Phúc Thọ Hà Nội",
     "result": {
-      "text_preprocessed": [
-        "cum",
-        "5",
-        "ngoc",
-        "tao",
-        "phuc",
-        "tho",
-        "ha",
-        "noi"
-      ],
       "province": "Thành phố Hà Nội",
       "district": "Huyện Phúc Thọ",
       "ward": "Xã Ngọc Tảo"
@@ -1745,14 +738,6 @@
   {
     "text": "Hoằng Minh, Hoằng Hóa Thanh Hóa",
     "result": {
-      "text_preprocessed": [
-        "hoang",
-        "minh",
-        "hoang",
-        "hoa",
-        "thanh",
-        "hoa"
-      ],
       "province": "Tỉnh Thanh Hóa",
       "district": "Huyện Hoằng Hóa",
       "ward": ""
@@ -1761,17 +746,6 @@
   {
     "text": "Châu Thạnh Châu Phú A, Châu Đốc, An Giang",
     "result": {
-      "text_preprocessed": [
-        "chau",
-        "thanh",
-        "chau",
-        "phu",
-        "a",
-        "chau",
-        "doc",
-        "an",
-        "giang"
-      ],
       "province": "Tỉnh An Giang",
       "district": "Thành phố Châu Đốc",
       "ward": "Phường Châu Phú A"
@@ -1780,34 +754,14 @@
   {
     "text": "Liên Bình, Hải Bình Tĩnh Gia, Thanh Hóa",
     "result": {
-      "text_preprocessed": [
-        "lien",
-        "binh",
-        "hai",
-        "binh",
-        "gia",
-        "thanh",
-        "hoa"
-      ],
       "province": "Tỉnh Thanh Hóa",
-      "district": "Huyện Bình Gia",
+      "district": "",
       "ward": ""
     }
   },
   {
     "text": "Long Bình 1, An Hải, Ninh Phước, Ninh Thuận",
     "result": {
-      "text_preprocessed": [
-        "long",
-        "binh",
-        "1",
-        "an",
-        "hai",
-        "ninh",
-        "phuoc",
-        "ninh",
-        "thuan"
-      ],
       "province": "Tỉnh Ninh Thuận",
       "district": "Huyện Ninh Phước",
       "ward": "Xã An Hải"
@@ -1816,34 +770,14 @@
   {
     "text": "Ấp 17 Long Trung, Cai Lậy, Tiền Giang",
     "result": {
-      "text_preprocessed": [
-        "ap",
-        "17",
-        "long",
-        "trung",
-        "cai",
-        "lay",
-        "tien",
-        "giang"
-      ],
       "province": "Tỉnh Tiền Giang",
-      "district": "Huyện Cai Lậy",
+      "district": "Thị xã Cai Lậy",
       "ward": "Xã Long Trung"
     }
   },
   {
     "text": "249,KP.2,Tân mai,Biên Hòa, Đồng Nai",
     "result": {
-      "text_preprocessed": [
-        "249",
-        "kp2",
-        "tan",
-        "mai",
-        "bien",
-        "hoa",
-        "dong",
-        "nai"
-      ],
       "province": "Tỉnh Đồng Nai",
       "district": "Thành phố Biên Hòa",
       "ward": "Phường Tân Mai"
@@ -1852,14 +786,6 @@
   {
     "text": "Sơn Thủy, Lệ Thủy Quảng Bình",
     "result": {
-      "text_preprocessed": [
-        "son",
-        "thuy",
-        "le",
-        "thuy",
-        "quang",
-        "binh"
-      ],
       "province": "Tỉnh Quảng Bình",
       "district": "Huyện Lệ Thủy",
       "ward": "Xã Sơn Thủy"
@@ -1868,57 +794,22 @@
   {
     "text": "02 Tú Xương, Đông Thọ Thành phố Thanh Hóa, Thanh Hóa",
     "result": {
-      "text_preprocessed": [
-        "02",
-        "tu",
-        "xuong",
-        "dong",
-        "tho",
-        "thanh",
-        "pho",
-        "thanh",
-        "hoa",
-        "thanh",
-        "hoa"
-      ],
       "province": "Tỉnh Thanh Hóa",
-      "district": "Huyện Thạnh Hóa",
-      "ward": ""
+      "district": "Thành phố Thanh Hóa",
+      "ward": "Phường Đông Thọ"
     }
   },
   {
     "text": "Tân Trung Tân Thành, Tân Châu, Tây Ninh",
     "result": {
-      "text_preprocessed": [
-        "tan",
-        "trung",
-        "tan",
-        "thanh",
-        "tan",
-        "chau",
-        "tay",
-        "ninh"
-      ],
       "province": "Tỉnh Tây Ninh",
-      "district": "Thị xã Tân Châu",
-      "ward": "Xã Tân Thạnh"
+      "district": "Huyện Tân Châu",
+      "ward": "Xã An Thạnh"
     }
   },
   {
     "text": "Số 43/7 Nguyễn Huệ, P.Sao Đỏ, TX.Chí Linh, Hải Dương",
     "result": {
-      "text_preprocessed": [
-        "so",
-        "43/7",
-        "nguyen",
-        "hue",
-        "psao",
-        "do",
-        "txchi",
-        "linh",
-        "hai",
-        "duong"
-      ],
       "province": "Tỉnh Hải Dương",
       "district": "Thành phố Chí Linh",
       "ward": "Phường Sao Đỏ"
@@ -1927,58 +818,22 @@
   {
     "text": "24/98C, Phố Hữu Nghị Xuân Khanh, Sơn Tây, Hà Nội",
     "result": {
-      "text_preprocessed": [
-        "24/98c",
-        "pho",
-        "huu",
-        "nghi",
-        "xuan",
-        "khanh",
-        "son",
-        "tay",
-        "ha",
-        "noi"
-      ],
       "province": "Thành phố Hà Nội",
-      "district": "Huyện Sơn Tây",
-      "ward": ""
+      "district": "Thị xã Sơn Tây",
+      "ward": "Xã An Khánh"
     }
   },
   {
     "text": "Tổ 2, Khu phố 2, Phường Long Thủy, Phước Long, Bình Phước.",
     "result": {
-      "text_preprocessed": [
-        "to",
-        "2",
-        "khu",
-        "pho",
-        "2",
-        "phuong",
-        "long",
-        "thuy",
-        "phuoc",
-        "long",
-        "binh",
-        "phuoc"
-      ],
       "province": "Tỉnh Bình Phước",
-      "district": "Huyện Phước Long",
-      "ward": ""
+      "district": "Thị xã Phước Long",
+      "ward": "Phường Long Thủy"
     }
   },
   {
     "text": "Hà Tân Hưng Hà, Tân Hưng, Long An",
     "result": {
-      "text_preprocessed": [
-        "ha",
-        "tan",
-        "hung",
-        "ha",
-        "tan",
-        "hung",
-        "long",
-        "an"
-      ],
       "province": "Tỉnh Long An",
       "district": "Huyện Tân Hưng",
       "ward": "Xã Hưng Hà"
@@ -1987,16 +842,6 @@
   {
     "text": "Ngọc Chi, Vĩnh Ngọc Đông Anh, Hà Nội",
     "result": {
-      "text_preprocessed": [
-        "ngoc",
-        "chi",
-        "vinh",
-        "ngoc",
-        "dong",
-        "anh",
-        "ha",
-        "noi"
-      ],
       "province": "Thành phố Hà Nội",
       "district": "Huyện Đông Anh",
       "ward": "Xã Vĩnh Ngọc"
@@ -2005,19 +850,6 @@
   {
     "text": "55/21/1 Khu phố 2, Thới An Quận 12, TP. Hồ Chí Minh",
     "result": {
-      "text_preprocessed": [
-        "55/21/1",
-        "khu",
-        "pho",
-        "2",
-        "thoi",
-        "an",
-        "quan",
-        "12",
-        "ho",
-        "chi",
-        "minh"
-      ],
       "province": "Thành phố Hồ Chí Minh",
       "district": "Quận 12",
       "ward": "Phường Thới An"
@@ -2026,14 +858,6 @@
   {
     "text": "Thạch Bình, Thạch Thành Thanh Hóa",
     "result": {
-      "text_preprocessed": [
-        "thach",
-        "binh",
-        "thach",
-        "thanh",
-        "thanh",
-        "hoa"
-      ],
       "province": "Tỉnh Thanh Hóa",
       "district": "Huyện Thạch Thành",
       "ward": "Xã Thạch Bình"
@@ -2042,15 +866,6 @@
   {
     "text": "- Khu B Chu Hoà, Việt HhiPhú Thọ",
     "result": {
-      "text_preprocessed": [
-        "khu",
-        "b",
-        "chu",
-        "hoa",
-        "viet",
-        "hhiphu",
-        "tho"
-      ],
       "province": "Tỉnh Phú Thọ",
       "district": "",
       "ward": ""
@@ -2059,17 +874,6 @@
   {
     "text": "Thôn Am, xã Xuân Hương, Lạng Giang, Bắc Giang.",
     "result": {
-      "text_preprocessed": [
-        "thon",
-        "am",
-        "xa",
-        "xuan",
-        "huong",
-        "lang",
-        "giang",
-        "bac",
-        "giang"
-      ],
       "province": "Tỉnh Bắc Giang",
       "district": "Huyện Lạng Giang",
       "ward": "Xã Xuân Hương"
@@ -2078,19 +882,6 @@
   {
     "text": "Số 7/Q3, KPI, Phường Long Bình Tân, Tp Biên Hoà, Đồng Nai.",
     "result": {
-      "text_preprocessed": [
-        "so",
-        "7/q3",
-        "kpi",
-        "phuong",
-        "long",
-        "binh",
-        "tan",
-        "bien",
-        "hoa",
-        "dong",
-        "nai"
-      ],
       "province": "Tỉnh Đồng Nai",
       "district": "Thành phố Biên Hòa",
       "ward": "Phường Long Bình Tân"
@@ -2099,33 +890,14 @@
   {
     "text": "Khu 1, Trung Giáp, Phù Ninh, Phú Thọ.",
     "result": {
-      "text_preprocessed": [
-        "khu",
-        "1",
-        "trung",
-        "giap",
-        "phu",
-        "ninh",
-        "phu",
-        "tho"
-      ],
       "province": "Tỉnh Phú Thọ",
-      "district": "Huyện Phú Ninh",
-      "ward": ""
+      "district": "Huyện Phù Ninh",
+      "ward": "Xã Trung Giáp"
     }
   },
   {
     "text": "A:12A.21BlockA C/c BCA,P.AnKhánh,TP.Thủ Đức, TP. HCM",
     "result": {
-      "text_preprocessed": [
-        "a:12a21blocka",
-        "c/c",
-        "bca",
-        "pankhanh",
-        "tpthu",
-        "duc",
-        "hcm"
-      ],
       "province": "Thành phố Hồ Chí Minh",
       "district": "Thành phố Thủ Đức",
       "ward": "Phường An Khánh"
@@ -2134,18 +906,6 @@
   {
     "text": "L10C12 Hẻm 90, Ng, Bỉnh Khiêm, TP. Rạch Giá, Kiên Giang",
     "result": {
-      "text_preprocessed": [
-        "l10c12",
-        "hem",
-        "90",
-        "ng",
-        "binh",
-        "khiem",
-        "rach",
-        "gia",
-        "kien",
-        "giang"
-      ],
       "province": "Tỉnh Kiên Giang",
       "district": "Thành phố Rạch Giá",
       "ward": ""
@@ -2154,17 +914,6 @@
   {
     "text": "Thôn Lý Viên Bắc Lý, Hiệp Hòa, Bắc Giang",
     "result": {
-      "text_preprocessed": [
-        "thon",
-        "ly",
-        "vien",
-        "bac",
-        "ly",
-        "hiep",
-        "hoa",
-        "bac",
-        "giang"
-      ],
       "province": "Tỉnh Bắc Giang",
       "district": "Huyện Hiệp Hòa",
       "ward": "Thị trấn Bắc Lý"
@@ -2173,57 +922,22 @@
   {
     "text": "51 Phạm Ngũ Lão, Lê Lợi Sơn Tây, Hà Nội",
     "result": {
-      "text_preprocessed": [
-        "51",
-        "pham",
-        "ngu",
-        "lao",
-        "le",
-        "loi",
-        "son",
-        "tay",
-        "ha",
-        "noi"
-      ],
       "province": "Thành phố Hà Nội",
-      "district": "Huyện Sơn Tây",
-      "ward": ""
+      "district": "Thị xã Sơn Tây",
+      "ward": "Phường Lê Lợi"
     }
   },
   {
     "text": "107 Lê Sao Phú Thạnh, Tân Phú, TP. Hồ Chí Minh.",
     "result": {
-      "text_preprocessed": [
-        "107",
-        "le",
-        "sao",
-        "phu",
-        "thanh",
-        "tan",
-        "phu",
-        "ho",
-        "chi",
-        "minh"
-      ],
       "province": "Thành phố Hồ Chí Minh",
-      "district": "Huyện An Phú",
-      "ward": ""
+      "district": "Quận Tân Phú",
+      "ward": "Phường Phú Thạnh"
     }
   },
   {
     "text": "Mỹ Phú 5 Tường Lộc, Tam Bình, Vĩnh Long",
     "result": {
-      "text_preprocessed": [
-        "my",
-        "phu",
-        "5",
-        "tuong",
-        "loc",
-        "tam",
-        "binh",
-        "vinh",
-        "long"
-      ],
       "province": "Tỉnh Vĩnh Long",
       "district": "Huyện Tam Bình",
       "ward": "Xã Tường Lộc"
@@ -2232,16 +946,6 @@
   {
     "text": "Thôn Mùi, Bích Hòa Thanh Oai, Hà Nội",
     "result": {
-      "text_preprocessed": [
-        "thon",
-        "mui",
-        "bich",
-        "hoa",
-        "thanh",
-        "oai",
-        "ha",
-        "noi"
-      ],
       "province": "Thành phố Hà Nội",
       "district": "Huyện Thanh Oai",
       "ward": "Xã Bích Hòa"
@@ -2250,18 +954,6 @@
   {
     "text": "thôn 2 Suối Rao, Châu Đức, Bà Rịa - Vũng Tàu",
     "result": {
-      "text_preprocessed": [
-        "thon",
-        "2",
-        "suoi",
-        "rao",
-        "chau",
-        "duc",
-        "ba",
-        "ria",
-        "vung",
-        "tau"
-      ],
       "province": "Tỉnh Bà Rịa - Vũng Tàu",
       "district": "Huyện Châu Đức",
       "ward": "Xã Suối Rao"
@@ -2270,15 +962,6 @@
   {
     "text": "P. Minh Xuân TP. Tuyên Quang, Tuyên Quang",
     "result": {
-      "text_preprocessed": [
-        "p",
-        "minh",
-        "xuan",
-        "tuyen",
-        "quang",
-        "tuyen",
-        "quang"
-      ],
       "province": "Tỉnh Tuyên Quang",
       "district": "Thành phố Tuyên Quang",
       "ward": "Phường Minh Xuân"
@@ -2287,16 +970,6 @@
   {
     "text": "Long Bình, An Hải, Ninh Phước, Ninh Thuận",
     "result": {
-      "text_preprocessed": [
-        "long",
-        "binh",
-        "an",
-        "hai",
-        "ninh",
-        "phuoc",
-        "ninh",
-        "thuan"
-      ],
       "province": "Tỉnh Ninh Thuận",
       "district": "Huyện Ninh Phước",
       "ward": "Xã An Hải"
@@ -2305,22 +978,6 @@
   {
     "text": "14.5 Block A2, The Mansion, ĐS 7,KDC 13E,Ấp 5,PP,BC, TP.HCM",
     "result": {
-      "text_preprocessed": [
-        "145",
-        "block",
-        "a2",
-        "the",
-        "mansion",
-        "ds",
-        "7",
-        "kdc",
-        "13e",
-        "ap",
-        "5",
-        "pp",
-        "bc",
-        "tphcm"
-      ],
       "province": "Thành phố Hồ Chí Minh",
       "district": "",
       "ward": ""
@@ -2329,15 +986,6 @@
   {
     "text": "Xã Yên Sơn, Huyện Lục Nam, Tỉnh Bắc Giang",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "yen",
-        "son",
-        "luc",
-        "nam",
-        "bac",
-        "giang"
-      ],
       "province": "Tỉnh Bắc Giang",
       "district": "Huyện Lục Nam",
       "ward": "Xã Yên Sơn"
@@ -2346,18 +994,6 @@
   {
     "text": "161/18A Cô Giang, Cô Giang Quận 1, TP. Hồ Chí Minh",
     "result": {
-      "text_preprocessed": [
-        "161/18a",
-        "co",
-        "giang",
-        "co",
-        "giang",
-        "quan",
-        "1",
-        "ho",
-        "chi",
-        "minh"
-      ],
       "province": "Thành phố Hồ Chí Minh",
       "district": "Quận 1",
       "ward": "Phường Cô Giang"
@@ -2366,17 +1002,6 @@
   {
     "text": "Tân Thắng Tân An Hội, Mang Thít, Vĩnh Long",
     "result": {
-      "text_preprocessed": [
-        "tan",
-        "thang",
-        "tan",
-        "an",
-        "hoi",
-        "mang",
-        "thit",
-        "vinh",
-        "long"
-      ],
       "province": "Tỉnh Vĩnh Long",
       "district": "Huyện Mang Thít",
       "ward": "Xã Tân An Hội"
@@ -2385,16 +1010,6 @@
   {
     "text": "Thôn 6, Nam Chính, Đức Linh, Bình Thuận.",
     "result": {
-      "text_preprocessed": [
-        "thon",
-        "6",
-        "nam",
-        "chinh",
-        "duc",
-        "linh",
-        "binh",
-        "thuan"
-      ],
       "province": "Tỉnh Bình Thuận",
       "district": "Huyện Đức Linh",
       "ward": "Xã Nam Chính"
@@ -2403,18 +1018,6 @@
   {
     "text": "Phố Tân Mỹ Thị trấn Me, Gia Viễn, Ninh Bình",
     "result": {
-      "text_preprocessed": [
-        "pho",
-        "tan",
-        "my",
-        "thi",
-        "tran",
-        "me",
-        "gia",
-        "vien",
-        "ninh",
-        "binh"
-      ],
       "province": "Tỉnh Ninh Bình",
       "district": "Huyện Gia Viễn",
       "ward": "Thị trấn Me"
@@ -2423,32 +1026,14 @@
   {
     "text": "P.Phan thiết, Thị Xã Tuyên Quang, Tuyên Quang",
     "result": {
-      "text_preprocessed": [
-        "pphan",
-        "thiet",
-        "thi",
-        "xa",
-        "tuyen",
-        "quang",
-        "tuyen",
-        "quang"
-      ],
       "province": "Tỉnh Tuyên Quang",
       "district": "Thành phố Tuyên Quang",
-      "ward": ""
+      "ward": "Phường Phan Thiết"
     }
   },
   {
     "text": "Trung Môn Yên Sơn - Tuyên Quang",
     "result": {
-      "text_preprocessed": [
-        "trung",
-        "mon",
-        "yen",
-        "son",
-        "tuyen",
-        "quang"
-      ],
       "province": "Tỉnh Tuyên Quang",
       "district": "Huyện Yên Sơn",
       "ward": "Xã Trung Môn"
@@ -2457,60 +1042,22 @@
   {
     "text": "31B Sư Vạn Hạnh, Phường 3 Quận 10, TP. Hồ Chí Minh",
     "result": {
-      "text_preprocessed": [
-        "31b",
-        "su",
-        "van",
-        "hanh",
-        "phuong",
-        "3",
-        "quan",
-        "10",
-        "ho",
-        "chi",
-        "minh"
-      ],
       "province": "Thành phố Hồ Chí Minh",
       "district": "Quận 10",
-      "ward": ""
+      "ward": "Phường 03"
     }
   },
   {
     "text": "Tề Lễ Tam Nông, Phú Thọ",
     "result": {
-      "text_preprocessed": [
-        "te",
-        "le",
-        "tam",
-        "nong",
-        "phu",
-        "tho"
-      ],
       "province": "Tỉnh Phú Thọ",
       "district": "Huyện Tam Nông",
-      "ward": ""
+      "ward": "Xã Tề Lễ"
     }
   },
   {
     "text": "Số 10, Ngách 43/3, Ngõ 43 Nguyễn Ngọc Nại, Khương Mai, Thanh Xuân, Hà Nội.",
     "result": {
-      "text_preprocessed": [
-        "so",
-        "10",
-        "ngach",
-        "43/3",
-        "ngo",
-        "43",
-        "nguyen",
-        "ngoc",
-        "nai",
-        "khuong",
-        "mai",
-        "thanh",
-        "xuan",
-        "ha",
-        "noi"
-      ],
       "province": "Thành phố Hà Nội",
       "district": "Quận Thanh Xuân",
       "ward": "Phường Khương Mai"
@@ -2519,19 +1066,6 @@
   {
     "text": "191A Nguyễn Thị Định An Phú, Quận 2, Tp Hồ Chí Minh",
     "result": {
-      "text_preprocessed": [
-        "191a",
-        "nguyen",
-        "thi",
-        "dinh",
-        "an",
-        "phu",
-        "quan",
-        "2",
-        "ho",
-        "chi",
-        "minh"
-      ],
       "province": "Thành phố Hồ Chí Minh",
       "district": "",
       "ward": ""
@@ -2540,16 +1074,6 @@
   {
     "text": "Tường Ngãi Nhơn Bình,Trà Ôn, Vĩnh Long",
     "result": {
-      "text_preprocessed": [
-        "tuong",
-        "ngai",
-        "nhon",
-        "binh",
-        "tra",
-        "on",
-        "vinh",
-        "long"
-      ],
       "province": "Tỉnh Vĩnh Long",
       "district": "Huyện Trà Ôn",
       "ward": "Xã Nhơn Bình"
@@ -2558,17 +1082,6 @@
   {
     "text": "Tổ 03 Hòa Thọ Đông, Cẩm Lệ. Đà Nẵng.",
     "result": {
-      "text_preprocessed": [
-        "to",
-        "03",
-        "hoa",
-        "tho",
-        "dong",
-        "cam",
-        "le",
-        "da",
-        "nang"
-      ],
       "province": "Thành phố Đà Nẵng",
       "district": "Quận Cẩm Lệ",
       "ward": "Phường Hòa Thọ Đông"
@@ -2577,16 +1090,6 @@
   {
     "text": "Khu 5, Ngô Quyền, Vĩnh Yên Vĩnh Phúc",
     "result": {
-      "text_preprocessed": [
-        "khu",
-        "5",
-        "ngo",
-        "quyen",
-        "vinh",
-        "yen",
-        "vinh",
-        "phuc"
-      ],
       "province": "Tỉnh Vĩnh Phúc",
       "district": "Thành phố Vĩnh Yên",
       "ward": "Phường Ngô Quyền"
@@ -2595,59 +1098,22 @@
   {
     "text": "Tổ 11, Ấp Tây Kim Sơn, Châu Thành, Tiền Giang",
     "result": {
-      "text_preprocessed": [
-        "to",
-        "11",
-        "ap",
-        "tay",
-        "kim",
-        "son",
-        "chau",
-        "thanh",
-        "tien",
-        "giang"
-      ],
       "province": "Tỉnh Tiền Giang",
       "district": "Huyện Châu Thành",
-      "ward": ""
+      "ward": "Xã Kim Sơn"
     }
   },
   {
     "text": "Số 1410 Đường 30/4, Phường 12, Thành phố Vũng Tàu, Bà Rịa - Vũng Tàu.",
     "result": {
-      "text_preprocessed": [
-        "so",
-        "1410",
-        "duong",
-        "30/4",
-        "phuong",
-        "12",
-        "thanh",
-        "pho",
-        "vung",
-        "tau",
-        "ba",
-        "ria",
-        "vung",
-        "tau"
-      ],
       "province": "Tỉnh Bà Rịa - Vũng Tàu",
       "district": "Thành phố Vũng Tàu",
-      "ward": ""
+      "ward": "Phường 12"
     }
   },
   {
     "text": "F2B PhanVănTr P.5,GV,TP.Hồ Chí Minh",
     "result": {
-      "text_preprocessed": [
-        "f2b",
-        "phanvantr",
-        "p5",
-        "gv",
-        "tpho",
-        "chi",
-        "minh"
-      ],
       "province": "Thành phố Hồ Chí Minh",
       "district": "",
       "ward": ""
@@ -2656,14 +1122,6 @@
   {
     "text": "Chiêu Yên Yên Sơn, Tuyên Quang",
     "result": {
-      "text_preprocessed": [
-        "chieu",
-        "yen",
-        "yen",
-        "son",
-        "tuyen",
-        "quang"
-      ],
       "province": "Tỉnh Tuyên Quang",
       "district": "Huyện Yên Sơn",
       "ward": "Xã Chiêu Yên"
@@ -2672,17 +1130,6 @@
   {
     "text": "Ấp Thạnh Hiệp Hòa Thạnh, Tam Bình, Vĩnh Long",
     "result": {
-      "text_preprocessed": [
-        "ap",
-        "thanh",
-        "hiep",
-        "hoa",
-        "thanh",
-        "tam",
-        "binh",
-        "vinh",
-        "long"
-      ],
       "province": "Tỉnh Vĩnh Long",
       "district": "Huyện Tam Bình",
       "ward": "Xã Hòa Thạnh"
@@ -2691,16 +1138,6 @@
   {
     "text": "Phường Lê Hồng Phong Tp. Quy Nhơn, tỉnh Bình Định.",
     "result": {
-      "text_preprocessed": [
-        "phuong",
-        "le",
-        "hong",
-        "phong",
-        "quy",
-        "nhon",
-        "binh",
-        "dinh"
-      ],
       "province": "Tỉnh Bình Định",
       "district": "Thành phố Quy Nhơn",
       "ward": "Phường Lê Hồng Phong"
@@ -2709,18 +1146,6 @@
   {
     "text": "7/3/4/16 Thành Thái Phường 14, Quận 10, TP. Hồ Chí Minh",
     "result": {
-      "text_preprocessed": [
-        "7/3/4/16",
-        "thanh",
-        "thai",
-        "phuong",
-        "14",
-        "quan",
-        "10",
-        "ho",
-        "chi",
-        "minh"
-      ],
       "province": "Thành phố Hồ Chí Minh",
       "district": "Quận 10",
       "ward": "Phường 14"
@@ -2729,17 +1154,6 @@
   {
     "text": "Ấp Bùng Binh, Hưng Thuận, Trảng Bàng, Tây Ninh",
     "result": {
-      "text_preprocessed": [
-        "ap",
-        "bung",
-        "binh",
-        "hung",
-        "thuan",
-        "trang",
-        "bang",
-        "tay",
-        "ninh"
-      ],
       "province": "Tỉnh Tây Ninh",
       "district": "Thị xã Trảng Bàng",
       "ward": "Xã Hưng Thuận"
@@ -2748,16 +1162,6 @@
   {
     "text": "Quang Xá, Quang Hưng, Phù Cừ, Hưng Yên",
     "result": {
-      "text_preprocessed": [
-        "quang",
-        "xa",
-        "quang",
-        "hung",
-        "phu",
-        "cu",
-        "hung",
-        "yen"
-      ],
       "province": "Tỉnh Hưng Yên",
       "district": "Huyện Phù Cừ",
       "ward": "Xã Quang Hưng"
@@ -2766,17 +1170,6 @@
   {
     "text": "Thôn Lùng Bẻ Kim Linh, Vị Xuyên, Hà Giang",
     "result": {
-      "text_preprocessed": [
-        "thon",
-        "lung",
-        "be",
-        "kim",
-        "linh",
-        "vi",
-        "xuyen",
-        "ha",
-        "giang"
-      ],
       "province": "Tỉnh Hà Giang",
       "district": "Huyện Vị Xuyên",
       "ward": "Xã Kim Linh"
@@ -2785,15 +1178,6 @@
   {
     "text": "Xã Krông Búk Huyện Krông Păc, Đắk Lắk",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "krong",
-        "buk",
-        "krong",
-        "pac",
-        "dak",
-        "lak"
-      ],
       "province": "Tỉnh Đắk Lắk",
       "district": "Huyện Krông Pắc",
       "ward": "Xã KRông Búk"
@@ -2802,18 +1186,6 @@
   {
     "text": "820/12 Hậu Giang, Phường 12 Quận 6, TP. Hồ Chí Minh",
     "result": {
-      "text_preprocessed": [
-        "820/12",
-        "hau",
-        "giang",
-        "phuong",
-        "12",
-        "quan",
-        "6",
-        "ho",
-        "chi",
-        "minh"
-      ],
       "province": "Thành phố Hồ Chí Minh",
       "district": "Quận 6",
       "ward": "Phường 12"
@@ -2822,47 +1194,22 @@
   {
     "text": "Mỹ Hưng Hòa,Mỹ Xương,Cao Lãnh, Đồng Tháp.",
     "result": {
-      "text_preprocessed": [
-        "my",
-        "hung",
-        "hoa",
-        "my",
-        "xuong",
-        "cao",
-        "lanh",
-        "dong",
-        "thap"
-      ],
       "province": "Tỉnh Đồng Tháp",
-      "district": "Huyện Cao Lãnh",
+      "district": "Thành phố Cao Lãnh",
       "ward": "Xã Mỹ Xương"
     }
   },
   {
     "text": "Liên Minh,,TỉnhThái Nguyên",
     "result": {
-      "text_preprocessed": [
-        "lien",
-        "minh",
-        "tinhthai",
-        "nguyen"
-      ],
       "province": "Tỉnh Thái Nguyên",
-      "district": "Huyện Yên Minh",
+      "district": "",
       "ward": ""
     }
   },
   {
     "text": "X Bình Thuận H.Tây Son Tỉnh Bình Định",
     "result": {
-      "text_preprocessed": [
-        "binh",
-        "thuan",
-        "htay",
-        "son",
-        "binh",
-        "dinh"
-      ],
       "province": "Tỉnh Bình Định",
       "district": "Huyện Tây Sơn",
       "ward": "Xã Bình Thuận"
@@ -2871,12 +1218,6 @@
   {
     "text": ", Gia Viễn, T. Ninh Binh",
     "result": {
-      "text_preprocessed": [
-        "gia",
-        "vien",
-        "ninh",
-        "binh"
-      ],
       "province": "Tỉnh Ninh Bình",
       "district": "Huyện Gia Viễn",
       "ward": ""
@@ -2885,40 +1226,22 @@
   {
     "text": " Chợ Chu, , T Thái Nguyên",
     "result": {
-      "text_preprocessed": [
-        "cho",
-        "chu",
-        "thai",
-        "nguyen"
-      ],
       "province": "Tỉnh Thái Nguyên",
       "district": "",
-      "ward": ""
+      "ward": "Thị trấn Chợ Chu"
     }
   },
   {
     "text": "Hải Ba  Hải Lăng ",
     "result": {
-      "text_preprocessed": [
-        "hai",
-        "ba",
-        "hai",
-        "lang"
-      ],
       "province": "",
-      "district": "",
-      "ward": ""
+      "district": "Huyện Hải Lăng",
+      "ward": "Xã Hải Ba"
     }
   },
   {
     "text": " Huyện Cẩm Thủy Tỉnh Thanh Hóa",
     "result": {
-      "text_preprocessed": [
-        "cam",
-        "thuy",
-        "thanh",
-        "hoa"
-      ],
       "province": "Tỉnh Thanh Hóa",
       "district": "Huyện Cẩm Thủy",
       "ward": ""
@@ -2927,29 +1250,14 @@
   {
     "text": "Phường Phú Lợi  TBình Dương",
     "result": {
-      "text_preprocessed": [
-        "phuong",
-        "phu",
-        "loi",
-        "tbinh",
-        "duong"
-      ],
       "province": "Tỉnh Bình Dương",
       "district": "",
-      "ward": ""
+      "ward": "Phường Phú Lợi"
     }
   },
   {
     "text": " Tự Lạn, HuyệnViệt Yên, T Bắc Giang",
     "result": {
-      "text_preprocessed": [
-        "tu",
-        "lan",
-        "huyenviet",
-        "yen",
-        "bac",
-        "giang"
-      ],
       "province": "Tỉnh Bắc Giang",
       "district": "Huyện Việt Yên",
       "ward": "Xã Tự Lạn"
@@ -2958,14 +1266,6 @@
   {
     "text": " Bình Hiệp,H.Bình Sơn,TỉnhQuảng Ngãi",
     "result": {
-      "text_preprocessed": [
-        "binh",
-        "hiep",
-        "hbinh",
-        "son",
-        "tinhquang",
-        "ngai"
-      ],
       "province": "Tỉnh Quảng Ngãi",
       "district": "Huyện Bình Sơn",
       "ward": "Xã Bình Hiệp"
@@ -2974,14 +1274,6 @@
   {
     "text": "X. Trà Sơn,Huyện Trà Bồng,T.Quảng mNgãi",
     "result": {
-      "text_preprocessed": [
-        "tra",
-        "son",
-        "tra",
-        "bong",
-        "tquang",
-        "mngai"
-      ],
       "province": "Tỉnh Quảng Ngãi",
       "district": "Huyện Trà Bồng",
       "ward": "Xã Trà Sơn"
@@ -2990,49 +1282,22 @@
   {
     "text": "X Vĩnh Lợi, Huyện Châu Thành, Tỉnhan Giang",
     "result": {
-      "text_preprocessed": [
-        "vinh",
-        "loi",
-        "chau",
-        "thanh",
-        "tinhan",
-        "giang"
-      ],
       "province": "Tỉnh An Giang",
       "district": "Huyện Châu Thành",
-      "ward": ""
+      "ward": "Xã Vĩnh Lợi"
     }
   },
   {
     "text": "Van Điểm, H hường TLín, Thành phốHa Nội",
     "result": {
-      "text_preprocessed": [
-        "van",
-        "diem",
-        "huong",
-        "tlin",
-        "thanh",
-        "phoha",
-        "noi"
-      ],
       "province": "Thành phố Hà Nội",
-      "district": "",
+      "district": "Huyện Thường Tín",
       "ward": ""
     }
   },
   {
     "text": "Thị Trấn Yên Bình  Yên Bình T Yên Bái",
     "result": {
-      "text_preprocessed": [
-        "thi",
-        "tran",
-        "yen",
-        "binh",
-        "yen",
-        "binh",
-        "yen",
-        "bai"
-      ],
       "province": "Tỉnh Yên Bái",
       "district": "Huyện Yên Bình",
       "ward": "Thị trấn Yên Bình"
@@ -3041,14 +1306,6 @@
   {
     "text": "XThạnh Đức, HGò Dầ6u, T Tây Ninh",
     "result": {
-      "text_preprocessed": [
-        "xthanh",
-        "duc",
-        "hgo",
-        "da6u",
-        "tay",
-        "ninh"
-      ],
       "province": "Tỉnh Tây Ninh",
       "district": "Huyện Gò Dầu",
       "ward": "Xã Thạnh Đức"
@@ -3057,15 +1314,6 @@
   {
     "text": "X.Thài Phìn Tủng, Huyện ĐồGg Van,  Hà Gxiang",
     "result": {
-      "text_preprocessed": [
-        "xthai",
-        "phin",
-        "tung",
-        "dogg",
-        "van",
-        "ha",
-        "gxiang"
-      ],
       "province": "Tỉnh Hà Giang",
       "district": "Huyện Đồng Văn",
       "ward": "Xã Thài Phìn Tủng"
@@ -3074,13 +1322,6 @@
   {
     "text": "XãBù Gia Mập,,T Bình Phước",
     "result": {
-      "text_preprocessed": [
-        "xabu",
-        "gia",
-        "map",
-        "binh",
-        "phuoc"
-      ],
       "province": "Tỉnh Bình Phước",
       "district": "Huyện Bù Gia Mập",
       "ward": ""
@@ -3089,13 +1330,6 @@
   {
     "text": "Xã Mỹ Lương Yên Lập ",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "my",
-        "luong",
-        "yen",
-        "lap"
-      ],
       "province": "",
       "district": "Huyện Yên Lập",
       "ward": "Xã Mỹ Lương"
@@ -3104,12 +1338,6 @@
   {
     "text": ",H.Nqm Đàn, nghệ An",
     "result": {
-      "text_preprocessed": [
-        "hnqm",
-        "dan",
-        "nghe",
-        "an"
-      ],
       "province": "Tỉnh Nghệ An",
       "district": "Huyện Nam Đàn",
       "ward": ""
@@ -3118,12 +1346,6 @@
   {
     "text": ", H Nam Trực, Nam Đị8nh",
     "result": {
-      "text_preprocessed": [
-        "nam",
-        "truc",
-        "nam",
-        "di8nh"
-      ],
       "province": "Tỉnh Nam Định",
       "district": "Huyện Nam Trực",
       "ward": ""
@@ -3132,12 +1354,6 @@
   {
     "text": " Tam GiangNăm CănT.Cà Mau",
     "result": {
-      "text_preprocessed": [
-        "tam",
-        "giangnam",
-        "cantca",
-        "mau"
-      ],
       "province": "Tỉnh Cà Mau",
       "district": "",
       "ward": ""
@@ -3146,58 +1362,30 @@
   {
     "text": " Huyện Khánh Sơn TKhánh Hòa",
     "result": {
-      "text_preprocessed": [
-        "khanh",
-        "son",
-        "tkhanh",
-        "hoa"
-      ],
       "province": "Tỉnh Khánh Hòa",
-      "district": "Huyện Anh Sơn",
+      "district": "Huyện Khánh Sơn",
       "ward": ""
     }
   },
   {
     "text": "Xã La Dêê  Quảng Nam",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "la",
-        "dee",
-        "quang",
-        "nam"
-      ],
       "province": "Tỉnh Quảng Nam",
       "district": "",
-      "ward": ""
+      "ward": "Xã La Dêê"
     }
   },
   {
     "text": "XTân Thạnh, hAn Minh ",
     "result": {
-      "text_preprocessed": [
-        "xtan",
-        "thanh",
-        "han",
-        "minh"
-      ],
       "province": "",
-      "district": "",
-      "ward": ""
+      "district": "Huyện An Minh",
+      "ward": "Xã Tân Thạnh"
     }
   },
   {
     "text": "X Cam Bình, Thành FhốCam Rah,  Khánh Hòa",
     "result": {
-      "text_preprocessed": [
-        "cam",
-        "binh",
-        "thanh",
-        "fhocam",
-        "rah",
-        "khanh",
-        "hoa"
-      ],
       "province": "Tỉnh Khánh Hòa",
       "district": "",
       "ward": ""
@@ -3206,26 +1394,14 @@
   {
     "text": "X.UThạnh Lợi  TỉnhLong An",
     "result": {
-      "text_preprocessed": [
-        "xuthanh",
-        "loi",
-        "tinhlong",
-        "an"
-      ],
       "province": "Tỉnh Long An",
       "district": "",
-      "ward": ""
+      "ward": "Xã Thạnh Lợi"
     }
   },
   {
     "text": " Minh Tân,h.Lưng Tai,",
     "result": {
-      "text_preprocessed": [
-        "minh",
-        "tan",
-        "hlung",
-        "tai"
-      ],
       "province": "",
       "district": "",
       "ward": ""
@@ -3234,14 +1410,6 @@
   {
     "text": "XãQuỳn1 Lâm, H. Quỳnh Phụ,  Thai Bình",
     "result": {
-      "text_preprocessed": [
-        "xaquyn1",
-        "lam",
-        "quynh",
-        "phu",
-        "thai",
-        "binh"
-      ],
       "province": "Tỉnh Thái Bình",
       "district": "Huyện Quỳnh Phụ",
       "ward": ""
@@ -3250,28 +1418,14 @@
   {
     "text": "X.Nà Tấu, , T.Điện Biên",
     "result": {
-      "text_preprocessed": [
-        "xna",
-        "tau",
-        "tdien",
-        "bien"
-      ],
       "province": "Tỉnh Điện Biên",
       "district": "",
-      "ward": ""
+      "ward": "Xã Nà Tấu"
     }
   },
   {
     "text": "X.Hiep Tung Huyện Năm Căn T.Cà Mau",
     "result": {
-      "text_preprocessed": [
-        "xhiep",
-        "tung",
-        "nam",
-        "can",
-        "tca",
-        "mau"
-      ],
       "province": "Tỉnh Cà Mau",
       "district": "Huyện Năm Căn",
       "ward": "Xã Hiệp Tùng"
@@ -3280,14 +1434,6 @@
   {
     "text": "Yên Bình, H fHữu Lũng, Lạng Sơn",
     "result": {
-      "text_preprocessed": [
-        "yen",
-        "binh",
-        "fhuu",
-        "lung",
-        "lang",
-        "son"
-      ],
       "province": "Tỉnh Lạng Sơn",
       "district": "Huyện Hữu Lũng",
       "ward": "Xã Yên Bình"
@@ -3296,15 +1442,6 @@
   {
     "text": "P.tự Anm T.PhốBuôn Ma Thuột, T. Đắk Lăk",
     "result": {
-      "text_preprocessed": [
-        "ptu",
-        "anm",
-        "tphobuon",
-        "ma",
-        "thuot",
-        "dak",
-        "lak"
-      ],
       "province": "Tỉnh Đắk Lắk",
       "district": "Thành phố Buôn Ma Thuột",
       "ward": ""
@@ -3313,14 +1450,6 @@
   {
     "text": "X.Đức Bác, Sông Lô,T.Vĩnh Phúc",
     "result": {
-      "text_preprocessed": [
-        "xduc",
-        "bac",
-        "song",
-        "lo",
-        "tvinh",
-        "phuc"
-      ],
       "province": "Tỉnh Vĩnh Phúc",
       "district": "Huyện Sông Lô",
       "ward": "Xã Đức Bác"
@@ -3329,12 +1458,6 @@
   {
     "text": ", HuyệnChâu Thành, TỉnhTiền Giang",
     "result": {
-      "text_preprocessed": [
-        "huyenchau",
-        "thanh",
-        "tinhtien",
-        "giang"
-      ],
       "province": "Tỉnh Tiền Giang",
       "district": "Huyện Châu Thành",
       "ward": ""
@@ -3343,12 +1466,6 @@
   {
     "text": " H. Định Quán, Đồng Nai",
     "result": {
-      "text_preprocessed": [
-        "dinh",
-        "quan",
-        "dong",
-        "nai"
-      ],
       "province": "Tỉnh Đồng Nai",
       "district": "Huyện Định Quán",
       "ward": ""
@@ -3357,12 +1474,6 @@
   {
     "text": " tPPhổ Yên Tỉnh Thái Nguyên",
     "result": {
-      "text_preprocessed": [
-        "tppho",
-        "yen",
-        "thai",
-        "nguyen"
-      ],
       "province": "Tỉnh Thái Nguyên",
       "district": "Thành phố Phổ Yên",
       "ward": ""
@@ -3371,13 +1482,6 @@
   {
     "text": "X. Hà Hồi H. Thường Tin TPHàNội",
     "result": {
-      "text_preprocessed": [
-        "ha",
-        "hoi",
-        "thuong",
-        "tin",
-        "tphanoi"
-      ],
       "province": "Thành phố Hà Nội",
       "district": "Huyện Thường Tín",
       "ward": "Xã Hà Hồi"
@@ -3386,12 +1490,6 @@
   {
     "text": " Huyện Hiêp Hòa Bắc Giang",
     "result": {
-      "text_preprocessed": [
-        "hiep",
-        "hoa",
-        "bac",
-        "giang"
-      ],
       "province": "Tỉnh Bắc Giang",
       "district": "Huyện Hiệp Hòa",
       "ward": ""
@@ -3400,12 +1498,6 @@
   {
     "text": "  Đông Giang T Quảyg Nm",
     "result": {
-      "text_preprocessed": [
-        "dong",
-        "giang",
-        "quayg",
-        "nm"
-      ],
       "province": "",
       "district": "",
       "ward": ""
@@ -3414,28 +1506,14 @@
   {
     "text": "Sơn Thủy T Quảng Bình",
     "result": {
-      "text_preprocessed": [
-        "son",
-        "thuy",
-        "quang",
-        "binh"
-      ],
       "province": "Tỉnh Quảng Bình",
       "district": "",
-      "ward": ""
+      "ward": "Xã Sơn Thủy"
     }
   },
   {
     "text": "X. Hoằng Lưu, Hoăng Hóa, TỉnhThanh Hóa",
     "result": {
-      "text_preprocessed": [
-        "hoang",
-        "luu",
-        "hoang",
-        "hoa",
-        "tinhthanh",
-        "hoa"
-      ],
       "province": "Tỉnh Thanh Hóa",
       "district": "Huyện Hoằng Hóa",
       "ward": "Xã Hoằng Lưu"
@@ -3444,27 +1522,14 @@
   {
     "text": "Xan Tiến, H. An Lão, ",
     "result": {
-      "text_preprocessed": [
-        "xan",
-        "tien",
-        "an",
-        "lao"
-      ],
       "province": "",
-      "district": "",
-      "ward": ""
+      "district": "Huyện An Lão",
+      "ward": "Xã An Tiến"
     }
   },
   {
     "text": "XGia Hội,h.Văn Chấn,TỉnhYênKBái",
     "result": {
-      "text_preprocessed": [
-        "xgia",
-        "hoi",
-        "hvan",
-        "chan",
-        "tinhyenkbai"
-      ],
       "province": "Tỉnh Yên Bái",
       "district": "Huyện Văn Chấn",
       "ward": "Xã Gia Hội"
@@ -3473,14 +1538,6 @@
   {
     "text": " Tam Văn  xLang Chánh  Thanh Hóa",
     "result": {
-      "text_preprocessed": [
-        "tam",
-        "van",
-        "xlang",
-        "chanh",
-        "thanh",
-        "hoa"
-      ],
       "province": "Tỉnh Thanh Hóa",
       "district": "Huyện Lang Chánh",
       "ward": "Xã Tam Văn"
@@ -3489,12 +1546,6 @@
   {
     "text": "X. HoDng Quỳ,,9hanh Hóa",
     "result": {
-      "text_preprocessed": [
-        "hodng",
-        "quy",
-        "9hanh",
-        "hoa"
-      ],
       "province": "Tỉnh Thanh Hóa",
       "district": "",
       "ward": ""
@@ -3503,14 +1554,6 @@
   {
     "text": "XãBình Chau,  Bình Sơn, Tỉnh Quảng Ngãi",
     "result": {
-      "text_preprocessed": [
-        "xabinh",
-        "chau",
-        "binh",
-        "son",
-        "quang",
-        "ngai"
-      ],
       "province": "Tỉnh Quảng Ngãi",
       "district": "Huyện Bình Sơn",
       "ward": "Xã Bình Châu"
@@ -3519,26 +1562,14 @@
   {
     "text": "X.Tân Tiến,H.Đồng Phú,",
     "result": {
-      "text_preprocessed": [
-        "xtan",
-        "tien",
-        "hdong",
-        "phu"
-      ],
       "province": "",
-      "district": "",
-      "ward": ""
+      "district": "Huyện Đồng Phú",
+      "ward": "Xã Tân Tiến"
     }
   },
   {
     "text": "FHim Lam   Điện Biê",
     "result": {
-      "text_preprocessed": [
-        "fhim",
-        "lam",
-        "dien",
-        "bie"
-      ],
       "province": "",
       "district": "",
       "ward": ""
@@ -3547,31 +1578,14 @@
   {
     "text": "PHoà Quý Q.ngũ Hành sơn Đà Nẵng",
     "result": {
-      "text_preprocessed": [
-        "phoa",
-        "quy",
-        "qngu",
-        "hanh",
-        "son",
-        "da",
-        "nang"
-      ],
       "province": "Thành phố Đà Nẵng",
-      "district": "Huyện Anh Sơn",
-      "ward": ""
+      "district": "Quận Ngũ Hành Sơn",
+      "ward": "Phường Hoà Quý"
     }
   },
   {
     "text": " BảIn Sen H Mường Khương T5Lào Cai",
     "result": {
-      "text_preprocessed": [
-        "bain",
-        "sen",
-        "muong",
-        "khuong",
-        "t5lao",
-        "cai"
-      ],
       "province": "Tỉnh Lào Cai",
       "district": "Huyện Mường Khương",
       "ward": "Xã Bản Sen"
@@ -3580,14 +1594,6 @@
   {
     "text": "X Phong Quang, HKuyệnVị Xuyên, Tỉnh Hà Giang",
     "result": {
-      "text_preprocessed": [
-        "phong",
-        "quang",
-        "hkuyenvi",
-        "xuyen",
-        "ha",
-        "giang"
-      ],
       "province": "Tỉnh Hà Giang",
       "district": "Huyện Vị Xuyên",
       "ward": "Xã Phong Quang"
@@ -3596,26 +1602,14 @@
   {
     "text": "XãV Ninh, Kiên Xương,",
     "result": {
-      "text_preprocessed": [
-        "xav",
-        "ninh",
-        "kien",
-        "xuong"
-      ],
       "province": "",
-      "district": "",
+      "district": "Huyện Kiến Xương",
       "ward": ""
     }
   },
   {
     "text": " TP Biên Hòa TỉnhĐyng Nai",
     "result": {
-      "text_preprocessed": [
-        "bien",
-        "hoa",
-        "tinhdyng",
-        "nai"
-      ],
       "province": "Tỉnh Đồng Nai",
       "district": "Thành phố Biên Hòa",
       "ward": ""
@@ -3624,15 +1618,6 @@
   {
     "text": "X. Trà DVưong Bắc Trà My TQuảg Nam",
     "result": {
-      "text_preprocessed": [
-        "tra",
-        "dvuong",
-        "bac",
-        "tra",
-        "my",
-        "tquag",
-        "nam"
-      ],
       "province": "",
       "district": "",
       "ward": ""
@@ -3641,14 +1626,6 @@
   {
     "text": "X.Vĩnh thắng Gò quao T Kiên Giang",
     "result": {
-      "text_preprocessed": [
-        "xvinh",
-        "thang",
-        "go",
-        "quao",
-        "kien",
-        "giang"
-      ],
       "province": "Tỉnh Kiên Giang",
       "district": "Huyện Gò Quao",
       "ward": "Xã Vĩnh Thắng"
@@ -3657,12 +1634,6 @@
   {
     "text": " H.Bắc Mê TỉnhHà Giang",
     "result": {
-      "text_preprocessed": [
-        "hbac",
-        "me",
-        "tinhha",
-        "giang"
-      ],
       "province": "Tỉnh Hà Giang",
       "district": "Huyện Bắc Mê",
       "ward": ""
@@ -3671,29 +1642,14 @@
   {
     "text": "X.Thiết Kế,H.Bá Thước,",
     "result": {
-      "text_preprocessed": [
-        "xthiet",
-        "ke",
-        "hba",
-        "thuoc"
-      ],
       "province": "",
-      "district": "",
-      "ward": ""
+      "district": "Huyện Bá Thước",
+      "ward": "Xã Thiết Kế"
     }
   },
   {
     "text": "Phưng Khâm Thiên Quận Đ.Đa T.Phố HàNội",
     "result": {
-      "text_preprocessed": [
-        "phung",
-        "kham",
-        "thien",
-        "quan",
-        "dda",
-        "tpho",
-        "hanoi"
-      ],
       "province": "Thành phố Hà Nội",
       "district": "",
       "ward": ""
@@ -3702,12 +1658,6 @@
   {
     "text": "X Quỳnh Nuyên,,T. Thái Bình",
     "result": {
-      "text_preprocessed": [
-        "quynh",
-        "nuyen",
-        "thai",
-        "binh"
-      ],
       "province": "Tỉnh Thái Bình",
       "district": "",
       "ward": ""
@@ -3716,12 +1666,6 @@
   {
     "text": "XVnh Hung, , T.Thanh Hóa",
     "result": {
-      "text_preprocessed": [
-        "xvnh",
-        "hung",
-        "tthanh",
-        "hoa"
-      ],
       "province": "Tỉnh Thanh Hóa",
       "district": "",
       "ward": ""
@@ -3730,27 +1674,14 @@
   {
     "text": "X.Tăng Thanh, H Yên Thành, ",
     "result": {
-      "text_preprocessed": [
-        "xtang",
-        "thanh",
-        "yen",
-        "thanh"
-      ],
       "province": "",
-      "district": "",
-      "ward": ""
+      "district": "Huyện Yên Thành",
+      "ward": "Xã Tăng Thành"
     }
   },
   {
     "text": "XãTrung Lập,  Vĩnh Bảo,7 ",
     "result": {
-      "text_preprocessed": [
-        "xatrung",
-        "lap",
-        "vinh",
-        "bao",
-        "7"
-      ],
       "province": "",
       "district": "Quận 7",
       "ward": ""
@@ -3759,45 +1690,22 @@
   {
     "text": "Phường Ngoc Thụy  Thành phốHà Nội",
     "result": {
-      "text_preprocessed": [
-        "phuong",
-        "ngoc",
-        "thuy",
-        "thanh",
-        "phoha",
-        "noi"
-      ],
       "province": "Thành phố Hà Nội",
-      "district": "Huyện Như Thanh",
-      "ward": ""
+      "district": "",
+      "ward": "Phường Ngọc Thụy"
     }
   },
   {
     "text": ", Huyện Maỹ Lộc, TỉnhD Nam Định",
     "result": {
-      "text_preprocessed": [
-        "may",
-        "loc",
-        "tinhd",
-        "nam",
-        "dinh"
-      ],
       "province": "Tỉnh Nam Định",
-      "district": "",
+      "district": "Huyện Mỹ Lộc",
       "ward": ""
     }
   },
   {
     "text": "X.Yên Lạc HuyệnNhu Thanh Tỉnh Thanh Hóa",
     "result": {
-      "text_preprocessed": [
-        "xyen",
-        "lac",
-        "huyennhu",
-        "thanh",
-        "thanh",
-        "hoa"
-      ],
       "province": "Tỉnh Thanh Hóa",
       "district": "Huyện Như Thanh",
       "ward": "Xã Yên Lạc"
@@ -3806,28 +1714,14 @@
   {
     "text": "TT Qu7 Nhất,,Tỉnh Nam Định",
     "result": {
-      "text_preprocessed": [
-        "tt",
-        "qu7",
-        "nhat",
-        "nam",
-        "dinh"
-      ],
       "province": "Tỉnh Nam Định",
       "district": "",
-      "ward": ""
+      "ward": "Thị trấn Quỹ Nhất"
     }
   },
   {
     "text": "QX.Tân Hưng Tây, Ph8 Tân,",
     "result": {
-      "text_preprocessed": [
-        "qxtan",
-        "hung",
-        "tay",
-        "ph8",
-        "tan"
-      ],
       "province": "",
       "district": "",
       "ward": ""
@@ -3836,12 +1730,6 @@
   {
     "text": ", Huyện Cẩm Thủy, T.Thanh Hóca",
     "result": {
-      "text_preprocessed": [
-        "cam",
-        "thuy",
-        "tthanh",
-        "hoca"
-      ],
       "province": "Tỉnh Thanh Hóa",
       "district": "Huyện Cẩm Thủy",
       "ward": ""
@@ -3850,42 +1738,22 @@
   {
     "text": "X.Phong Dụ, , Quảng Ninh",
     "result": {
-      "text_preprocessed": [
-        "xphong",
-        "du",
-        "quang",
-        "ninh"
-      ],
       "province": "Tỉnh Quảng Ninh",
       "district": "",
-      "ward": ""
+      "ward": "Xã Phong Dụ"
     }
   },
   {
     "text": "XãPhú Hưng  TBến tre",
     "result": {
-      "text_preprocessed": [
-        "xaphu",
-        "hung",
-        "tben",
-        "tre"
-      ],
       "province": "Tỉnh Bến Tre",
       "district": "",
-      "ward": ""
+      "ward": "Xã Phú Hưng"
     }
   },
   {
     "text": "XAn Thủy Huyện Lệe Thủy TQuảng Bình",
     "result": {
-      "text_preprocessed": [
-        "xan",
-        "thuy",
-        "lee",
-        "thuy",
-        "tquang",
-        "binh"
-      ],
       "province": "Tỉnh Quảng Bình",
       "district": "Huyện Lệ Thủy",
       "ward": "Xã An Thủy"
@@ -3894,15 +1762,6 @@
   {
     "text": "XBình PhúN  Càng Long, T.u trà Vinh",
     "result": {
-      "text_preprocessed": [
-        "xbinh",
-        "phun",
-        "cang",
-        "long",
-        "tu",
-        "tra",
-        "vinh"
-      ],
       "province": "Tỉnh Trà Vinh",
       "district": "",
       "ward": ""
@@ -3911,60 +1770,30 @@
   {
     "text": "Phưong Thọ Son,T.Phố Việt Trì, Phú Thọ",
     "result": {
-      "text_preprocessed": [
-        "phuong",
-        "tho",
-        "son",
-        "tpho",
-        "viet",
-        "tri",
-        "phu",
-        "tho"
-      ],
       "province": "Tỉnh Phú Thọ",
       "district": "Thành phố Việt Trì",
-      "ward": ""
+      "ward": "Phường Thọ Sơn"
     }
   },
   {
     "text": "XHòa Bqc, HDi Linh, ",
     "result": {
-      "text_preprocessed": [
-        "xhoa",
-        "bqc",
-        "hdi",
-        "linh"
-      ],
       "province": "",
-      "district": "",
-      "ward": ""
+      "district": "Huyện Di Linh",
+      "ward": "Xã Hòa Bắc"
     }
   },
   {
     "text": " Cộng Hòa,,TỉnhHaOi Dương",
     "result": {
-      "text_preprocessed": [
-        "cong",
-        "hoa",
-        "tinhhaoi",
-        "duong"
-      ],
       "province": "Tỉnh Hải Dương",
       "district": "",
-      "ward": ""
+      "ward": "Phường Cộng Hoà"
     }
   },
   {
     "text": "Đai TanHuyện Đại ộc,TỉnhQuảng Nam",
     "result": {
-      "text_preprocessed": [
-        "dai",
-        "tanhuyen",
-        "dai",
-        "oc",
-        "tinhquang",
-        "nam"
-      ],
       "province": "Tỉnh Quảng Nam",
       "district": "",
       "ward": ""
@@ -3973,30 +1802,14 @@
   {
     "text": " HBảo Lâm 8 Cao Bằng",
     "result": {
-      "text_preprocessed": [
-        "hbao",
-        "lam",
-        "8",
-        "cao",
-        "bang"
-      ],
       "province": "Tỉnh Cao Bằng",
-      "district": "Quận 8",
+      "district": "",
       "ward": ""
     }
   },
   {
     "text": "X. Sin Suối Hồ HPhong Thổ t Lai Châu",
     "result": {
-      "text_preprocessed": [
-        "sin",
-        "suoi",
-        "ho",
-        "hphong",
-        "tho",
-        "lai",
-        "chau"
-      ],
       "province": "Tỉnh Lai Châu",
       "district": "Huyện Phong Thổ",
       "ward": "Xã Sin Suối Hồ"
@@ -4005,30 +1818,14 @@
   {
     "text": "X Sùng Phài T.P zai Châu T.Lai Châu",
     "result": {
-      "text_preprocessed": [
-        "sung",
-        "phai",
-        "zai",
-        "chau",
-        "tlai",
-        "chau"
-      ],
       "province": "Tỉnh Lai Châu",
-      "district": "Quận Hải Châu",
+      "district": "Thành phố Lai Châu",
       "ward": ""
     }
   },
   {
     "text": " An Lowng Phú Giáo TBinh Dương",
     "result": {
-      "text_preprocessed": [
-        "an",
-        "lowng",
-        "phu",
-        "giao",
-        "tbinh",
-        "duong"
-      ],
       "province": "Tỉnh Bình Dương",
       "district": "Huyện Phú Giáo",
       "ward": "Xã An Long"
@@ -4037,29 +1834,14 @@
   {
     "text": "X Tân7 Thịnh  Yiên Bái T. yên Bái",
     "result": {
-      "text_preprocessed": [
-        "tan7",
-        "thinh",
-        "yien",
-        "bai",
-        "yen",
-        "bai"
-      ],
       "province": "Tỉnh Yên Bái",
       "district": "Thành phố Yên Bái",
-      "ward": "Xã Tân Thịnh"
+      "ward": "Xã An Thịnh"
     }
   },
   {
     "text": "XKHoan Sơn,TiênDu,Tỉnhbac Ninh",
     "result": {
-      "text_preprocessed": [
-        "xkhoan",
-        "son",
-        "tiendu",
-        "tinhbac",
-        "ninh"
-      ],
       "province": "Tỉnh Bắc Ninh",
       "district": "Huyện Tiên Du",
       "ward": "Xã Hoàn Sơn"
@@ -4068,14 +1850,6 @@
   {
     "text": " Hải An  Hải Lăng TQdung trị",
     "result": {
-      "text_preprocessed": [
-        "hai",
-        "an",
-        "hai",
-        "lang",
-        "tqdung",
-        "tri"
-      ],
       "province": "",
       "district": "",
       "ward": ""
@@ -4084,12 +1858,6 @@
   {
     "text": " Tp Hà Tiên Tỉnh Kiên Giang",
     "result": {
-      "text_preprocessed": [
-        "ha",
-        "tien",
-        "kien",
-        "giang"
-      ],
       "province": "Tỉnh Kiên Giang",
       "district": "Thành phố Hà Tiên",
       "ward": ""
@@ -4098,14 +1866,6 @@
   {
     "text": "Thị trấn Hai Riêng H Sông Hinh ",
     "result": {
-      "text_preprocessed": [
-        "thi",
-        "tran",
-        "hai",
-        "rieng",
-        "song",
-        "hinh"
-      ],
       "province": "",
       "district": "Huyện Sông Hinh",
       "ward": "Thị trấn Hai Riêng"
@@ -4114,26 +1874,14 @@
   {
     "text": "X. Diễn Thành Huyện Diên Châu ",
     "result": {
-      "text_preprocessed": [
-        "dien",
-        "thanh",
-        "dien",
-        "chau"
-      ],
       "province": "",
-      "district": "",
-      "ward": ""
+      "district": "Huyện Diễn Châu",
+      "ward": "Xã Diễn Thành"
     }
   },
   {
     "text": ",Bảo Lâ.,Tỉnh Cao Bằng",
     "result": {
-      "text_preprocessed": [
-        "bao",
-        "la",
-        "cao",
-        "bang"
-      ],
       "province": "Tỉnh Cao Bằng",
       "district": "",
       "ward": ""
@@ -4142,75 +1890,38 @@
   {
     "text": "Xã thanh Vĩnh Đông, HuyệnChâu Thành, TLong An",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "thanh",
-        "vinh",
-        "dong",
-        "huyenchau",
-        "thanh",
-        "tlong",
-        "an"
-      ],
       "province": "Tỉnh Long An",
       "district": "Huyện Châu Thành",
-      "ward": ""
+      "ward": "Xã Thanh Vĩnh Đông"
     }
   },
   {
     "text": "X.Chê La,,T.Hà GianZ",
     "result": {
-      "text_preprocessed": [
-        "xche",
-        "la",
-        "tha",
-        "gianz"
-      ],
       "province": "",
-      "district": "",
+      "district": "Quận Hải An",
       "ward": ""
     }
   },
   {
     "text": "Hôno Sỹ  Tỉnh Cao Bằng",
     "result": {
-      "text_preprocessed": [
-        "hono",
-        "sy",
-        "cao",
-        "bang"
-      ],
       "province": "Tỉnh Cao Bằng",
       "district": "",
-      "ward": ""
+      "ward": "Xã Hồng Sỹ"
     }
   },
   {
     "text": "X. Hành Tín Tây  T.Quảng Ngãi",
     "result": {
-      "text_preprocessed": [
-        "hanh",
-        "tin",
-        "tay",
-        "tquang",
-        "ngai"
-      ],
       "province": "Tỉnh Quảng Ngãi",
       "district": "",
-      "ward": ""
+      "ward": "Xã Hành Tín Tây"
     }
   },
   {
     "text": "F An lac Chí Linh Tỉnh Hải Dương",
     "result": {
-      "text_preprocessed": [
-        "an",
-        "lac",
-        "chi",
-        "linh",
-        "hai",
-        "duong"
-      ],
       "province": "Tỉnh Hải Dương",
       "district": "Thành phố Chí Linh",
       "ward": "Phường An Lạc"
@@ -4219,12 +1930,6 @@
   {
     "text": ", HXuân Lộc,  Đồng Nai",
     "result": {
-      "text_preprocessed": [
-        "hxuan",
-        "loc",
-        "dong",
-        "nai"
-      ],
       "province": "Tỉnh Đồng Nai",
       "district": "Huyện Xuân Lộc",
       "ward": ""
@@ -4233,29 +1938,14 @@
   {
     "text": " Hòa Lợi,, Trà vinh",
     "result": {
-      "text_preprocessed": [
-        "hoa",
-        "loi",
-        "tra",
-        "vinh"
-      ],
       "province": "Tỉnh Trà Vinh",
       "district": "",
-      "ward": ""
+      "ward": "Xã Hòa Lợi"
     }
   },
   {
     "text": "Phường Hiệ An, T.X.Kinh Môn, TỉnhHải Dương",
     "result": {
-      "text_preprocessed": [
-        "phuong",
-        "hie",
-        "an",
-        "txkinh",
-        "mon",
-        "tinhhai",
-        "duong"
-      ],
       "province": "Tỉnh Hải Dương",
       "district": "Thị xã Kinh Môn",
       "ward": ""
@@ -4264,13 +1954,6 @@
   {
     "text": "Xã Trịnh Tường H Bát Xát ",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "trinh",
-        "tuong",
-        "bat",
-        "xat"
-      ],
       "province": "",
       "district": "Huyện Bát Xát",
       "ward": "Xã Trịnh Tường"
@@ -4279,30 +1962,14 @@
   {
     "text": "XãChiềng Mu5ng  T.stn la",
     "result": {
-      "text_preprocessed": [
-        "xachieng",
-        "mu5ng",
-        "tstn",
-        "la"
-      ],
       "province": "Tỉnh Sơn La",
       "district": "",
-      "ward": ""
+      "ward": "Xã Chiềng Mung"
     }
   },
   {
     "text": "Fmễ Trì, Nam Từ Liêm, Thành phố HN",
     "result": {
-      "text_preprocessed": [
-        "fme",
-        "tri",
-        "nam",
-        "tu",
-        "liem",
-        "thanh",
-        "pho",
-        "hn"
-      ],
       "province": "",
       "district": "",
       "ward": ""
@@ -4311,44 +1978,22 @@
   {
     "text": "P4 T.Ph9ốĐông Hà ",
     "result": {
-      "text_preprocessed": [
-        "p4",
-        "tph9odong",
-        "ha"
-      ],
+      "province": "",
+      "district": "Thành phố Đông Hà",
+      "ward": "Phường 4"
+    }
+  },
+  {
+    "text": "F. Trần Hưng Đao,Phủ Ly,TỉnhH  Nam",
+    "result": {
       "province": "",
       "district": "",
       "ward": ""
     }
   },
   {
-    "text": "F. Trần Hưng Đao,Phủ Ly,TỉnhH  Nam",
-    "result": {
-      "text_preprocessed": [
-        "tran",
-        "hung",
-        "dao",
-        "phu",
-        "ly",
-        "tinhh",
-        "nam"
-      ],
-      "province": "Tỉnh Hà Nam",
-      "district": "Thành phố Phủ Lý",
-      "ward": "Phường Trần Hưng Đạo"
-    }
-  },
-  {
     "text": "Tông Lạnh H.Thuận Chru TSơn La",
     "result": {
-      "text_preprocessed": [
-        "tong",
-        "lanh",
-        "hthuan",
-        "chru",
-        "tson",
-        "la"
-      ],
       "province": "Tỉnh Sơn La",
       "district": "",
       "ward": ""
@@ -4357,12 +2002,6 @@
   {
     "text": " T.PhôSông Công t. Thái Nguyên",
     "result": {
-      "text_preprocessed": [
-        "tphosong",
-        "cong",
-        "thai",
-        "nguyen"
-      ],
       "province": "Tỉnh Thái Nguyên",
       "district": "Thành phố Sông Công",
       "ward": ""
@@ -4371,26 +2010,14 @@
   {
     "text": "F.07, Q6, ",
     "result": {
-      "text_preprocessed": [
-        "f07",
-        "q6"
-      ],
       "province": "",
-      "district": "",
-      "ward": ""
+      "district": "Quận 6",
+      "ward": "Phường 07"
     }
   },
   {
     "text": "P.Xuân Lam, Thuận Thành, T.Bắc Ninh",
     "result": {
-      "text_preprocessed": [
-        "pxuan",
-        "lam",
-        "thuan",
-        "thanh",
-        "tbac",
-        "ninh"
-      ],
       "province": "Tỉnh Bắc Ninh",
       "district": "Thị xã Thuận Thành",
       "ward": "Phường Xuân Lâm"
@@ -4399,12 +2026,6 @@
   {
     "text": "XãĐông h KBang TGia Lai",
     "result": {
-      "text_preprocessed": [
-        "xadong",
-        "kbang",
-        "tgia",
-        "lai"
-      ],
       "province": "Tỉnh Gia Lai",
       "district": "Huyện KBang",
       "ward": "Xã Đông"
@@ -4413,13 +2034,6 @@
   {
     "text": " Long Thắng, Huyn Lai ung, ",
     "result": {
-      "text_preprocessed": [
-        "long",
-        "thang",
-        "huyn",
-        "lai",
-        "ung"
-      ],
       "province": "",
       "district": "",
       "ward": ""
@@ -4428,14 +2042,6 @@
   {
     "text": " Lưu Sơn, H. Đô Lương, Nghệ An",
     "result": {
-      "text_preprocessed": [
-        "luu",
-        "son",
-        "do",
-        "luong",
-        "nghe",
-        "an"
-      ],
       "province": "Tỉnh Nghệ An",
       "district": "Huyện Đô Lương",
       "ward": "Xã Lưu Sơn"
@@ -4444,28 +2050,14 @@
   {
     "text": " Chi Lăng,H Chi Lăng,Tỉnh Lạng5 Sơn",
     "result": {
-      "text_preprocessed": [
-        "chi",
-        "lang",
-        "chi",
-        "lang",
-        "lang5",
-        "son"
-      ],
       "province": "Tỉnh Lạng Sơn",
       "district": "Huyện Chi Lăng",
-      "ward": "Thị trấn Chi Lăng"
+      "ward": "Phường Chi Lăng"
     }
   },
   {
     "text": " Bằng Lng,,T.Bắc Kạn",
     "result": {
-      "text_preprocessed": [
-        "bang",
-        "lng",
-        "tbac",
-        "kan"
-      ],
       "province": "Tỉnh Bắc Kạn",
       "district": "",
       "ward": ""
@@ -4474,26 +2066,14 @@
   {
     "text": " Huyệntân biên T.TDy Ninh",
     "result": {
-      "text_preprocessed": [
-        "huyentan",
-        "bien",
-        "ttdy",
-        "ninh"
-      ],
       "province": "Tỉnh Tây Ninh",
-      "district": "Huyện An Biên",
+      "district": "Huyện Tân Biên",
       "ward": ""
     }
   },
   {
     "text": " HuyệnThanh Miện Tỉnh Hải Dương",
     "result": {
-      "text_preprocessed": [
-        "huyenthanh",
-        "mien",
-        "hai",
-        "duong"
-      ],
       "province": "Tỉnh Hải Dương",
       "district": "Huyện Thanh Miện",
       "ward": ""
@@ -4502,12 +2082,6 @@
   {
     "text": "X. Tân An, HuyệnThnh Hà, ",
     "result": {
-      "text_preprocessed": [
-        "tan",
-        "an",
-        "huyenthnh",
-        "ha"
-      ],
       "province": "",
       "district": "",
       "ward": ""
@@ -4516,26 +2090,14 @@
   {
     "text": "XãtrBung Thanh,,TThanh Hóa",
     "result": {
-      "text_preprocessed": [
-        "xatrbung",
-        "thanh",
-        "tthanh",
-        "hoa"
-      ],
       "province": "Tỉnh Thanh Hóa",
       "district": "",
-      "ward": ""
+      "ward": "Xã Trung Thành"
     }
   },
   {
     "text": "vĩnh Hưng, , Long An",
     "result": {
-      "text_preprocessed": [
-        "vinh",
-        "hung",
-        "long",
-        "an"
-      ],
       "province": "Tỉnh Long An",
       "district": "Huyện Vĩnh Hưng",
       "ward": ""
@@ -4544,29 +2106,14 @@
   {
     "text": "Phường 04,,Thành phốHồ Chi Minh",
     "result": {
-      "text_preprocessed": [
-        "phuong",
-        "04",
-        "thanh",
-        "phoho",
-        "chi",
-        "minh"
-      ],
       "province": "Thành phố Hồ Chí Minh",
-      "district": "",
+      "district": "Quận 4",
       "ward": ""
     }
   },
   {
     "text": "Xã Nâm Ntừ  Nậm Pồ ",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "nam",
-        "ntu",
-        "nam",
-        "po"
-      ],
       "province": "",
       "district": "Huyện Nậm Pồ",
       "ward": ""
@@ -4575,45 +2122,22 @@
   {
     "text": "X Châu Thuận7  TNghệ An",
     "result": {
-      "text_preprocessed": [
-        "chau",
-        "thuan7",
-        "tnghe",
-        "an"
-      ],
       "province": "Tỉnh Nghệ An",
-      "district": "Quận 7",
+      "district": "",
       "ward": ""
     }
   },
   {
     "text": "P.Văn Đẩu, qKiến An, ThànhMphố Hải Phòng",
     "result": {
-      "text_preprocessed": [
-        "pvan",
-        "dau",
-        "qkien",
-        "an",
-        "thanhmpho",
-        "hai",
-        "phong"
-      ],
       "province": "Thành phố Hải Phòng",
-      "district": "",
-      "ward": ""
+      "district": "Quận Kiến An",
+      "ward": "Phường Văn Đẩu"
     }
   },
   {
     "text": " Cẩm Lương HCẩm Thủa T. Thanh Hóa",
     "result": {
-      "text_preprocessed": [
-        "cam",
-        "luong",
-        "hcam",
-        "thua",
-        "thanh",
-        "hoa"
-      ],
       "province": "Tỉnh Thanh Hóa",
       "district": "",
       "ward": ""
@@ -4622,12 +2146,6 @@
   {
     "text": ",HPhú Bình, thái Nguyên",
     "result": {
-      "text_preprocessed": [
-        "hphu",
-        "binh",
-        "thai",
-        "nguyen"
-      ],
       "province": "Tỉnh Thái Nguyên",
       "district": "Huyện Phú Bình",
       "ward": ""
@@ -4636,15 +2154,6 @@
   {
     "text": "Phường Hoài Hảo,T.Xã.Hoai Nhơn,TBình Đinh",
     "result": {
-      "text_preprocessed": [
-        "phuong",
-        "hoai",
-        "hao",
-        "txahoai",
-        "nhon",
-        "tbinh",
-        "dinh"
-      ],
       "province": "Tỉnh Bình Định",
       "district": "Thị xã Hoài Nhơn",
       "ward": "Phường Hoài Hảo"
@@ -4653,14 +2162,6 @@
   {
     "text": " Hướng Hiệp  Đa Krông T Quảng TrZ",
     "result": {
-      "text_preprocessed": [
-        "huong",
-        "hiep",
-        "da",
-        "krong",
-        "quang",
-        "trz"
-      ],
       "province": "Tỉnh Quảng Trị",
       "district": "Huyện Đa Krông",
       "ward": "Xã Hướng Hiệp"
@@ -4669,16 +2170,6 @@
   {
     "text": "P Ea Tam T.P Buôn Ma Thuột TỉnĐắk Llk",
     "result": {
-      "text_preprocessed": [
-        "p",
-        "ea",
-        "tam",
-        "buon",
-        "ma",
-        "thuot",
-        "tindak",
-        "llk"
-      ],
       "province": "Tỉnh Đắk Lắk",
       "district": "Thành phố Buôn Ma Thuột",
       "ward": "Phường Ea Tam"
@@ -4687,14 +2178,6 @@
   {
     "text": "Tân An, H. Vĩnh Cửu, T Đồng Nai",
     "result": {
-      "text_preprocessed": [
-        "tan",
-        "an",
-        "vinh",
-        "cuu",
-        "dong",
-        "nai"
-      ],
       "province": "Tỉnh Đồng Nai",
       "district": "Huyện Vĩnh Cửu",
       "ward": "Xã Tân An"
@@ -4703,14 +2186,6 @@
   {
     "text": "F Tân Dân, T.Xã.Nghi Sơn, TỉnhThanh Hóa",
     "result": {
-      "text_preprocessed": [
-        "tan",
-        "dan",
-        "txanghi",
-        "son",
-        "tinhthanh",
-        "hoa"
-      ],
       "province": "Tỉnh Thanh Hóa",
       "district": "Thị xã Nghi Sơn",
       "ward": "Phường Tân Dân"
@@ -4719,27 +2194,14 @@
   {
     "text": "XNam Cát, HuyệnNam đàn, ",
     "result": {
-      "text_preprocessed": [
-        "xnam",
-        "cat",
-        "huyennam",
-        "dan"
-      ],
       "province": "",
-      "district": "",
-      "ward": ""
+      "district": "Huyện Nam Đàn",
+      "ward": "Xã Nam Cát"
     }
   },
   {
     "text": "Xã Vị Tân  Vị Than ",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "vi",
-        "tan",
-        "vi",
-        "than"
-      ],
       "province": "",
       "district": "",
       "ward": ""
@@ -4748,41 +2210,22 @@
   {
     "text": "X My Thành Bac, HuyệnCai Lậy, ",
     "result": {
-      "text_preprocessed": [
-        "my",
-        "thanh",
-        "bac",
-        "huyencai",
-        "lay"
-      ],
       "province": "",
-      "district": "Huyện Cai Lậy",
-      "ward": "Xã Mỹ Thành Bắc"
+      "district": "Thị xã Cai Lậy",
+      "ward": ""
     }
   },
   {
     "text": "XCư Drămb H.Krông Bông ",
     "result": {
-      "text_preprocessed": [
-        "xcu",
-        "dramb",
-        "hkrong",
-        "bong"
-      ],
       "province": "",
-      "district": "",
+      "district": "Huyện Krông Bông",
       "ward": ""
     }
   },
   {
     "text": "X Bình Hi, , T.Quảcg Nam",
     "result": {
-      "text_preprocessed": [
-        "binh",
-        "hi",
-        "tquacg",
-        "nam"
-      ],
       "province": "Tỉnh Quảng Nam",
       "district": "",
       "ward": ""
@@ -4791,13 +2234,6 @@
   {
     "text": "XãNân Chính, H Ly Nhân, Tỉnh HaNam",
     "result": {
-      "text_preprocessed": [
-        "xanan",
-        "chinh",
-        "ly",
-        "nhan",
-        "hanam"
-      ],
       "province": "Tỉnh Hà Nam",
       "district": "Huyện Lý Nhân",
       "ward": ""
@@ -4806,26 +2242,14 @@
   {
     "text": " Khả cửu, H. Thanh Srn, ",
     "result": {
-      "text_preprocessed": [
-        "kha",
-        "cuu",
-        "thanh",
-        "srn"
-      ],
       "province": "",
-      "district": "",
-      "ward": ""
+      "district": "Huyện Thanh Sơn",
+      "ward": "Xã Khả Cửu"
     }
   },
   {
     "text": ", Đông Hòa,Tỉnh Phú yn",
     "result": {
-      "text_preprocessed": [
-        "dong",
-        "hoa",
-        "phu",
-        "yn"
-      ],
       "province": "",
       "district": "",
       "ward": ""
@@ -4834,11 +2258,6 @@
   {
     "text": " HuyệnĐắk Tô T. KonTum",
     "result": {
-      "text_preprocessed": [
-        "huyendak",
-        "to",
-        "kontum"
-      ],
       "province": "Tỉnh Kon Tum",
       "district": "Huyện Đắk Tô",
       "ward": ""
@@ -4847,18 +2266,6 @@
   {
     "text": "Thị Trấn Nông Trường Việt lâm,Vị Xuyen,Ha Giang",
     "result": {
-      "text_preprocessed": [
-        "thi",
-        "tran",
-        "nong",
-        "truong",
-        "viet",
-        "lam",
-        "vi",
-        "xuyen",
-        "ha",
-        "giang"
-      ],
       "province": "Tỉnh Hà Giang",
       "district": "Huyện Vị Xuyên",
       "ward": "Xã Việt Lâm"
@@ -4867,12 +2274,6 @@
   {
     "text": ", Q11, Hồ Chí Minh",
     "result": {
-      "text_preprocessed": [
-        "q11",
-        "ho",
-        "chi",
-        "minh"
-      ],
       "province": "Thành phố Hồ Chí Minh",
       "district": "Quận 11",
       "ward": ""
@@ -4881,12 +2282,6 @@
   {
     "text": " H. Đăk Đoa TỉnhGia Lai",
     "result": {
-      "text_preprocessed": [
-        "dak",
-        "doa",
-        "tinhgia",
-        "lai"
-      ],
       "province": "Tỉnh Gia Lai",
       "district": "Huyện Đăk Đoa",
       "ward": ""
@@ -4895,13 +2290,6 @@
   {
     "text": "F.LoWng Binh, TpThủ Đưc, TPHCM",
     "result": {
-      "text_preprocessed": [
-        "flowng",
-        "binh",
-        "tpthu",
-        "duc",
-        "tphcm"
-      ],
       "province": "Thành phố Hồ Chí Minh",
       "district": "Thành phố Thủ Đức",
       "ward": "Phường Long Bình"
@@ -4910,13 +2298,6 @@
   {
     "text": "Xã Đông cường, h.Đông Hưng, ",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "dong",
-        "cuong",
-        "hdong",
-        "hung"
-      ],
       "province": "",
       "district": "Huyện Đông Hưng",
       "ward": "Xã Đông Cường"
@@ -4925,26 +2306,14 @@
   {
     "text": "XTrung Nghĩa, , THưng Yên",
     "result": {
-      "text_preprocessed": [
-        "xtrung",
-        "nghia",
-        "thung",
-        "yen"
-      ],
       "province": "Tỉnh Hưng Yên",
       "district": "",
-      "ward": ""
+      "ward": "Xã Trung Nghĩa"
     }
   },
   {
     "text": "  Chư Se T Gia Lai",
     "result": {
-      "text_preprocessed": [
-        "chu",
-        "se",
-        "gia",
-        "lai"
-      ],
       "province": "Tỉnh Gia Lai",
       "district": "Huyện Chư Sê",
       "ward": ""
@@ -4953,26 +2322,14 @@
   {
     "text": "X. Hải Minh,,N5am Định",
     "result": {
-      "text_preprocessed": [
-        "hai",
-        "minh",
-        "n5am",
-        "dinh"
-      ],
       "province": "Tỉnh Nam Định",
-      "district": "Huyện U Minh",
+      "district": "",
       "ward": ""
     }
   },
   {
     "text": ",HyệnĐại Lộc,TỉnhQuảng Nam",
     "result": {
-      "text_preprocessed": [
-        "hyendai",
-        "loc",
-        "tinhquang",
-        "nam"
-      ],
       "province": "Tỉnh Quảng Nam",
       "district": "Huyện Đại Lộc",
       "ward": ""
@@ -4981,14 +2338,6 @@
   {
     "text": "Bạch Lưu, H.Song Lô, Vĩnh PGhúc",
     "result": {
-      "text_preprocessed": [
-        "bach",
-        "luu",
-        "hsong",
-        "lo",
-        "vinh",
-        "pghuc"
-      ],
       "province": "Tỉnh Vĩnh Phúc",
       "district": "Huyện Sông Lô",
       "ward": "Xã Bạch Lưu"
@@ -4997,43 +2346,22 @@
   {
     "text": "X.Đề Thám  T.Lạng Sơn",
     "result": {
-      "text_preprocessed": [
-        "xde",
-        "tham",
-        "tlang",
-        "son"
-      ],
       "province": "Tỉnh Lạng Sơn",
       "district": "",
-      "ward": ""
+      "ward": "Xã Đề Thám"
     }
   },
   {
     "text": "PhườngHà Mãn, T.X.Thuận Thành, ",
     "result": {
-      "text_preprocessed": [
-        "phuongha",
-        "man",
-        "txthuan",
-        "thanh"
-      ],
       "province": "",
-      "district": "",
-      "ward": ""
+      "district": "Thị xã Thuận Thành",
+      "ward": "Phường Hà Mãn"
     }
   },
   {
     "text": "Xa Sơn Thy H. Le Thủy Tỉnh Quảng Bình",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "son",
-        "thy",
-        "le",
-        "thuy",
-        "quang",
-        "binh"
-      ],
       "province": "Tỉnh Quảng Bình",
       "district": "Huyện Lệ Thủy",
       "ward": ""
@@ -5042,14 +2370,6 @@
   {
     "text": "x. Nam Thai A, AZBiên,Tỉnh Kiên Giang",
     "result": {
-      "text_preprocessed": [
-        "nam",
-        "thai",
-        "a",
-        "azbien",
-        "kien",
-        "giang"
-      ],
       "province": "Tỉnh Kiên Giang",
       "district": "Huyện An Biên",
       "ward": "Xã Nam Thái A"
@@ -5058,16 +2378,6 @@
   {
     "text": "P. Quảng Thọ,T.P Sầm Swn,TY. thanh Hóa",
     "result": {
-      "text_preprocessed": [
-        "p",
-        "quang",
-        "tho",
-        "sam",
-        "swn",
-        "ty",
-        "thanh",
-        "hoa"
-      ],
       "province": "Tỉnh Thanh Hóa",
       "district": "",
       "ward": ""
@@ -5076,12 +2386,6 @@
   {
     "text": " Đông Htòa Phu Yên",
     "result": {
-      "text_preprocessed": [
-        "dong",
-        "htoa",
-        "phu",
-        "yen"
-      ],
       "province": "Tỉnh Phú Yên",
       "district": "Thị xã Đông Hòa",
       "ward": ""
@@ -5090,15 +2394,6 @@
   {
     "text": " Tam Amnh NZm  Núi Thành TQuảng Nam",
     "result": {
-      "text_preprocessed": [
-        "tam",
-        "amnh",
-        "nzm",
-        "nui",
-        "thanh",
-        "tquang",
-        "nam"
-      ],
       "province": "Tỉnh Quảng Nam",
       "district": "Huyện Núi Thành",
       "ward": ""
@@ -5107,31 +2402,14 @@
   {
     "text": "X Vân Du, , Phú Thọ",
     "result": {
-      "text_preprocessed": [
-        "van",
-        "du",
-        "phu",
-        "tho"
-      ],
       "province": "Tỉnh Phú Thọ",
       "district": "",
-      "ward": ""
+      "ward": "Xã Vân Du"
     }
   },
   {
     "text": "P. Phong CNốc Th,ị xãQuảng Yên t. Quảng Ninh",
     "result": {
-      "text_preprocessed": [
-        "p",
-        "phong",
-        "cnoc",
-        "th",
-        "i",
-        "xaquang",
-        "yen",
-        "quang",
-        "ninh"
-      ],
       "province": "Tỉnh Quảng Ninh",
       "district": "Thị xã Quảng Yên",
       "ward": ""
@@ -5140,28 +2418,14 @@
   {
     "text": "X.An Thuận, , TBến Tre",
     "result": {
-      "text_preprocessed": [
-        "xan",
-        "thuan",
-        "tben",
-        "tre"
-      ],
       "province": "Tỉnh Bến Tre",
       "district": "",
-      "ward": ""
+      "ward": "Xã An Thuận"
     }
   },
   {
     "text": "Nghi Sơ6n, T.X. Nghi Sơn, Thhanh Hóa",
     "result": {
-      "text_preprocessed": [
-        "nghi",
-        "so6n",
-        "nghi",
-        "son",
-        "thhanh",
-        "hoa"
-      ],
       "province": "Tỉnh Thanh Hóa",
       "district": "Thị xã Nghi Sơn",
       "ward": "Xã Nghi Sơn"
@@ -5170,11 +2434,6 @@
   {
     "text": ", ThăngFBìh,T. Quảng Nam",
     "result": {
-      "text_preprocessed": [
-        "thangfbih",
-        "quang",
-        "nam"
-      ],
       "province": "Tỉnh Quảng Nam",
       "district": "",
       "ward": ""
@@ -5183,13 +2442,6 @@
   {
     "text": "TT Đạ Tẻh, , T. Lâm Đồng",
     "result": {
-      "text_preprocessed": [
-        "tt",
-        "da",
-        "teh",
-        "lam",
-        "dong"
-      ],
       "province": "Tỉnh Lâm Đồng",
       "district": "Huyện Đạ Tẻh",
       "ward": ""
@@ -5198,29 +2450,14 @@
   {
     "text": "TT Hội An,,TAn Giang",
     "result": {
-      "text_preprocessed": [
-        "tt",
-        "hoi",
-        "an",
-        "tan",
-        "giang"
-      ],
       "province": "Tỉnh An Giang",
-      "district": "Thành phố Hội An",
+      "district": "",
       "ward": ""
     }
   },
   {
     "text": "X. TErường Thịnh,h Ứng Hòa, Hà Nội",
     "result": {
-      "text_preprocessed": [
-        "teruong",
-        "thinh",
-        "ung",
-        "hoa",
-        "ha",
-        "noi"
-      ],
       "province": "Thành phố Hà Nội",
       "district": "Huyện Ứng Hòa",
       "ward": "Xã Trường Thịnh"
@@ -5229,12 +2466,6 @@
   {
     "text": "X.H Mỗ, Đan PhTượng,",
     "result": {
-      "text_preprocessed": [
-        "xh",
-        "mo",
-        "dan",
-        "phtuong"
-      ],
       "province": "",
       "district": "",
       "ward": ""
@@ -5243,15 +2474,6 @@
   {
     "text": "Xã Tiến Nông,H Trệu Sơn,T. Thanh Hóa",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "tien",
-        "nong",
-        "treu",
-        "son",
-        "thanh",
-        "hoa"
-      ],
       "province": "Tỉnh Thanh Hóa",
       "district": "",
       "ward": ""
@@ -5260,12 +2482,6 @@
   {
     "text": ", HuyệnBình Sơn, TQuảng Ngãi",
     "result": {
-      "text_preprocessed": [
-        "huyenbinh",
-        "son",
-        "tquang",
-        "ngai"
-      ],
       "province": "Tỉnh Quảng Ngãi",
       "district": "Huyện Bình Sơn",
       "ward": ""
@@ -5274,13 +2490,6 @@
   {
     "text": "Xã Quang Tiếns6 Tân Yên, ",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "quang",
-        "tiens6",
-        "tan",
-        "yen"
-      ],
       "province": "",
       "district": "Huyện Tân Yên",
       "ward": ""
@@ -5289,16 +2498,6 @@
   {
     "text": "Thị Trấn Kẻ Sặt H.Binh giang THải Dưong",
     "result": {
-      "text_preprocessed": [
-        "thi",
-        "tran",
-        "ke",
-        "sat",
-        "hbinh",
-        "giang",
-        "thai",
-        "duong"
-      ],
       "province": "Tỉnh Hải Dương",
       "district": "Huyện Bình Giang",
       "ward": "Thị trấn Kẻ Sặt"
@@ -5307,13 +2506,6 @@
   {
     "text": "Xã Lương Hòa,HuyệnBen Lức,",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "luong",
-        "hoa",
-        "huyenben",
-        "luc"
-      ],
       "province": "",
       "district": "Huyện Bến Lức",
       "ward": "Xã Lương Hòa"
@@ -5322,74 +2514,38 @@
   {
     "text": "X.Tân Son,hchợ QMới,",
     "result": {
-      "text_preprocessed": [
-        "xtan",
-        "son",
-        "hcho",
-        "qmoi"
-      ],
       "province": "",
-      "district": "",
-      "ward": ""
+      "district": "Huyện Chợ Mới",
+      "ward": "Xã Tân Sơn"
     }
   },
   {
     "text": "Quách Phẩm Bắc, , Cà Mzu",
     "result": {
-      "text_preprocessed": [
-        "quach",
-        "pham",
-        "bac",
-        "ca",
-        "mzu"
-      ],
       "province": "Tỉnh Cà Mau",
-      "district": "Huyện Đà Bắc",
+      "district": "",
       "ward": ""
     }
   },
   {
     "text": "X Tvực Đạo, , Nam Định",
     "result": {
-      "text_preprocessed": [
-        "tvuc",
-        "dao",
-        "nam",
-        "dinh"
-      ],
       "province": "Tỉnh Nam Định",
       "district": "",
-      "ward": ""
+      "ward": "Xã Trực Đạo"
     }
   },
   {
     "text": "Thị trấn Tân Phong, , TThanh Hóa",
     "result": {
-      "text_preprocessed": [
-        "thi",
-        "tran",
-        "tan",
-        "phong",
-        "tthanh",
-        "hoa"
-      ],
       "province": "Tỉnh Thanh Hóa",
       "district": "",
-      "ward": ""
+      "ward": "Thị trấn Tân Phong"
     }
   },
   {
     "text": "X. Lộc Thah,T0P Bảo lộc,TLâm Đông",
     "result": {
-      "text_preprocessed": [
-        "loc",
-        "thah",
-        "t0p",
-        "bao",
-        "loc",
-        "tlam",
-        "dong"
-      ],
       "province": "Tỉnh Lâm Đồng",
       "district": "Thành phố Bảo Lộc",
       "ward": ""
@@ -5398,28 +2554,14 @@
   {
     "text": "X Đương Hoa  TQuảng Ninh",
     "result": {
-      "text_preprocessed": [
-        "duong",
-        "hoa",
-        "tquang",
-        "ninh"
-      ],
       "province": "Tỉnh Quảng Ninh",
       "district": "",
-      "ward": ""
+      "ward": "Xã Đường Hoa"
     }
   },
   {
     "text": "xã Vạn Kim, HuyệnMỹ Đức, T.P HNội",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "van",
-        "kim",
-        "huyenmy",
-        "duc",
-        "hnoi"
-      ],
       "province": "",
       "district": "",
       "ward": ""
@@ -5428,25 +2570,14 @@
   {
     "text": "XMiền Đồi,LaZc Sơn,",
     "result": {
-      "text_preprocessed": [
-        "xmien",
-        "doi",
-        "lazc",
-        "son"
-      ],
       "province": "",
-      "district": "",
-      "ward": ""
+      "district": "Huyện Lạc Sơn",
+      "ward": "Xã Miền Đồi"
     }
   },
   {
     "text": "X Phu Mãn   HN",
     "result": {
-      "text_preprocessed": [
-        "phu",
-        "man",
-        "hn"
-      ],
       "province": "",
       "district": "",
       "ward": ""
@@ -5455,28 +2586,14 @@
   {
     "text": " H. Hồng Ngự T Đồng Thap",
     "result": {
-      "text_preprocessed": [
-        "hong",
-        "ngu",
-        "dong",
-        "thap"
-      ],
       "province": "Tỉnh Đồng Tháp",
-      "district": "Huyện Hồng Ngự",
+      "district": "Thành phố Hồng Ngự",
       "ward": ""
     }
   },
   {
     "text": "X Mường Lèo H Sốp Cộp T Sơn ma",
     "result": {
-      "text_preprocessed": [
-        "muong",
-        "leo",
-        "sop",
-        "cop",
-        "son",
-        "ma"
-      ],
       "province": "Tỉnh Sơn La",
       "district": "Huyện Sốp Cộp",
       "ward": "Xã Mường Lèo"
@@ -5485,45 +2602,22 @@
   {
     "text": " Huyện Chợ gạo Tỉ,nh Tiền Giang",
     "result": {
-      "text_preprocessed": [
-        "cho",
-        "gao",
-        "ti",
-        "nh",
-        "tien",
-        "giang"
-      ],
       "province": "Tỉnh Tiền Giang",
-      "district": "Thành phố Hà Tĩnh",
+      "district": "",
       "ward": ""
     }
   },
   {
     "text": "Xã Tam Xuân I Huyệnúi Thành Quảng Nam",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "tam",
-        "xuan",
-        "i",
-        "huyenui",
-        "thanh",
-        "quang",
-        "nam"
-      ],
       "province": "Tỉnh Quảng Nam",
       "district": "Huyện Núi Thành",
-      "ward": "Xã Tam Xuân I"
+      "ward": ""
     }
   },
   {
     "text": ",  Mỹ Đức, HàNội",
     "result": {
-      "text_preprocessed": [
-        "my",
-        "duc",
-        "hanoi"
-      ],
       "province": "Thành phố Hà Nội",
       "district": "Huyện Mỹ Đức",
       "ward": ""
@@ -5532,13 +2626,6 @@
   {
     "text": "J,Huyệnđô Lương,Tỉnh Nghệ An",
     "result": {
-      "text_preprocessed": [
-        "j",
-        "huyendo",
-        "luong",
-        "nghe",
-        "an"
-      ],
       "province": "Tỉnh Nghệ An",
       "district": "Huyện Đô Lương",
       "ward": ""
@@ -5547,14 +2634,6 @@
   {
     "text": "XTâm Thsắng Cư Jút TỉnhĐắk Nông",
     "result": {
-      "text_preprocessed": [
-        "xtam",
-        "thsang",
-        "cu",
-        "jut",
-        "tinhdak",
-        "nong"
-      ],
       "province": "Tỉnh Đắk Nông",
       "district": "Huyện Cư Jút",
       "ward": ""
@@ -5563,14 +2642,6 @@
   {
     "text": "Tích Sơn T.Phốvinh Yên t vĩnh phúc",
     "result": {
-      "text_preprocessed": [
-        "tich",
-        "son",
-        "tphovinh",
-        "yen",
-        "vinh",
-        "phuc"
-      ],
       "province": "Tỉnh Vĩnh Phúc",
       "district": "Thành phố Vĩnh Yên",
       "ward": "Phường Tích Sơn"
@@ -5579,15 +2650,6 @@
   {
     "text": "X.Hòa Trị Huzyen hú Hoa TPhú Yên",
     "result": {
-      "text_preprocessed": [
-        "xhoa",
-        "tri",
-        "huzyen",
-        "hu",
-        "hoa",
-        "tphu",
-        "yen"
-      ],
       "province": "Tỉnh Phú Yên",
       "district": "Huyện Phú Hoà",
       "ward": "Xã Hòa Trị"
@@ -5596,41 +2658,22 @@
   {
     "text": "XLa Sơn H. Binh lục ",
     "result": {
-      "text_preprocessed": [
-        "xla",
-        "son",
-        "binh",
-        "luc"
-      ],
       "province": "",
-      "district": "",
-      "ward": ""
+      "district": "Huyện Bình Lục",
+      "ward": "Xã La Sơn"
     }
   },
   {
     "text": "F. Điện Nam Bắc, x TQuảng Nam",
     "result": {
-      "text_preprocessed": [
-        "dien",
-        "nam",
-        "bac",
-        "tquang",
-        "nam"
-      ],
       "province": "Tỉnh Quảng Nam",
-      "district": "Huyện Đà Bắc",
+      "district": "",
       "ward": ""
     }
   },
   {
     "text": ",H Krông Năng,Đắk Lắk",
     "result": {
-      "text_preprocessed": [
-        "krong",
-        "nang",
-        "dak",
-        "lak"
-      ],
       "province": "Tỉnh Đắk Lắk",
       "district": "Huyện Krông Năng",
       "ward": ""
@@ -5639,14 +2682,6 @@
   {
     "text": "X. Bok Tới H Hoài Ân  Bìh Định",
     "result": {
-      "text_preprocessed": [
-        "bok",
-        "toi",
-        "hoai",
-        "an",
-        "bih",
-        "dinh"
-      ],
       "province": "",
       "district": "",
       "ward": ""
@@ -5655,14 +2690,6 @@
   {
     "text": "XTân Nghia  Di Linh Lâm ĐồnG",
     "result": {
-      "text_preprocessed": [
-        "xtan",
-        "nghia",
-        "di",
-        "linh",
-        "lam",
-        "dong"
-      ],
       "province": "Tỉnh Lâm Đồng",
       "district": "Huyện Di Linh",
       "ward": "Xã Tân Nghĩa"
@@ -5671,26 +2698,14 @@
   {
     "text": "Bình Sa HuyệnThăng Bình ",
     "result": {
-      "text_preprocessed": [
-        "binh",
-        "sa",
-        "huyenthang",
-        "binh"
-      ],
       "province": "",
-      "district": "",
-      "ward": ""
+      "district": "Huyện Thăng Bình",
+      "ward": "Xã Bình Sa"
     }
   },
   {
     "text": ",H Bắc Son,TỉnhLạng Son",
     "result": {
-      "text_preprocessed": [
-        "bac",
-        "son",
-        "tinhlang",
-        "son"
-      ],
       "province": "Tỉnh Lạng Sơn",
       "district": "Huyện Bắc Sơn",
       "ward": ""
@@ -5699,14 +2714,6 @@
   {
     "text": "xTân Lập, H Vũ Thư, Thái bình",
     "result": {
-      "text_preprocessed": [
-        "xtan",
-        "lap",
-        "vu",
-        "thu",
-        "thai",
-        "binh"
-      ],
       "province": "Tỉnh Thái Bình",
       "district": "Huyện Vũ Thư",
       "ward": "Xã Tân Lập"
@@ -5715,70 +2722,38 @@
   {
     "text": "Tinh Nhu Huyện Thanh Sơn Tỉnh Phú Tho",
     "result": {
-      "text_preprocessed": [
-        "nhu",
-        "thanh",
-        "son",
-        "phu",
-        "tho"
-      ],
       "province": "Tỉnh Phú Thọ",
-      "district": "Huyện Anh Sơn",
+      "district": "Huyện Thanh Sơn",
       "ward": ""
     }
   },
   {
     "text": "XãGia Vượng, Gia Viễn, ",
     "result": {
-      "text_preprocessed": [
-        "xagia",
-        "vuong",
-        "gia",
-        "vien"
-      ],
       "province": "",
-      "district": "",
-      "ward": ""
+      "district": "Huyện Gia Viễn",
+      "ward": "Xã Gia Vượng"
     }
   },
   {
     "text": " Hợp đức, , Tp Hải Phòng",
     "result": {
-      "text_preprocessed": [
-        "hop",
-        "duc",
-        "hai",
-        "phong"
-      ],
       "province": "Thành phố Hải Phòng",
       "district": "",
-      "ward": ""
+      "ward": "Phường Hợp Đức"
     }
   },
   {
     "text": "Thị trấnSông Đốc, , TnhCà Mau",
     "result": {
-      "text_preprocessed": [
-        "thi",
-        "transong",
-        "doc",
-        "tnhca",
-        "mau"
-      ],
       "province": "Tỉnh Cà Mau",
       "district": "",
-      "ward": ""
+      "ward": "Thị trấn Sông Đốc"
     }
   },
   {
     "text": ",H.Trảng Bom,Đồng Nai",
     "result": {
-      "text_preprocessed": [
-        "htrang",
-        "bom",
-        "dong",
-        "nai"
-      ],
       "province": "Tỉnh Đồng Nai",
       "district": "Huyện Trảng Bom",
       "ward": ""
@@ -5787,47 +2762,22 @@
   {
     "text": "X Vĩnh Hanh, Châu Thành,An Giang",
     "result": {
-      "text_preprocessed": [
-        "vinh",
-        "hanh",
-        "chau",
-        "thanh",
-        "an",
-        "giang"
-      ],
       "province": "Tỉnh An Giang",
       "district": "Huyện Châu Thành",
-      "ward": ""
+      "ward": "Xã Vĩnh Hanh"
     }
   },
   {
     "text": "X.Yên Phong  Tỉnh Bắc Kạn",
     "result": {
-      "text_preprocessed": [
-        "xyen",
-        "phong",
-        "bac",
-        "kan"
-      ],
       "province": "Tỉnh Bắc Kạn",
-      "district": "Huyện Yên Phong",
+      "district": "",
       "ward": ""
     }
   },
   {
     "text": "P. Nhi Thu Thị xã Cửa Lò TNghệ An",
     "result": {
-      "text_preprocessed": [
-        "p",
-        "nhi",
-        "thu",
-        "thi",
-        "xa",
-        "cua",
-        "lo",
-        "tnghe",
-        "an"
-      ],
       "province": "Tỉnh Nghệ An",
       "district": "Thị xã Cửa Lò",
       "ward": ""
@@ -5836,13 +2786,6 @@
   {
     "text": "F.Dịch Vọng  C/Giấy Thành phốHàNội",
     "result": {
-      "text_preprocessed": [
-        "fdich",
-        "vong",
-        "c/giay",
-        "thanh",
-        "phohanoi"
-      ],
       "province": "Thành phố Hà Nội",
       "district": "",
       "ward": ""
@@ -5851,16 +2794,6 @@
   {
     "text": "Xã Minh thuận HuyệnU Minh Thượng TỉnhKiên Giang",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "minh",
-        "thuan",
-        "huyenu",
-        "minh",
-        "thuong",
-        "tinhkien",
-        "giang"
-      ],
       "province": "Tỉnh Kiên Giang",
       "district": "Huyện U Minh Thượng",
       "ward": "Xã Minh Thuận"
@@ -5869,27 +2802,14 @@
   {
     "text": " Ea Huar,HuyệnBuôn Đôn,",
     "result": {
-      "text_preprocessed": [
-        "ea",
-        "huar",
-        "huyenbuon",
-        "don"
-      ],
       "province": "",
-      "district": "",
-      "ward": ""
+      "district": "Huyện Buôn Đôn",
+      "ward": "Xã Ea Huar"
     }
   },
   {
     "text": "X.SRó  Kông Chro T.Gia Lai",
     "result": {
-      "text_preprocessed": [
-        "xsro",
-        "kong",
-        "chro",
-        "tgia",
-        "lai"
-      ],
       "province": "Tỉnh Gia Lai",
       "district": "Huyện Kông Chro",
       "ward": "Xã SRó"
@@ -5898,28 +2818,14 @@
   {
     "text": "X Tân Thanh Huyện Lang Giang ",
     "result": {
-      "text_preprocessed": [
-        "tan",
-        "thanh",
-        "lang",
-        "giang"
-      ],
       "province": "Tỉnh An Giang",
-      "district": "Huyện Tân Thạnh",
+      "district": "",
       "ward": ""
     }
   },
   {
     "text": "X. Sơn Hv HSơn Hoa Tỉnh Phú Yên",
     "result": {
-      "text_preprocessed": [
-        "son",
-        "hv",
-        "hson",
-        "hoa",
-        "phu",
-        "yen"
-      ],
       "province": "Tỉnh Phú Yên",
       "district": "Huyện Sơn Hòa",
       "ward": ""
@@ -5928,16 +2834,6 @@
   {
     "text": "Xã Bản My H..Hoàng Su Phì T.Hà Giang",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "ban",
-        "my",
-        "hhoang",
-        "su",
-        "phi",
-        "tha",
-        "giang"
-      ],
       "province": "Tỉnh Hà Giang",
       "district": "Huyện Hoàng Su Phì",
       "ward": ""
@@ -5946,27 +2842,14 @@
   {
     "text": "Công Hòa H.Kim Thành ",
     "result": {
-      "text_preprocessed": [
-        "cong",
-        "hoa",
-        "hkim",
-        "thanh"
-      ],
       "province": "",
-      "district": "",
-      "ward": ""
+      "district": "Huyện Kim Thành",
+      "ward": "Xã Cộng Hòa"
     }
   },
   {
     "text": "XãChơ Chun, H NamiGiang, T.Quảng Nam",
     "result": {
-      "text_preprocessed": [
-        "xacho",
-        "chun",
-        "namigiang",
-        "tquang",
-        "nam"
-      ],
       "province": "Tỉnh Quảng Nam",
       "district": "Huyện Nam Giang",
       "ward": "Xã Chơ Chun"
@@ -5975,14 +2858,6 @@
   {
     "text": "X.Vô Tranh, hLục Nam, Bắc Giang",
     "result": {
-      "text_preprocessed": [
-        "xvo",
-        "tranh",
-        "hluc",
-        "nam",
-        "bac",
-        "giang"
-      ],
       "province": "Tỉnh Bắc Giang",
       "district": "Huyện Lục Nam",
       "ward": "Xã Vô Tranh"
@@ -5991,16 +2866,6 @@
   {
     "text": "Bù Gia Map,H Bù Gia Mập,Bình Phước",
     "result": {
-      "text_preprocessed": [
-        "bu",
-        "gia",
-        "map",
-        "bu",
-        "gia",
-        "map",
-        "binh",
-        "phuoc"
-      ],
       "province": "Tỉnh Bình Phước",
       "district": "Huyện Bù Gia Mập",
       "ward": "Xã Bù Gia Mập"
@@ -6009,12 +2874,6 @@
   {
     "text": "  Quỳ Châu T.NSghệ An",
     "result": {
-      "text_preprocessed": [
-        "quy",
-        "chau",
-        "tnsghe",
-        "an"
-      ],
       "province": "Tỉnh Nghệ An",
       "district": "Huyện Quỳ Châu",
       "ward": ""
@@ -6023,12 +2882,6 @@
   {
     "text": " H.Văn Giang Tỉnh Hưng Yê0",
     "result": {
-      "text_preprocessed": [
-        "hvan",
-        "giang",
-        "hung",
-        "ye0"
-      ],
       "province": "",
       "district": "",
       "ward": ""
@@ -6037,14 +2890,6 @@
   {
     "text": "x.Ba tiêu,  Ba Tơ, Quảng Ngãi",
     "result": {
-      "text_preprocessed": [
-        "xba",
-        "tieu",
-        "ba",
-        "to",
-        "quang",
-        "ngai"
-      ],
       "province": "Tỉnh Quảng Ngãi",
       "district": "Huyện Ba Tơ",
       "ward": "Xã Ba Tiêu"
@@ -6053,15 +2898,6 @@
   {
     "text": "Xã Tân Kiên Hbình Chánh Thành phôHôChíMinh",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "tan",
-        "kien",
-        "hbinh",
-        "chanh",
-        "thanh",
-        "phohochiminh"
-      ],
       "province": "Thành phố Hồ Chí Minh",
       "district": "",
       "ward": ""
@@ -6070,12 +2906,6 @@
   {
     "text": " H.Thanh Liêm T.Ha Nam",
     "result": {
-      "text_preprocessed": [
-        "hthanh",
-        "liem",
-        "tha",
-        "nam"
-      ],
       "province": "Tỉnh Hà Nam",
       "district": "Huyện Thanh Liêm",
       "ward": ""
@@ -6084,12 +2914,6 @@
   {
     "text": "  Chí Linh  Hải Dương",
     "result": {
-      "text_preprocessed": [
-        "chi",
-        "linh",
-        "hai",
-        "duong"
-      ],
       "province": "Tỉnh Hải Dương",
       "district": "Thành phố Chí Linh",
       "ward": ""
@@ -6098,30 +2922,14 @@
   {
     "text": "X. Tam Đồng,HuyệnMê Linh,T.Phw HàNoi",
     "result": {
-      "text_preprocessed": [
-        "tam",
-        "dong",
-        "huyenme",
-        "linh",
-        "tphw",
-        "hanoi"
-      ],
       "province": "Thành phố Hà Nội",
-      "district": "",
-      "ward": ""
+      "district": "Huyện Mê Linh",
+      "ward": "Xã Tam Đồng"
     }
   },
   {
     "text": " eăn Tiến, Yên Lạc, vĩnh P0húc",
     "result": {
-      "text_preprocessed": [
-        "ean",
-        "tien",
-        "yen",
-        "lac",
-        "vinh",
-        "p0huc"
-      ],
       "province": "Tỉnh Vĩnh Phúc",
       "district": "Huyện Yên Lạc",
       "ward": ""
@@ -6130,91 +2938,46 @@
   {
     "text": "F. An Phú T.X. Tịnh Biên T.An Giang",
     "result": {
-      "text_preprocessed": [
-        "an",
-        "phu",
-        "bien",
-        "tan",
-        "giang"
-      ],
       "province": "Tỉnh An Giang",
-      "district": "",
-      "ward": ""
+      "district": "Thị xã Tịnh Biên",
+      "ward": "Thị trấn An Phú"
     }
   },
   {
     "text": "X.Cẩm Hoàng,,T. Hải Dươnwg",
     "result": {
-      "text_preprocessed": [
-        "xcam",
-        "hoang",
-        "hai",
-        "duonwg"
-      ],
       "province": "Tỉnh Hải Dương",
-      "district": "Huyện Na Hang",
+      "district": "",
       "ward": ""
     }
   },
   {
     "text": "X. Cat Chánh,HuyệnPhù Cát,",
     "result": {
-      "text_preprocessed": [
-        "cat",
-        "chanh",
-        "huyenphu",
-        "cat"
-      ],
       "province": "",
-      "district": "",
-      "ward": ""
+      "district": "Huyện Phù Cát",
+      "ward": "Xã Cát Chánh"
     }
   },
   {
     "text": " Ea Kmút,hyệnea Kar,Tỉnwh Đắk Lắk",
     "result": {
-      "text_preprocessed": [
-        "ea",
-        "kmut",
-        "hyenea",
-        "kar",
-        "tinwh",
-        "dak",
-        "lak"
-      ],
       "province": "Tỉnh Đắk Lắk",
-      "district": "Thành phố Hà Tĩnh",
-      "ward": ""
+      "district": "Huyện Ea Kar",
+      "ward": "Xã Ea Kmút"
     }
   },
   {
     "text": "Xã 7Sơn Hà HuyệnNho Quan Tinh Ninh Bình",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "7son",
-        "ha",
-        "huyennho",
-        "quan",
-        "ninh",
-        "binh"
-      ],
       "province": "Tỉnh Ninh Bình",
-      "district": "Huyện Nho Quan",
-      "ward": "Xã Sơn Hà"
+      "district": "",
+      "ward": ""
     }
   },
   {
     "text": "X.Mỹ Thạnh, HuyệnGiong Trôm, TỉnhBến Tre",
     "result": {
-      "text_preprocessed": [
-        "xmy",
-        "thanh",
-        "huyengiong",
-        "trom",
-        "tinhben",
-        "tre"
-      ],
       "province": "Tỉnh Bến Tre",
       "district": "Huyện Giồng Trôm",
       "ward": "Xã Mỹ Thạnh"
@@ -6223,15 +2986,6 @@
   {
     "text": "Xã C.hâu Minh, HHiệp Ha, TBắc Giang",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "chau",
-        "minh",
-        "hhiep",
-        "ha",
-        "tbac",
-        "giang"
-      ],
       "province": "Tỉnh Bắc Giang",
       "district": "",
       "ward": ""
@@ -6240,13 +2994,6 @@
   {
     "text": "Xthịnh Vượng,A , TG.Cao băng",
     "result": {
-      "text_preprocessed": [
-        "xthinh",
-        "vuong",
-        "a",
-        "tgcao",
-        "bang"
-      ],
       "province": "Tỉnh Cao Bằng",
       "district": "",
       "ward": ""
@@ -6255,56 +3002,30 @@
   {
     "text": "Diên Thạnh,,T Khabnh Hòa",
     "result": {
-      "text_preprocessed": [
-        "dien",
-        "thanh",
-        "khabnh",
-        "hoa"
-      ],
       "province": "Tỉnh Khánh Hòa",
-      "district": "Huyện Yên Thành",
+      "district": "",
       "ward": ""
     }
   },
   {
     "text": "X.Việt Hồng, , TrHà Giang",
     "result": {
-      "text_preprocessed": [
-        "xviet",
-        "hong",
-        "trha",
-        "giang"
-      ],
       "province": "Tỉnh Hà Giang",
       "district": "",
-      "ward": ""
+      "ward": "Xã Việt Hồng"
     }
   },
   {
     "text": "X.Đức Sơn Anh Sơn ",
     "result": {
-      "text_preprocessed": [
-        "xduc",
-        "son",
-        "anh",
-        "son"
-      ],
       "province": "",
-      "district": "",
-      "ward": ""
+      "district": "Huyện Anh Sơn",
+      "ward": "Xã Đức Sơn"
     }
   },
   {
     "text": "Đăk Nang H. Krông Nô TĐắk Nông",
     "result": {
-      "text_preprocessed": [
-        "dak",
-        "nang",
-        "krong",
-        "no",
-        "tdak",
-        "nong"
-      ],
       "province": "Tỉnh Đắk Nông",
       "district": "Huyện Krông Nô",
       "ward": "Xã Đắk Nang"
@@ -6313,30 +3034,14 @@
   {
     "text": "X.Điện Hồng,Thị xã Điện Bàn,t Quảng Nam",
     "result": {
-      "text_preprocessed": [
-        "xdien",
-        "hong",
-        "thi",
-        "xa",
-        "dien",
-        "ban",
-        "quang",
-        "nam"
-      ],
       "province": "Tỉnh Quảng Nam",
       "district": "Thị xã Điện Bàn",
-      "ward": ""
+      "ward": "Xã Điện Hồng"
     }
   },
   {
     "text": ", H Duy Xuyên, T.Quảng Nam",
     "result": {
-      "text_preprocessed": [
-        "duy",
-        "xuyen",
-        "tquang",
-        "nam"
-      ],
       "province": "Tỉnh Quảng Nam",
       "district": "Huyện Duy Xuyên",
       "ward": ""
@@ -6345,14 +3050,6 @@
   {
     "text": "Đứ Lợi,H Mộ Đức,TỉnhQuản Ngãi",
     "result": {
-      "text_preprocessed": [
-        "du",
-        "loi",
-        "mo",
-        "duc",
-        "tinhquan",
-        "ngai"
-      ],
       "province": "",
       "district": "",
       "ward": ""
@@ -6361,14 +3058,6 @@
   {
     "text": "PhườngNguyễn Trãi, T.P Kon Tum, T Kon Tum",
     "result": {
-      "text_preprocessed": [
-        "phuongnguyen",
-        "trai",
-        "kon",
-        "tum",
-        "kon",
-        "tum"
-      ],
       "province": "Tỉnh Kon Tum",
       "district": "Thành phố Kon Tum",
       "ward": "Phường Nguyễn Trãi"
@@ -6377,28 +3066,14 @@
   {
     "text": "X Song Lộc H.Châu Thành ",
     "result": {
-      "text_preprocessed": [
-        "song",
-        "loc",
-        "hchau",
-        "thanh"
-      ],
       "province": "",
-      "district": "",
+      "district": "Huyện Châu Thành",
       "ward": ""
     }
   },
   {
     "text": "Lộc Châu,TPBảo Lộc,T Lâm Đồng",
     "result": {
-      "text_preprocessed": [
-        "loc",
-        "chau",
-        "tpbao",
-        "loc",
-        "lam",
-        "dong"
-      ],
       "province": "Tỉnh Lâm Đồng",
       "district": "Thành phố Bảo Lộc",
       "ward": "Xã Lộc Châu"
@@ -6407,28 +3082,14 @@
   {
     "text": "X. Bản Nguyen,HuyệnLâm Thao,",
     "result": {
-      "text_preprocessed": [
-        "ban",
-        "nguyen",
-        "huyenlam",
-        "thao"
-      ],
       "province": "",
-      "district": "",
-      "ward": ""
+      "district": "Huyện Lâm Thao",
+      "ward": "Xã Bản Nguyên"
     }
   },
   {
     "text": "Phương Công,huyen Tiền Hải,T.Thái Bình",
     "result": {
-      "text_preprocessed": [
-        "phuong",
-        "cong",
-        "tien",
-        "hai",
-        "tthai",
-        "binh"
-      ],
       "province": "Tỉnh Thái Bình",
       "district": "Huyện Tiền Hải",
       "ward": "Xã Phương Công"
@@ -6437,30 +3098,14 @@
   {
     "text": "X Lương Nghĩa,H. Long Mỹ,T. Hậu giangg",
     "result": {
-      "text_preprocessed": [
-        "luong",
-        "nghia",
-        "long",
-        "my",
-        "hau",
-        "giangg"
-      ],
       "province": "Tỉnh Hậu Giang",
-      "district": "Thị xã Long Mỹ",
-      "ward": ""
+      "district": "Huyện Long Mỹ",
+      "ward": "Xã Lương Nghĩa"
     }
   },
   {
     "text": "X Tây Yên, H.An Biên, TKiên Giang",
     "result": {
-      "text_preprocessed": [
-        "tay",
-        "yen",
-        "han",
-        "bien",
-        "tkien",
-        "giang"
-      ],
       "province": "Tỉnh Kiên Giang",
       "district": "Huyện An Biên",
       "ward": "Xã Tây Yên"
@@ -6469,15 +3114,6 @@
   {
     "text": "Xã Kiên Thành H Trấn Yên T.yên Bi",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "kien",
-        "thanh",
-        "tran",
-        "yen",
-        "tyen",
-        "bi"
-      ],
       "province": "",
       "district": "",
       "ward": ""
@@ -6486,14 +3122,6 @@
   {
     "text": " Duy Phú,  Duy Xuyen,  Quang Nam",
     "result": {
-      "text_preprocessed": [
-        "duy",
-        "phu",
-        "duy",
-        "xuyen",
-        "quang",
-        "nam"
-      ],
       "province": "Tỉnh Quảng Nam",
       "district": "Huyện Duy Xuyên",
       "ward": "Xã Duy Phú"
@@ -6502,15 +3130,6 @@
   {
     "text": "XPhước Vĩnh Đông  Cần Giuộc T. Long An",
     "result": {
-      "text_preprocessed": [
-        "xphuoc",
-        "vinh",
-        "dong",
-        "can",
-        "giuoc",
-        "long",
-        "an"
-      ],
       "province": "Tỉnh Long An",
       "district": "Huyện Cần Giuộc",
       "ward": "Xã Phước Vĩnh Đông"
@@ -6519,14 +3138,7 @@
   {
     "text": "XThạch Xuâ,Thạch Hà,T. Hà Tĩnh",
     "result": {
-      "text_preprocessed": [
-        "xthach",
-        "xua",
-        "thach",
-        "ha",
-        "ha"
-      ],
-      "province": "",
+      "province": "Tỉnh Hà Tĩnh",
       "district": "Huyện Thạch Hà",
       "ward": ""
     }
@@ -6534,11 +3146,6 @@
   {
     "text": " Quận 1 T.P H.C.Minh",
     "result": {
-      "text_preprocessed": [
-        "quan",
-        "1",
-        "hcminh"
-      ],
       "province": "",
       "district": "",
       "ward": ""
@@ -6547,15 +3154,6 @@
   {
     "text": "Sín Chéng,HuyệnSi Ma Cai,TỉnhLào Cai",
     "result": {
-      "text_preprocessed": [
-        "sin",
-        "cheng",
-        "huyensi",
-        "ma",
-        "cai",
-        "tinhlao",
-        "cai"
-      ],
       "province": "Tỉnh Lào Cai",
       "district": "Huyện Si Ma Cai",
       "ward": "Xã Sín Chéng"
@@ -6564,42 +3162,22 @@
   {
     "text": "XDuy Hải  TQuảng Nam",
     "result": {
-      "text_preprocessed": [
-        "xduy",
-        "hai",
-        "tquang",
-        "nam"
-      ],
       "province": "Tỉnh Quảng Nam",
       "district": "",
-      "ward": ""
+      "ward": "Xã Duy Hải"
     }
   },
   {
     "text": ",H.Tuy An,Tinh Phú yên",
     "result": {
-      "text_preprocessed": [
-        "htuy",
-        "an",
-        "phu",
-        "yen"
-      ],
       "province": "Tỉnh Phú Yên",
-      "district": "Huyện Tuy An",
+      "district": "",
       "ward": ""
     }
   },
   {
     "text": "x. Văn Cẩs HuyệnHung Hà Tthái Bình",
     "result": {
-      "text_preprocessed": [
-        "van",
-        "cas",
-        "huyenhung",
-        "ha",
-        "tthai",
-        "binh"
-      ],
       "province": "Tỉnh Thái Bình",
       "district": "Huyện Hưng Hà",
       "ward": ""
@@ -6608,12 +3186,6 @@
   {
     "text": ", Mường La,  sơn La",
     "result": {
-      "text_preprocessed": [
-        "muong",
-        "la",
-        "son",
-        "la"
-      ],
       "province": "Tỉnh Sơn La",
       "district": "Huyện Mường La",
       "ward": ""
@@ -6622,16 +3194,6 @@
   {
     "text": "oã Bnh Ngọc,T.Phố Tuy Hoà,Tỉnhphú Yên",
     "result": {
-      "text_preprocessed": [
-        "oa",
-        "bnh",
-        "ngoc",
-        "tpho",
-        "tuy",
-        "hoa",
-        "tinhphu",
-        "yen"
-      ],
       "province": "Tỉnh Phú Yên",
       "district": "Thành phố Tuy Hoà",
       "ward": ""
@@ -6640,85 +3202,46 @@
   {
     "text": " Chương Dương, HuyệnĐôngHưng, ",
     "result": {
-      "text_preprocessed": [
-        "chuong",
-        "duong",
-        "huyendonghung"
-      ],
       "province": "",
-      "district": "",
-      "ward": ""
+      "district": "Huyện Đông Hưng",
+      "ward": "Xã Chương Dương"
     }
   },
   {
     "text": "Nậm Tin  Diện Biên",
     "result": {
-      "text_preprocessed": [
-        "nam",
-        "tin",
-        "dien",
-        "bien"
-      ],
       "province": "Tỉnh Điện Biên",
       "district": "",
-      "ward": ""
+      "ward": "Xã Nậm Tin"
     }
   },
   {
     "text": " T.P Phan Rang-Tháp lhàm  Ninh Thuận",
     "result": {
-      "text_preprocessed": [
-        "phan",
-        "rang",
-        "thap",
-        "lham",
-        "ninh",
-        "thuan"
-      ],
       "province": "Tỉnh Ninh Thuận",
-      "district": "",
+      "district": "Thành phố Phan Rang-Tháp Chàm",
       "ward": ""
     }
   },
   {
     "text": ", Tân Phươc, Tin GJiang",
     "result": {
-      "text_preprocessed": [
-        "tan",
-        "phuoc",
-        "tin",
-        "gjiang"
-      ],
       "province": "Tỉnh An Giang",
-      "district": "Huyện Tân Phước",
+      "district": "",
       "ward": ""
     }
   },
   {
     "text": "X An Đức, Huyên Ninh Giang, T.Hải Dương",
     "result": {
-      "text_preprocessed": [
-        "an",
-        "duc",
-        "ninh",
-        "giang",
-        "thai",
-        "duong"
-      ],
       "province": "Tỉnh Hải Dương",
       "district": "Huyện Ninh Giang",
-      "ward": "Xã An Đức"
+      "ward": ""
     }
   },
   {
     "text": "XTrung Kiên,,Tỉnh Vĩnh Phuúc",
     "result": {
-      "text_preprocessed": [
-        "xtrung",
-        "kien",
-        "vinh",
-        "phuuc"
-      ],
       "province": "Tỉnh Vĩnh Phúc",
       "district": "",
       "ward": ""
@@ -6727,14 +3250,6 @@
   {
     "text": "X. Đông Lâm2, Huyen Tiền Hải, T.Thái Bình",
     "result": {
-      "text_preprocessed": [
-        "dong",
-        "lam2",
-        "tien",
-        "hai",
-        "tthai",
-        "binh"
-      ],
       "province": "Tỉnh Thái Bình",
       "district": "Huyện Tiền Hải",
       "ward": ""
@@ -6743,12 +3258,6 @@
   {
     "text": " H. Ea Súp  Đắk Lắk",
     "result": {
-      "text_preprocessed": [
-        "ea",
-        "sup",
-        "dak",
-        "lak"
-      ],
       "province": "Tỉnh Đắk Lắk",
       "district": "Huyện Ea Súp",
       "ward": ""
@@ -6757,28 +3266,14 @@
   {
     "text": " Đức Lĩnh,Vũ Quang,",
     "result": {
-      "text_preprocessed": [
-        "duc",
-        "linh",
-        "vu",
-        "quang"
-      ],
       "province": "",
-      "district": "",
-      "ward": ""
+      "district": "Huyện Vũ Quang",
+      "ward": "Xã Đức Lĩnh"
     }
   },
   {
     "text": "XQuỳnh Hôi, Quỳnh Phụ, Thái Bình",
     "result": {
-      "text_preprocessed": [
-        "xquynh",
-        "hoi",
-        "quynh",
-        "phu",
-        "thai",
-        "binh"
-      ],
       "province": "Tỉnh Thái Bình",
       "district": "Huyện Quỳnh Phụ",
       "ward": "Xã Quỳnh Hội"
@@ -6787,45 +3282,22 @@
   {
     "text": " Yn phú, HBắc Mê, TỉnhV Hà giang",
     "result": {
-      "text_preprocessed": [
-        "yn",
-        "phu",
-        "hbac",
-        "me",
-        "tinhv",
-        "ha",
-        "giang"
-      ],
       "province": "Tỉnh Hà Giang",
-      "district": "",
+      "district": "Huyện Bắc Mê",
       "ward": ""
     }
   },
   {
     "text": "Xuân Tân t.P Long Khánh ",
     "result": {
-      "text_preprocessed": [
-        "xuan",
-        "tan",
-        "long",
-        "khanh"
-      ],
       "province": "",
-      "district": "",
-      "ward": ""
+      "district": "Thành phố Long Khánh",
+      "ward": "Phường Xuân Tân"
     }
   },
   {
     "text": "Xia Ake, HuyệnPhú Thiện, TGia Lai",
     "result": {
-      "text_preprocessed": [
-        "xia",
-        "ake",
-        "huyenphu",
-        "thien",
-        "tgia",
-        "lai"
-      ],
       "province": "Tỉnh Gia Lai",
       "district": "Huyện Phú Thiện",
       "ward": "Xã Ia Ake"
@@ -6834,30 +3306,14 @@
   {
     "text": "X.Thái Sơn, An Lão, hải Phòng",
     "result": {
-      "text_preprocessed": [
-        "xthai",
-        "son",
-        "an",
-        "lao",
-        "hai",
-        "phong"
-      ],
       "province": "Thành phố Hải Phòng",
       "district": "Huyện An Lão",
-      "ward": ""
+      "ward": "Phường Hải Sơn"
     }
   },
   {
     "text": "Xã Uar, Krông Pa, Tỉnh Gia Lai",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "uar",
-        "krong",
-        "pa",
-        "gia",
-        "lai"
-      ],
       "province": "Tỉnh Gia Lai",
       "district": "Huyện Krông Pa",
       "ward": "Xã Uar"
@@ -6866,12 +3322,6 @@
   {
     "text": " H Ea H\u0027leo T Đắk Lắk",
     "result": {
-      "text_preprocessed": [
-        "ea",
-        "h\u0027leo",
-        "dak",
-        "lak"
-      ],
       "province": "Tỉnh Đắk Lắk",
       "district": "Huyện Ea H\u0027leo",
       "ward": ""
@@ -6880,12 +3330,6 @@
   {
     "text": "Phú Đô HuyệnPhú Lươnz ",
     "result": {
-      "text_preprocessed": [
-        "phu",
-        "do",
-        "huyenphu",
-        "luonz"
-      ],
       "province": "",
       "district": "",
       "ward": ""
@@ -6894,13 +3338,6 @@
   {
     "text": " Thái Ha, HBa Vì, T.pHNội",
     "result": {
-      "text_preprocessed": [
-        "thai",
-        "ha",
-        "hba",
-        "vi",
-        "tphnoi"
-      ],
       "province": "",
       "district": "",
       "ward": ""
@@ -6909,28 +3346,14 @@
   {
     "text": "X.Phước Hiệp  Tỉnh Bến Tre",
     "result": {
-      "text_preprocessed": [
-        "xphuoc",
-        "hiep",
-        "ben",
-        "tre"
-      ],
       "province": "Tỉnh Bến Tre",
       "district": "",
-      "ward": ""
+      "ward": "Xã Phước Hiệp"
     }
   },
   {
     "text": "XHuy Hạ,  phù Yêu, T.Sơn La",
     "result": {
-      "text_preprocessed": [
-        "xhuy",
-        "ha",
-        "phu",
-        "yeu",
-        "tson",
-        "la"
-      ],
       "province": "Tỉnh Sơn La",
       "district": "",
       "ward": ""
@@ -6939,14 +3362,6 @@
   {
     "text": "TTr.Quỳnh Côi,HQuỳnh Phụ,TThai Bình",
     "result": {
-      "text_preprocessed": [
-        "ttrquynh",
-        "coi",
-        "hquynh",
-        "phu",
-        "tthai",
-        "binh"
-      ],
       "province": "Tỉnh Thái Bình",
       "district": "Huyện Quỳnh Phụ",
       "ward": "Thị trấn Quỳnh Côi"
@@ -6955,11 +3370,6 @@
   {
     "text": ", Nam Đông,T. T.T.H",
     "result": {
-      "text_preprocessed": [
-        "nam",
-        "dong",
-        "tth"
-      ],
       "province": "Tỉnh Thừa Thiên Huế",
       "district": "Huyện Nam Đông",
       "ward": ""
@@ -6968,14 +3378,6 @@
   {
     "text": " Cam Nhân HuyệnYên Bình TYên Bái",
     "result": {
-      "text_preprocessed": [
-        "cam",
-        "nhan",
-        "huyenyen",
-        "binh",
-        "tyen",
-        "bai"
-      ],
       "province": "Tỉnh Yên Bái",
       "district": "Huyện Yên Bình",
       "ward": "Xã Cảm Nhân"
@@ -6984,30 +3386,14 @@
   {
     "text": "TTĐức An Huyện Đắk SongTỉnhĐắk Nông",
     "result": {
-      "text_preprocessed": [
-        "ttduc",
-        "an",
-        "dak",
-        "songtinhdak",
-        "nong"
-      ],
       "province": "Tỉnh Đắk Nông",
-      "district": "Huyện Lắk",
+      "district": "",
       "ward": ""
     }
   },
   {
     "text": "Xã Ninh Sở, Huyện Thường Tin, T.Phà Nội",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "ninh",
-        "so",
-        "thuong",
-        "tin",
-        "tpha",
-        "noi"
-      ],
       "province": "Thành phố Hà Nội",
       "district": "Huyện Thường Tín",
       "ward": "Xã Ninh Sở"
@@ -7016,15 +3402,6 @@
   {
     "text": "X Đoàn đào,4 Phù Cừ,T.Hưng Yên",
     "result": {
-      "text_preprocessed": [
-        "doan",
-        "dao",
-        "4",
-        "phu",
-        "cu",
-        "thung",
-        "yen"
-      ],
       "province": "Tỉnh Hưng Yên",
       "district": "Huyện Phù Cừ",
       "ward": ""
@@ -7033,27 +3410,14 @@
   {
     "text": "X. Hương Liên HuyệnHương Khê T Hà Tinh",
     "result": {
-      "text_preprocessed": [
-        "huong",
-        "lien",
-        "huyenhuong",
-        "khe",
-        "ha"
-      ],
-      "province": "",
-      "district": "",
-      "ward": ""
+      "province": "Tỉnh Hà Tĩnh",
+      "district": "Huyện Hương Khê",
+      "ward": "Xã Hương Liên"
     }
   },
   {
     "text": ",H.Hoài ân,TBình Dịnh",
     "result": {
-      "text_preprocessed": [
-        "hhoai",
-        "an",
-        "tbinh",
-        "dinh"
-      ],
       "province": "Tỉnh Bình Định",
       "district": "Huyện Hoài Ân",
       "ward": ""
@@ -7062,50 +3426,22 @@
   {
     "text": "Phườni Tràng Minh Q. Kiến An Thành phố Hải Phòng",
     "result": {
-      "text_preprocessed": [
-        "phuoni",
-        "trang",
-        "minh",
-        "q",
-        "kien",
-        "an",
-        "thanh",
-        "pho",
-        "hai",
-        "phong"
-      ],
       "province": "Thành phố Hải Phòng",
-      "district": "",
-      "ward": ""
+      "district": "Quận Kiến An",
+      "ward": "Phường Tràng Minh"
     }
   },
   {
     "text": " bản HoJn huyện Tam Đường Tỉnh Lai Châu",
     "result": {
-      "text_preprocessed": [
-        "ban",
-        "hojn",
-        "tam",
-        "duong",
-        "lai",
-        "chau"
-      ],
       "province": "Tỉnh Lai Châu",
-      "district": "Huyện Tam Dương",
-      "ward": ""
+      "district": "Huyện Tam Đường",
+      "ward": "Xã Bản Hon"
     }
   },
   {
     "text": " Điên Hải, Đông Hải, T bạc Liêu",
     "result": {
-      "text_preprocessed": [
-        "dien",
-        "hai",
-        "dong",
-        "hai",
-        "bac",
-        "lieu"
-      ],
       "province": "Tỉnh Bạc Liêu",
       "district": "Huyện Đông Hải",
       "ward": "Xã Điền Hải"
@@ -7114,11 +3450,6 @@
   {
     "text": ", H KBang, Gia Lai",
     "result": {
-      "text_preprocessed": [
-        "kbang",
-        "gia",
-        "lai"
-      ],
       "province": "Tỉnh Gia Lai",
       "district": "Huyện KBang",
       "ward": ""
@@ -7127,12 +3458,6 @@
   {
     "text": "X. Thanh Phongjc , Tỉnhthanh hóa",
     "result": {
-      "text_preprocessed": [
-        "thanh",
-        "phongjc",
-        "tinhthanh",
-        "hoa"
-      ],
       "province": "Tỉnh Thanh Hóa",
       "district": "",
       "ward": ""
@@ -7141,13 +3466,6 @@
   {
     "text": "  Bắc Trà My TỉnhQuảng NaHm",
     "result": {
-      "text_preprocessed": [
-        "bac",
-        "tra",
-        "my",
-        "tinhquang",
-        "nahm"
-      ],
       "province": "Tỉnh Quảng Nam",
       "district": "Huyện Bắc Trà My",
       "ward": ""
@@ -7156,27 +3474,14 @@
   {
     "text": "xã Bình Trung,,TLạng Son",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "binh",
-        "trung",
-        "tlang",
-        "son"
-      ],
       "province": "Tỉnh Lạng Sơn",
       "district": "",
-      "ward": ""
+      "ward": "Xã Bình Trung"
     }
   },
   {
     "text": ",  Ba Vì, TP Hà Nội",
     "result": {
-      "text_preprocessed": [
-        "ba",
-        "vi",
-        "ha",
-        "noi"
-      ],
       "province": "Thành phố Hà Nội",
       "district": "Huyện Ba Vì",
       "ward": ""
@@ -7185,12 +3490,6 @@
   {
     "text": ",Diễn Châu,TỉnhNghệ An",
     "result": {
-      "text_preprocessed": [
-        "dien",
-        "chau",
-        "tinhnghe",
-        "an"
-      ],
       "province": "Tỉnh Nghệ An",
       "district": "Huyện Diễn Châu",
       "ward": ""
@@ -7199,13 +3498,6 @@
   {
     "text": " Muyện Châu Thành TỉnhĐồng Tháp",
     "result": {
-      "text_preprocessed": [
-        "muyen",
-        "chau",
-        "thanh",
-        "tinhdong",
-        "thap"
-      ],
       "province": "Tỉnh Đồng Tháp",
       "district": "Huyện Châu Thành",
       "ward": ""
@@ -7214,14 +3506,6 @@
   {
     "text": "Đông thanh AnE Minh T kien Giang",
     "result": {
-      "text_preprocessed": [
-        "dong",
-        "thanh",
-        "ane",
-        "minh",
-        "kien",
-        "giang"
-      ],
       "province": "Tỉnh Kiên Giang",
       "district": "Huyện An Minh",
       "ward": "Xã Đông Thạnh"
@@ -7230,15 +3514,6 @@
   {
     "text": "Xã Tân Lĩnh, H.Lục Yên, TYên Bái",
     "result": {
-      "text_preprocessed": [
-        "xa",
-        "tan",
-        "linh",
-        "hluc",
-        "yen",
-        "tyen",
-        "bai"
-      ],
       "province": "Tỉnh Yên Bái",
       "district": "Huyện Lục Yên",
       "ward": "Xã Tân Lĩnh"
@@ -7247,13 +3522,6 @@
   {
     "text": "P Thủy Châu,T.X. hươngThủy,Thừa.t.Huế",
     "result": {
-      "text_preprocessed": [
-        "p",
-        "thuy",
-        "chau",
-        "huongthuy",
-        "thuathue"
-      ],
       "province": "",
       "district": "Thành phố Huế",
       "ward": ""
@@ -7262,14 +3530,6 @@
   {
     "text": "Thi trấ Ea. Knốp,H. Ea Kar,",
     "result": {
-      "text_preprocessed": [
-        "thi",
-        "tra",
-        "ea",
-        "knop",
-        "ea",
-        "kar"
-      ],
       "province": "",
       "district": "Huyện Ea Kar",
       "ward": "Thị trấn Ea Knốp"
@@ -7278,14 +3538,6 @@
   {
     "text": "X. Quế Minh,HZuyện Quế Sơn,TỉnhQuảng Nam",
     "result": {
-      "text_preprocessed": [
-        "que",
-        "minh",
-        "que",
-        "son",
-        "tinhquang",
-        "nam"
-      ],
       "province": "Tỉnh Quảng Nam",
       "district": "Huyện Quế Sơn",
       "ward": "Xã Quế Minh"
@@ -7294,14 +3546,6 @@
   {
     "text": "X.Nga Thanh hyện Nga son TỉnhThanhQ Hóa",
     "result": {
-      "text_preprocessed": [
-        "xnga",
-        "thanh",
-        "nga",
-        "son",
-        "tinhthanhq",
-        "hoa"
-      ],
       "province": "Tỉnh Thanh Hóa",
       "district": "Huyện Nga Sơn",
       "ward": "Xã Nga Thanh"
@@ -7310,17 +3554,6 @@
   {
     "text": "Phường Phú Mỹ, Thà6nh phố Thủ Dầu Một, TBình Dương",
     "result": {
-      "text_preprocessed": [
-        "phuong",
-        "phu",
-        "my",
-        "pho",
-        "thu",
-        "dau",
-        "mot",
-        "tbinh",
-        "duong"
-      ],
       "province": "Tỉnh Bình Dương",
       "district": "Thành phố Thủ Dầu Một",
       "ward": ""
@@ -7329,12 +3562,6 @@
   {
     "text": ",Lệ Thủy,T quảng BìnKh",
     "result": {
-      "text_preprocessed": [
-        "le",
-        "thuy",
-        "quang",
-        "binkh"
-      ],
       "province": "Tỉnh Quảng Bình",
       "district": "Huyện Lệ Thủy",
       "ward": ""
@@ -7343,41 +3570,22 @@
   {
     "text": "F Tân bình  dĩ An ",
     "result": {
-      "text_preprocessed": [
-        "tan",
-        "binh",
-        "di",
-        "an"
-      ],
       "province": "",
-      "district": "",
-      "ward": ""
+      "district": "Thành phố Dĩ An",
+      "ward": "Phường An Bình"
     }
   },
   {
     "text": "x2Trung Sơn,,TỉnhNghê An",
     "result": {
-      "text_preprocessed": [
-        "x2trung",
-        "son",
-        "tinhnghe",
-        "an"
-      ],
       "province": "Tỉnh Nghệ An",
       "district": "",
-      "ward": ""
+      "ward": "Xã Trung Sơn"
     }
   },
   {
     "text": "XãCôn Lôn,H Na Hang,TỉnhC Tuyên.Quang",
     "result": {
-      "text_preprocessed": [
-        "xacon",
-        "lon",
-        "na",
-        "hang",
-        "tuyenquang"
-      ],
       "province": "Tỉnh Tuyên Quang",
       "district": "Huyện Na Hang",
       "ward": "Xã Côn Lôn"
@@ -7386,17 +3594,9 @@
   {
     "text": "Tân Hòa,H. Phú Tân,TnhAn Giang",
     "result": {
-      "text_preprocessed": [
-        "tan",
-        "hoa",
-        "phu",
-        "tan",
-        "tnhan",
-        "giang"
-      ],
       "province": "Tỉnh An Giang",
       "district": "Huyện Phú Tân",
-      "ward": ""
+      "ward": "Xã An Hòa"
     }
   }
 ]

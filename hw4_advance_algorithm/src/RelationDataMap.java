@@ -55,7 +55,8 @@ public class RelationDataMap {
     }
 
     public void setDistrictsMap(String index, String quanHuyen, String parentIndex) {
-        if (index.isBlank() || quanHuyen.isBlank()) return;
+        if (index.isBlank() || quanHuyen.isBlank())
+            return;
         DistrictsMap.putIfAbsent(index, new String[]{quanHuyen, parentIndex});
     }
 
@@ -64,7 +65,8 @@ public class RelationDataMap {
     }
 
     public void setWardsMap(String index, String xaPhuong, String parentIndex) {
-        if (index.isBlank() || xaPhuong.isBlank()) return;
+        if (index.isBlank() || xaPhuong.isBlank())
+            return;
         WardsMap.putIfAbsent(index, new String[]{xaPhuong, parentIndex});
     }
 }

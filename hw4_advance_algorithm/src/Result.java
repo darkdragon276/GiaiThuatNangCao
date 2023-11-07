@@ -1,27 +1,33 @@
 package src;
 
 public class Result {
-	private String[] text_preprocessed;
+    private String[] text_preprocessed;
     private String province;
     private String district;
     private String ward;
-    
+
     public Result(String[] text_preprocessed, String province, String district, String ward) {
-		this.text_preprocessed = text_preprocessed;
-		this.province = province;
-		this.district = district;
-		this.ward = ward;
-	}
+        this.text_preprocessed = text_preprocessed;
+        this.province = province;
+        this.district = district;
+        this.ward = ward;
+    }
 
-	public String[] getText_preprocessed() {
-		return text_preprocessed;
-	}
+    public Result(String province, String district, String ward) {
+        this.province = province;
+        this.district = district;
+        this.ward = ward;
+    }
 
-	public void setText_preprocessed(String[] text_preprocessed) {
-		this.text_preprocessed = text_preprocessed;
-	}
+    public String[] getText_preprocessed() {
+        return text_preprocessed;
+    }
 
-	public String getProvince() {
+    public void setText_preprocessed(String[] text_preprocessed) {
+        this.text_preprocessed = text_preprocessed;
+    }
+
+    public String getProvince() {
         return province;
     }
 
