@@ -2562,9 +2562,9 @@
   {
     "text": "xã Vạn Kim, HuyệnMỹ Đức, T.P HNội",
     "result": {
-      "province": "",
-      "district": "",
-      "ward": ""
+      "province": "Thành phố Hà Nội",
+      "district": "Huyện Mỹ Đức",
+      "ward": "Xã Vạn Kim"
     }
   },
   {
@@ -3338,8 +3338,8 @@
   {
     "text": " Thái Ha, HBa Vì, T.pHNội",
     "result": {
-      "province": "",
-      "district": "",
+      "province": "Thành phố Hà Nội",
+      "district": "Huyện Ba Vì",
       "ward": ""
     }
   },
@@ -3522,9 +3522,9 @@
   {
     "text": "P Thủy Châu,T.X. hươngThủy,Thừa.t.Huế",
     "result": {
-      "province": "",
-      "district": "Thành phố Huế",
-      "ward": ""
+      "province": "Tỉnh Thừa Thiên Huế",
+      "district": "Thị xã Hương Thủy",
+      "ward": "Phường Thủy Châu"
     }
   },
   {
