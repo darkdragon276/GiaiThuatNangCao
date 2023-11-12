@@ -1,6 +1,3 @@
-/**
- * @author William Fiset, william.alexandre.fiset@gmail.com
- */
 package graphtheory;
 
 import java.util.ArrayList;
@@ -69,15 +66,6 @@ public abstract class GraphBase {
   // Indicates whether the network flow algorithm has ran. We should not need to
   // run the solver multiple times, because it always yields the same result.
   private boolean solved;
-
-  /**
-   * Creates an instance of a flow network solver. Use the {@link #addEdge} method to add edges to
-   * the graph.
-   *
-   * @param n - The number of nodes in the graph including source and sink nodes.
-   * @param s - The index of the source node, 0 <= s < n
-   * @param t - The index of the sink node, 0 <= t < n, t != s
-   */
   public GraphBase(int n, int s, int t) {
     this.n = n;
     this.s = s;
@@ -94,13 +82,6 @@ public abstract class GraphBase {
     for (int i = 0; i < n; i++) graph[i] = new ArrayList<Edge>();
   }
 
-  /**
-   * Adds a directed edge (and residual edge) to the flow graph.
-   *
-   * @param from - The index of the node the directed edge starts at.
-   * @param to - The index of the node the directed edge ends at.
-   * @param capacity - The capacity of the edge.
-   */
   public void addEdge(int from, int to, long capacity) {
     if (capacity < 0) throw new IllegalArgumentException("Capacity < 0");
     Edge e1 = new Edge(from, to, capacity);
@@ -137,11 +118,6 @@ public abstract class GraphBase {
     visitedToken++;
   }
 
-  /**
-   * Returns the graph after the solver has been executed. This allow you to inspect the {@link
-   * Edge#flow} compared to the {@link Edge#capacity} in each edge. This is useful if you want to
-   * figure out which edges were used during the max flow.
-   */
   public List<Edge>[] getGraph() {
     execute();
     return graph;

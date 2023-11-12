@@ -1,5 +1,7 @@
 import algorithm.EdmondsKarp;
 import algorithm.FordFulkerson;
+import graphtheory.DinicsAdjacencyList;
+import graphtheory.GraphBase;
 import org.jgrapht.graph.DefaultDirectedWeightedGraph;
 import org.jgrapht.graph.DefaultWeightedEdge;
 
@@ -7,6 +9,8 @@ public class Main {
 
 	public final static EdmondsKarp edmondsKarp = new EdmondsKarp(100);
 	public final static FordFulkerson fordFulkerson = new FordFulkerson(100);
+
+	public final static GraphBase dinic = new DinicsAdjacencyList(100, 0, 13);
 	public static void buildGraph() {
 		DefaultDirectedWeightedGraph<Integer, DefaultWeightedEdge> graph = new DefaultDirectedWeightedGraph<>(DefaultWeightedEdge.class);
 		for (int i = 0; i < 100; i++) {
@@ -24,6 +28,7 @@ public class Main {
 				graph.setEdgeWeight(edge, weight);
 				edmondsKarp.addEdge(source, target, weight);
 				fordFulkerson.addEdge(source, target, weight);
+				dinic.addEdge(source, target, weight);
 			}
 		}
 	}
@@ -36,6 +41,7 @@ public class Main {
 		long totalTime = endTime - startTime;
 		System.out.println("edmondsKarp: maximum possible flow is " + maxFlow);
 		System.out.println("total time for edmondsKarp: " + totalTime/1000000.0 + "ms");
+		System.out.println();
 
 		startTime = System.nanoTime();
 		maxFlow = fordFulkerson.getMaximumFlow(0, 13);
@@ -43,5 +49,14 @@ public class Main {
 		totalTime = endTime - startTime;
 		System.out.println("fordFulkerson: maximum possible flow is " + maxFlow);
 		System.out.println("total time for fordFulkerson: " + totalTime/1000000.0 + "ms");
+		System.out.println();
+
+		startTime = System.nanoTime();
+		long dinicMaxFlow = dinic.getMaxFlow();
+		endTime   = System.nanoTime();
+		totalTime = endTime - startTime;
+		System.out.println("dinic: maximum possible flow is " + dinicMaxFlow);
+		System.out.println("total time for dinic: " + totalTime/1000000.0 + "ms");
+		System.out.println();
 	}
 }
