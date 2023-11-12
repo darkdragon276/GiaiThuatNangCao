@@ -1,15 +1,3 @@
-/**
- * Implementation of Dinic's network flow algorithm. The algorithm works by first constructing a
- * level graph using a BFS and then finding augmenting paths on the level graph using multiple DFSs.
- *
- * <p>Run script:
- *
- * <p>$ ./gradlew run -Palgorithm=graphtheory.networkflow.Dinics
- *
- * <p>Time Complexity: O(EV²)
- *
- * @author William Fiset, william.alexandre.fiset@gmail.com
- */
 package graphtheory;
 
 import static java.lang.Math.min;
@@ -20,14 +8,6 @@ public class DinicsAdjacencyList extends GraphBase {
 
   private int[] level;
 
-  /**
-   * Creates an instance of a flow network solver. Use the {@link #addEdge} method to add edges to
-   * the graph.
-   *
-   * @param n - The number of nodes in the graph including source and sink nodes.
-   * @param s - The index of the source node, 0 <= s < n
-   * @param t - The index of the sink node, 0 <= t < n, t != s
-   */
   public DinicsAdjacencyList(int n, int s, int t) {
     super(n, s, t);
     level = new int[n];
@@ -87,75 +67,5 @@ public class DinicsAdjacencyList extends GraphBase {
       }
     }
     return 0;
-  }
-
-  /* Examples */
-
-  public static void main(String[] args) {
-    testSmallFlowGraph();
-    // testGraphFromSlides();
-  }
-
-  // Testing graph from:
-  // http://crypto.cs.mcgill.ca/~crepeau/COMP251/KeyNoteSlides/07demo-maxflowCS-C.pdf
-  private static void testSmallFlowGraph() {
-    int n = 6;
-    int s = n - 1;
-    int t = n - 2;
-
-    DinicsAdjacencyList solver;
-    solver = new DinicsAdjacencyList(n, s, t);
-
-    // Source edges
-    solver.addEdge(s, 0, 10);
-    solver.addEdge(s, 1, 10);
-
-    // Sink edges
-    solver.addEdge(2, t, 10);
-    solver.addEdge(3, t, 10);
-
-    // Middle edges
-    solver.addEdge(0, 1, 2);
-    solver.addEdge(0, 2, 4);
-    solver.addEdge(0, 3, 8);
-    solver.addEdge(1, 3, 9);
-    solver.addEdge(3, 2, 6);
-
-    System.out.println(solver.getMaxFlow()); // 19
-  }
-
-  private static void testGraphFromSlides() {
-    int n = 11;
-    int s = n - 1;
-    int t = n - 2;
-
-    GraphBase solver;
-    solver = new DinicsAdjacencyList(n, s, t);
-
-    // Source edges
-    solver.addEdge(s, 0, 5);
-    solver.addEdge(s, 1, 10);
-    solver.addEdge(s, 2, 15);
-
-    // Middle edges
-    solver.addEdge(0, 3, 10);
-    solver.addEdge(1, 0, 15);
-    solver.addEdge(1, 4, 20);
-    solver.addEdge(2, 5, 25);
-    solver.addEdge(3, 4, 25);
-    solver.addEdge(3, 6, 10);
-    solver.addEdge(3, 7, 20);
-    solver.addEdge(4, 2, 5);
-    solver.addEdge(4, 7, 30);
-    solver.addEdge(5, 7, 20);
-    solver.addEdge(5, 8, 10);
-    solver.addEdge(7, 8, 15);
-
-    // Sink edges
-    solver.addEdge(6, t, 5);
-    solver.addEdge(7, t, 15);
-    solver.addEdge(8, t, 10);
-
-    System.out.printf("Maximum flow %d\n", solver.getMaxFlow()); // 30
   }
 }
