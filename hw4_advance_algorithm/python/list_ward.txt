@@ -1,14 +1,12 @@
-
-01
-02
-03
-04
-05
-06
-07
-08
-09
 1
+2
+3
+4
+5
+6
+7
+8
+9
 10
 11
 12
@@ -19,65 +17,86 @@
 17
 18
 19
-6
-7
-8
-9
-A Bung
+21
+22
+24
+25
+26
+27
+28
 A Dơi
+An Lạc
+Đắk Lao
+Hòa Thuận
+Hoàng Văn Thụ
+Mỹ Lộc
+Tây Sơn
+Tư
+A Bung
 A Dơk
-A Đớt
-ái Nghĩa
-Ái Nghĩa
-ái Quốc
-Ái Quốc
-ái Thượng
-Ái Thượng
-ái Tử
-Ái Tử
-AL Bá
 A Lù
 A Lưới
-ấm Hạ
-Ấm Hạ
 A Mú Sung
-An ấp
+A Ngo
+A Nông
+A Roàng
+A Rooi
+A Tiêng
+A Ting
+A Vao
+A Vương
+A Xan
+Ái Nghĩa
+Ái Quốc
+Ái Thượng
+Ái Tử
+AL Bá
+Ấm Hạ
 An Ấp
 An Bá
 An Bài
 An Biên
+An Bình
+An Bình A
+An Bình B
+An Bình Tây
+An Cầu
+An Chấn
+An Châu
+An Cơ
+An Cư
+An Cựu
+An Dân
+An Đạo
+An Điền
+An Định
+An Đổ
+An Đôn
+An Đông
+An Đồng
+An Dục
+An Đức
+Ân Đức
 An Dũng
 An Dương
-ẳng Cang
-Ẳng Cang
-ẳng Nưa
-Ẳng Nưa
-A Ngo
-ẳng Tở
-Ẳng Tở
 An Hà
 An Hải
 An Hải Bắc
 An Hải Đông
 An Hải Tây
 An Hảo
-Ân Hảo
 Ân Hảo Đông
 Ân Hảo Tây
-Anh Dũng
 An Hiệp
 An Hoà
 An Hóa
 An Hòa
 Ân Hòa
-An Hoạch
 An Hòa Hải
 An Hòa Tây
 An Hòa Thịnh
 An Hội
 An Hồng
-Anh Sơn
-An Hùng
 An Hưng
 An Hữu
 Ân Hữu
@@ -94,39 +113,71 @@ An Lão
 An Lập
 An Lễ
 An Linh
+An Lĩnh
+An Lộc
+An Lợi Đông
+An Long
+An Lư
+An Lục Long
+An Lương
+An Lưu
+An Minh Bắc
+An Mỹ
+Ân Mỹ
+An Ngãi
+An Ngãi Tây
+An Ngãi Trung
+An Nghĩa
+Ân Nghĩa
+An Nghiệp
 An Nhơn
 An Nhơn Tây
 An Nhứt
-An Nhựt Tân
 An Ninh
 An Ninh Đông
 An Ninh Tây
 An Nội
 An Nông
-A Nông
 An Phong
 Ân Phong
 An Phú
 An Phụ
 Ân Phú
-An Phúc
 An Phú Đông
-An Phước
-An Phượng
 An Phú Tân
 An Phú Tây
 An Phú Thuận
 An Phú Trung
+An Phúc
+An Phước
+An Phượng
 An Quang
 An Quảng Hữu
 An Quí
 An Quy
-An Quý
 An Sinh
 An Sơn
 Ân Sơn
 An Tân
 An Tảo
+An Tây
+An Thạch
+An Thái
+An Thái Đông
+An Thái Trung
+An Thắng
+An Thanh
+An Thành
+An Thạnh
+Ân Thạnh
+An Thạnh 1
+An Thạnh 2
+An Thạnh 3
+An Thạnh Đông
+An Thạnh Nam
+An Thạnh Tây
+An Thạnh Thủy
+An Thạnh Trung
 Ân Thi
 An Thịnh
 An Thọ
@@ -138,7 +189,6 @@ An Thủy
 An Tiến
 Ân Tín
 An Tịnh
-Ân Tình
 An Toàn
 An Trạch
 An Trạch A
@@ -154,56 +204,27 @@ An Vĩ
 An Viên
 An Viễn
 An Vinh
-An Vĩnh
 An Vĩnh Ngãi
 An Vũ
 An Xuân
 An Xuyên
-A Roàng
-A Roằng
-A Rooi
-A Rooih
-A Tiêng
-A Ting
-A Túc
+Ẳng Cang
+Ẳng Nưa
+Ẳng Tở
+Anh Dũng
+Anh Sơn
 Âu Cơ
 Âu Lâu
-A Vao
-A Vương
-A Xan
-A Xing
 Ayun
-AYun
 Ayun Hạ
-Ayun Pa
+B' Lá
 Ba
 Ba Bích
-Bắc ái
-Bắc Ái
-Bắc An
-Bắc Bình
-Bắc Cường
-Bắc Lệnh
-Bắc Lũng
-Bắc Lương
-Bắc Lý
-Bắc Mỹ An
-Bắc Ngà
-Bắc Nghĩa
-Bắc Phong
-Bắc Phú
-Bắc Quỳnh
-Bắc Ruộng
-Bắc Sơn
-Bắc Thành
-Bắc Thủy
-Bắc Trạch
+Ba Chẽ
+Ba Chúc
 Ba Cụm Bắc
 Ba Cụm Nam
 Ba Cung
-Bắc Việt
-Bắc Xa
-Bắc Yên
 Bà Điểm
 Ba Điền
 Ba Dinh
@@ -214,25 +235,89 @@ Ba Giang
 Ba Hàng
 Ba Hàng Đồi
 Bá Hiến
+Ba Khâm
+Ba Láng
+Ba Lế
+Ba Liên
+Ba Lòng
+Ba Nam
+Ba Nang
+Ba Ngạc
+Ba Ngòi
+Ba Sao
+Ba Tầng
+Ba Thành
+Ba Tiêu
+Ba Tô
+Ba Tơ
+Ba Trại
+Ba Trang
+Ba Tri
+Bà Triệu
+Ba Trinh
+Ba Vì
+Ba Vinh
+Ba Xa
+Bá Xuyên
+Bắc An
+Bắc Bình
+Bắc Cường
+Bắc Hà
+Bắc Hải
+Bắc Hòa
+Bắc Hồng
+Bắc Hùng
+Bắc Hưng
+Bắc La
+Bắc Lãng
+Bắc Lệnh
+Bắc Lũng
+Bắc Lương
+Bắc Lý
+Bắc Nghĩa
+Bắc Phong
+Bắc Phú
+Bắc Quỳnh
+Bắc Ruộng
+Bắc Sơn
+Bắc Thành
+Bắc Thủy
+Bắc Trạch
+Bắc Việt
+Bắc Xa
+Bắc Yên
+Bạch Đằng
+Bạch Đích
+Bạch Hà
+Bạch Hạ
+Bạch Hạc
+Bách Khoa
+Bạch Long
+Bạch Lưu
+Bạch Mai
+Bạch Ngọc
+Bách Quang
+Bạch Sam
+Bách Thuận
+Bạch Thượng
+Bạch Xa
 Bãi Bông
 Bãi Cháy
 Bãi Sậy
 Bài Sơn
 Bãi Thơm
 Bãi Trành
-Ba Khâm
-Ba Khan
-Bằng Luân
-Bằng Lũng
-Bằng Mạc
-Ba Ngòi
-Bằng Phúc
-Bằng Thành
-Bằng Vân
+Bản Bo
+Bản Cái
+Bản Cầm
+Ban Công
+Bản Công
+Bàn Đạt
+Bản Díu
+Bàn Giản
+Bản Giang
 Bản Hồ
 Bản Hon
-Bành Trạch
-Bản Khoang
 Bản Lầm
 Bản Lang
 Bản Lầu
@@ -246,7 +331,6 @@ Bản Ngò
 Bản Ngoại
 Bản Nguyên
 Bản Nhùng
-Bản Péo
 Bản Phiệt
 Bản Phố
 Bản Phùng
@@ -259,7 +343,24 @@ Bản Thi
 Bản Vược
 Bản Xèo
 Bần Yên Nhân
-Bảo ái
+Băng A Drênh
+Bằng An
+Bằng Cả
+Bằng Cốc
+Bằng Doãn
+Bằng Giã
+Bằng Hành
+Bằng Hữu
+Bàng La
+Bằng Lang
+Bằng Lãng
+Bằng Luân
+Bằng Lũng
+Bằng Mạc
+Bằng Phúc
+Bằng Thành
+Bằng Vân
+Bành Trạch
 Bảo Ái
 Bảo An
 Bảo Bình
@@ -290,19 +391,8 @@ Bảo Toàn
 Bảo Vinh
 Bảo Yên
 Bar Măih
-Ba Sao
-Ba Tầng
 Bát Đại Sơn
-Ba Thành
-Ba Tiêu
 Bát Mọt
-Ba Tô
-Ba Tơ
-Ba Trại
-Ba Trang
-Ba Tri
-Bà Triệu
-Ba Trinh
 Bát Trang
 Bát Tràng
 Bát Xát
@@ -312,6 +402,25 @@ Bàu Đồn
 Bàu Hàm
 Bàu Hàm 2
 Bàu Lâm
+Bàu Năng
+Bàu Sen
+Bàu Trâm
+Bảy Ngàn
+Bế Văn Đàn
+Bến Cầu
+Bến Củi
+Bến Gót
+Bến Lức
+Bến Nghé
+Bến Quan
+Bến Sung
+Bến Tắm
+Bến Thành
+Bến Thủy
+Bha Lê
+Bích Đào
+Bích Động
+Bích Hòa
 Biển Bạch
 Biển Bạch Đông
 Biển Động
@@ -322,9 +431,6 @@ Biên Sơn
 Bình An
 Bình Ân
 Bình Ba
-Bình Bộ
-Bình Cảng
-Bình Chân
 Bình Chánh
 Bình Châu
 Bình Chiểu
@@ -334,7 +440,6 @@ Bình Đa
 Bình Đại
 Bình Dân
 Bình Đào
-Bình Điền
 Bình Định
 Bình Định Bắc
 Bình Định Nam
@@ -366,8 +471,7 @@ Bình Hưng Hòa
 Bình Hưng Hoà A
 Bình Hưng Hoà B
 Bình Khánh
-Bình Khánh Đông
-Bình Khánh Tây
+Bình Khánh 
 Bình Khê
 Bình Khương
 Bình Kiến
@@ -417,9 +521,8 @@ Bình Thắng
 Bình Thanh
 Bình Thành
 Bình Thạnh
-Bình Thanh Đông
+Bình Thanh 
 Bình Thạnh Đông
-Bình Thanh Tây
 Bình Thạnh Trung
 Bình Thọ
 Bình Thới
@@ -445,83 +548,74 @@ Bình Xa
 Bình Xuân
 Bình Xuyên
 Bình Yên
-B' Lá
-B'Lá
 B'lao
 Bo
-Bộc Bố
-Bộc Nhiêu
 Bồ Đề
 Bố Hạ
+Bồ Lý
+Bó Mười
+Bờ Ngoong
+Bồ Sao
+Bó Sinh
+Bồ Xuyên
+Bờ Y
+Bộc Bố
+Bộc Nhiêu
 Bối Cầu
 Bồi Sơn
 Bok Tới
-Bồ Lý
 Bom Bo
-Bó Mười
-Bồng Am
+Bon Phặng
 Bồng Khê
 Bông Krang
 Bồng Lai
-Bờ Ngoong
 Bồng Sơn
 Bông Trang
-Bon Phặng
-Bồ Sao
-Bó Sinh
 Bột Xuyên
-Bồ Xuyên
-Bờ Y
 Bù Gia Mập
+Bù Nho
 Bùi Hữu Nghĩa
 Bùi La Nhân
 Bùi Thị Xuân
-Bùi Xá
 Bum Nưa
 Bum Tở
 Búng Lao
 Bưng Riềng
 Búng Tàu
-Bù Nho
-Bun Nưa
-Bun Tở
 Bưởi
 Buôn Choah
-Buôn Hồ
 Buôn Trấp
 Buôn Tría
 Buôn Triết
 Bút Sơn
 Bửu Hòa
 Bửu Long
-Cách Bi
-Cách Linh
-Các Sơn
 Ca Đình
 Cà Dy
+Cà Lúi
+Cà Ná
+Cà Nàng
+Ca Thành
+Các Sơn
+Cách Bi
+Cách Linh
 Cái Bè
 Cai Bộ
 Cái Chiên
-Cái Dăm
 Cải Đan
 Cái Dầu
 Cái Đôi Vàm
 Cái Khế
 Cai Kinh
-Cai Lậy
 Cái Nhum
 Cái Nước
-Cái Răng
 Cái Rồng
 Cái Tắc
 Cái Tàu Hạ
 Cải Viên
 Cái Vồn
-Cà Lúi
-Cam An
-Cẩm An
-Cẩm Ân
 Cảm Ân
+Cẩm An
 Cam An Bắc
 Cam An Nam
 Cam Bình
@@ -532,8 +626,6 @@ Cam Chính
 Cam Cọn
 Cẩm Đàn
 Cẩm Điền
-Cẩm Đình
-Cẩm Định
 Cẩm Đoài
 Cẩm Đông
 Cam Đức
@@ -552,10 +644,8 @@ Cam Hiệp Bắc
 Cam Hiệp Nam
 Cam Hiếu
 Cam Hòa
-Cẩm Hòa
 Cẩm Hoàng
 Cẩm Hưng
-Cẩm Huy
 Cẩm Khê
 Cẩm Kim
 Cẩm La
@@ -574,17 +664,14 @@ Cẩm Lương
 Cẩm Lý
 Cẩm Minh
 Căm Muộn
-Cắm Muộn
 Cẩm Mỹ
 Cẩm Nam
 Cam Nghĩa
 Cẩm Ngọc
-Cẩm Nhân
 Cảm Nhân
 Cẩm Nhượng
 Cẩm Ninh
 Cẩm Phô
-Cẩm Phong
 Cam Phú
 Cẩm Phú
 Cẩm Phúc
@@ -602,8 +689,6 @@ Cam Tân
 Cẩm Tân
 Cẩm Tây
 Cẩm Thạch
-Cẩm Thăng
-Cam Thanh
 Cam Thành
 Cẩm Thanh
 Cẩm Thành
@@ -620,21 +705,26 @@ Cẩm Thủy
 Cẩm Trung
 Cẩm Tú
 Cam Tuyền
-Cẩm Văn
 Cẩm Vân
+Cẩm Văn
 Cẩm Vĩnh
 Cẩm Vũ
 Cẩm Xá
 Cẩm Xuyên
 Cẩm Yên
-Cà Ná
-Cà Nàng
 Cán Cấu
 Cán Chu Phìn
 Căn Co
 Cần Đăng
 Cần Đước
 Cần Giuộc
+Cấn Hữu
+Cán Khê
+Cần Kiệm
+Cần Nông
+Cần Thạnh
+Cán Tỷ
+Cần Yên
 Càng Long
 Cảnh Dương
 Canh Hiển
@@ -645,24 +735,14 @@ Cảnh Hưng
 Canh Liên
 Cành Nàng
 Canh Nậu
-Cán Hồ
 Canh Tân
 Canh Thuận
 Cảnh Thụy
-Cảnh Tiên
-Cấn Hữu
 Canh Vinh
-Cán Khê
-Cần Kiệm
-Cần Nông
-Cần Thạnh
-Cán Tỷ
-Cần Yên
 Cao An
 Cao Bồ
 Cao Chương
 Cao Đại
-Cáo Điền
 Cao Đức
 Cao Dương
 Cao Kỳ
@@ -676,7 +756,6 @@ Cao Nhân
 Cao Phạ
 Cao Phong
 Cao Quảng
-Cao Răm
 Cao Sơn
 Cao Tân
 Cao Thăng
@@ -684,7 +763,6 @@ Cao Thắng
 Cao Thành
 Cao Thịnh
 Cao Thượng
-Cao Trĩ
 Cao Viên
 Cao Xá
 Cao Xanh
@@ -695,7 +773,6 @@ Cát Bi
 Cát Chánh
 Cát Dài
 Cát Hải
-Ca Thành
 Cát Hanh
 Cát Hiệp
 Cát Hưng
@@ -716,16 +793,14 @@ Cát Thịnh
 Cát Tiên
 Cát Tiến
 Cát Trinh
-Cát Trù
 Cát Tường
-Cát Văn
 Cát Vân
+Cát Văn
 Cầu Bà
 Cầu Đất
 Cầu Dền
 Cầu Diễn
 Cầu Giát
-Cầu Gồ
 Cầu Kè
 Cầu Kho
 Cầu Khởi
@@ -742,23 +817,22 @@ Cây Thị
 Cây Trường II
 Chà Cang
 Chà Là
-Chăm Mát
-Chàng Sơn
-Chánh An
-Chánh Hội
-Chánh Lộ
-Chánh Mỹ
-Chánh Nghĩa
-Chánh Phú Hòa
+Chà Nưa
+Chà Tở
+Chà Vàl
 Chấn Hưng
 Chân Lý
 Chân Mộng
 Chăn Nưa
 Chân Sơn
 Chấn Thịnh
-Chà Nưa
+Chàng Sơn
+Chánh An
+Chánh Lộ
+Chánh Mỹ
+Chánh Nghĩa
+Chánh Phú Hòa
 Chất Bình
-Chà Tở
 Châu Bính
 Châu Bình
 Châu Can
@@ -783,7 +857,6 @@ Châu Lý
 Châu Minh
 Châu Nga
 Châu Nhân
-Châu ổ
 Châu Ổ
 Châu Pha
 Châu Phong
@@ -801,18 +874,31 @@ Châu Thôn
 Châu Thuận
 Châu Tiến
 Châu Văn Liêm
-Chàvàl
-Chà Vàl
 Chế Cu Nha
 Chế Là
-Cheo Reo
 Chế Tạo
+Cheo Reo
 Chí Cà
 Chí Công
 Chí Đám
 Chí Đạo
 Chỉ Đạo
 Chi Đông
+Chí Hòa
+Chi Khê
+Chi Lăng
+Chi Lăng Bắc
+Chi Lăng Nam
+Chí Minh
+Chi Nê
+Chí Tân
+Chí Thạnh
+Chí Thảo
+Chi Thiết
+Chí Tiên
+Chí Viễn
+Chiến Phố
+Chiến Thắng
 Chiềng An
 Chiềng Ân
 Chiềng Ban
@@ -870,33 +956,14 @@ Chiềng Ve
 Chiềng Xôm
 Chiềng Xuân
 Chiềng Yên
-Chiến Phố
-Chiên Sơn
-Chiến Thắng
 Chiêu Lưu
 Chiêu Vũ
 Chiêu Yên
-Chí Hòa
-Chi Khê
-Chi Lăng
-Chi Lăng Bắc
-Chi Lăng Nam
-Chí Minh
 Chim Vàn
-Chi Nê
-Chính Công
 Chính Gián
 Chính Lý
 Chính Mỹ
 Chính Nghĩa
-Chính Tâm
-Chí Tân
-Chí Thạnh
-Chí Thảo
-Chí Thiện
-Chi Thiết
-Chí Tiên
-Chí Viễn
 Chờ
 Chợ Chu
 Chợ Chùa
@@ -905,65 +972,48 @@ Chợ Gạo
 Chợ Lách
 Chợ Lầu
 Chơ Long
-Ch'ơm
 Chợ Mới
-Chơn Thành
 Chợ Rã
 Chợ Vàm
+Ch'ơm
 Chrôh Pơnan
 Chũ
-Chư á
 Chư Á
-Chùa Hang
 Chư A Thai
 Chư Băh
-Chúc Sơn
 Chư Đăng Ya
 Chu Điện
 Chư Don
 Chư Drăng
-Chuế Lưu
 Chư Gu
-Chư HDrông
 Chu Hóa
 Chư Hreng
 Chu Hương
-Chư Jôr
 Chư KBô
 Chư Krêy
 Chu Minh
 Chư Mố
-Chư Mo Ray
-Chung Chải
 Chư Ngọc
-Chương Dương
-Chương Dương Độ
-Chương Xá
 Chu Phan
 Chư Pơng
 Chư Prông
 Chư Răng
 Chư Rcăm
-Chư RCăm
 Chư Sê
 Chu Trinh
-Chu Túc
 Chư Ty
+Chùa Hang
+Chúc Sơn
+Chung Chải
+Chương Dương
+Chương Xá
 Chuyên Mỹ
 Chuyên Ngoại
+Cò  Nòi
 Cổ Am
 Cô Ba
 Cổ Bi
 Cổ Bì
-Cốc Đán
-Cốc Lầu
-Cốc Lếu
-Cốc Ly
-Cốc Mỳ
-Cốc Pài
-Cốc Pàng
-Cốc Rế
-Cốc San
 Cỗ Đạm
 Cổ Đô
 Cờ Đỏ
@@ -975,18 +1025,31 @@ Cổ Linh
 Cổ Loa
 Cổ Lũng
 Co Mạ
-Cô Mười
+Cô Ngân
+Cổ Nhuế 1
+Cổ Nhuế 2
+Cổ Phúc
+Cổ Thành
+Cô Tô
+Co Tòng
+Cốc Đán
+Cốc Lầu
+Cốc Lếu
+Cốc Ly
+Cốc Mỳ
+Cốc Pài
+Cốc Pàng
+Cốc Rế
+Cốc San
 Cồn
 Con Cuông
-Côn Đảo
-Còng
-Cô Ngân
+Côn Lôn
+Côn Minh
+Cồn Thoi
 Công Bằng
-Công Bình
 Công Chính
 Công Đa
 Công Hải
-Cố Nghĩa
 Cộng Hiền
 Cộng Hoà
 Cộng Hòa
@@ -995,55 +1058,27 @@ Công Liêm
 Công Lý
 Công Sơn
 Công Thành
-Công Trừng
 Cống Vị
-Cổ Nhuế
-Cổ Nhuế 1
-Cổ Nhuế 2
-Côn Lôn
-Côn Minh
-Cò  Nòi
-Cò Nòi
-Cồn Thoi
-Cổ Phúc
-Cổ Thành
-Cổ Tiết
-Cô Tô
-Co Tòng
-Cửa Bắc
-Cửa Cạn
-Cửa Đại
-Cửa Đông
-Cửa Dương
 Cư A Mung
 Cư An
-Cửa Nam
-Cửa Ông
-Cửa Tùng
-Cửa Việt
 Cư Bao
 Cù Bị
 Cư Bông
-Cúc Đường
 Củ Chi
-Cúc Phương
 Cư Dliê M'nông
 Cự Đồng
 Cư Drăm
+Cư Ê Wi
 Cư ÊBur
 Cư ELang
-Cư Ê Wi
 Cư Huê
 Cư Jang
-Cư Jiang
+Cư K Róa
 Cư KBang
-Cư Kbô
 Cự Khê
 Cự Khối
 Cư Klông
 Cư Knia
-Cư Króa
-Cư K Róa
 Cư KTy
 Cù Lao Dung
 Cư Lễ
@@ -1053,9 +1088,29 @@ Cư Mốt
 Cư M'ta
 Cự Nẫm
 Cư Né
-Củng Sơn
 Cư Ni
+Cư Pơng
+Cư Prao
+Cư Prông
+Cư Pui
+Cư San
+Cư Suê
+Cự Thắng
+Cù Vân
+Cư Yên
+Cửa Bắc
+Cửa Cạn
+Cửa Đại
+Cửa Đông
+Cửa Dương
+Cửa Nam
+Cửa Ông
+Cửa Tùng
+Cửa Việt
+Cúc Đường
+Cúc Phương
 Cun Pheo
+Củng Sơn
 Cuối Hạ
 Cương Chính
 Cương Gián
@@ -1064,35 +1119,54 @@ Cương Sơn
 Cường Thịnh
 Cuor Đăng
 Cuôr KNia
-Cư Pơng
-Cư Prao
-Cư Prông
-Cư Pui
-Cư San
-Cư Suê
-Cự Thắng
 Cửu An
 Cửu Cao
-Cù Vân
-Cư Yang
-Cư Yên
 Đá Bạc
 Đà Bắc
 Đạ Chais
+Đá Đỏ
+Đạ Đờn
+Đạ K' Nàng
+Đa Kai
+Đa Kao
+Đạ Kho
+Đa Kia
+Đa Krông
+Đạ Lây
+Đà Loan
+Đa Lộc
+Đạ Long
+Đạ M' Rong
+Đa Mai
+Đa Mi
+Đạ M'ri
+Đạ Nhim
+Đạ Oai
+Đạ Pal
+Đa Phúc
+Đa Phước
+Đa Phước Hội
+Đạ Ploa
+Đa Quyn
+Đạ Ròn
+Đạ Rsal
+Đạ Sar
+Đà Sơn
+Đạ Tẻh
+Đa Thông
+Đa Tốn
+Đạ Tồn
+Đạ Tông
+Dạ Trạch
+Đà Vị
 Đắc Pre
-Đacpree
-Đắc Pree
-Đacpring
 Đắc Pring
 Đắc Sở
 Đắc Sơn
 Đắc Tôi
-Đá Đỏ
-Đạ Đờn
 Đại An
-Đại Ân 1
 Đại Ân  2
-Đại Ân 2
+Đại Ân 1
 Đại áng
 Đại Bái
 Đại Bản
@@ -1148,16 +1222,12 @@ Cư Yên
 Đại Thịnh
 Đại Tiến
 Đại Trạch
-Đại Từ
 Đại Tự
-Đại Xảo
 Đại Xuân
 Đài Xuyên
 Đại Xuyên
 Đại Yên
-Đa Kai
 Đắk Ang
-Đa Kao
 Đắk Blà
 Đắk Blô
 Đắk Búk So
@@ -1167,32 +1237,27 @@ Cư Yên
 Đăk Đoa
 Đắk Drô
 Đắk DRông
-Đắk Đrông
 Đắk Dục
 Đắk Gằn
 Đắk Glei
 Đắk Ha
 Đắk Hà
 Đăk HLơ
-Đạ Kho
 Đắk Hòa
 Đắk HRing
-Đa Kia
 Đak Jơ Ta
 Đắk Kan
-Đắk Kôi
 Đắk Kơ Ning
+Đắk Kôi
 Đăk Krong
 Đắk KRoong
 Đắk La
-Đắk Lao
 Đắk Liêng
 Đăk Long
 Đắk Long
 Dak Lua
 Đắk Mâm
 Đắk Man
-Dak Mang
 Đak Mang
 Đắk Mar
 Đắk Mil
@@ -1201,63 +1266,48 @@ Dak Mang
 Đắk Na
 Đăk Năng
 Đắk Nang
-Đạ K' Nàng
-Đạ K'Nàng
-Đạ KNàng
 Đắk N'Drót
 Đắk N'Dung
 Đắk Nên
 Đắk Ngo
 Đăk Ngọk
 Đak Nhau
-Đắk Nhau
 Đắk Nhoong
 Đắk Nia
 Đắk Nông
 Đắk Nuê
-Đak ơ
 Đak Ơ
-Đắk Ơ
 Đắk Pék
 Đắk Phơi
 Đắk Plao
 Đăk Pling
-Đắk Plô
 Đắk Pne
 Đak Pơ
-Đăk Pơ
 Đăk Pơ Pho
 Đắk PXi
 Đắk Ring
 Đắk R'La
 Đắk R'Măng
 Đăk R'Moan
-Đắk R'Moan
-Đắk Rồ
-Đa Krông
 Đắk Rơ Nga
-Đăk Roong
 Đắk Rơ Ông
 Đắk Rơ Wa
+Đăk Roong
 Đắk R'Tíh
 Đắk Ru
-Đắk Rung
 Đắk Ruồng
 Đắk Rve
 Đắk Sắk
 Đắk Sao
 Đắk Sin
 Đak SMar
-Đắk Smar
 Đắk Som
 Đăk Sơmei
 Đăk Song
-Đắk Song
 Đắk Sôr
 Đak Ta Ley
 Đắk Tăng
 Đắk Tô
-Đắk Tơ Kan
 Đắk Tờ Kan
 Đắk Tơ Lung
 Đăk Tơ Pang
@@ -1270,23 +1320,24 @@ Dak Mang
 Đắk Wil
 Đắk Xú
 Đăk Yă
-Đạ Lây
-Đà Loan
-Đa Lộc
-Đạ Long
-Đa Mai
-Đam Bri
 Đạm Bri
 Đầm Dơi
 Đầm Hà
-Đa Mi
-Đạ M'ri
-Đạ M'Ri
-Đam Rong
-Đạ M' Rong
-Đạ M'Rông
 Đàm Thuỷ
 Dân Chủ
+Dân Hóa
+Dân Hòa
+Đan Hội
+Dân Lực
+Dân Lý
+Đan Phượng
+Dân Quyền
+Dần Thàng
+Dân Thành
+Đan Thượng
+Dân Tiến
+Đan Trường
+Đản Ván
 Dang
 Đặng Cương
 Đằng Giang
@@ -1298,34 +1349,13 @@ Dang Kang
 Đặng Lễ
 Đặng Sơn
 Đặng Xá
-Dân Hạ
-Đan Hà
-Đạ Nhim
-Dân Hóa
-Dân Hòa
-Đan Hội
-Danh Sỹ
 Danh Thắng
-Dân Lực
-Dân Lý
-Đan Phượng
-Dân Quyền
-Dần Thàng
-Dân Thành
-Đan Thượng
-Dân Tiến
-Đan Trường
-Đản Ván
-Đạ Oai
-Đảo Bạch Long Vĩ
 Đạo Đức
 Đào Dương
 Đào Hữu Cảnh
 Đạo Long
 Đạo Lý
-Đảo Mắt
 Đào Mỹ
-Đào Ngạn
 Đạo Nghĩa
 Dào San
 Đạo Thạnh
@@ -1335,46 +1365,32 @@ Dào San
 Đào Viên
 Đạo Viện
 Đào Xá
-Đạ Pal
 Đáp Cầu
 Đập Đá
-Đa Phúc
-Đa Phước
-Đa Phước Hội
-Đạ Ploa
 Đạp Thanh
-Đa Quyn
-Đạ Ròn
-Đạ Rsal
-Đạ Sar
-Đà Sơn
 Đất Bằng
 Đất Cuốc
 Đất Đỏ
-Đạ Tẻh
 Đạt Hiếu
-Đa Thông
 Đất Mới
 Đất Mũi
-Đa Tốn
-Đạ Tồn
-Đạ Tông
-Dạ Trạch
-Dậu Dương
 Dầu Giây
 Đậu Liêu
 Dầu Tiếng
-Đà Vị
 Đê Ar
+Dế Su Phình
+Đề Thám
 Dền Sáng
 Dền Thàng
 Đèo Gia
-Dế Su Phình
-Đề Thám
-Địa Linh
 Dĩ An
 Dị Chế
-Địch Giáo
+Di Lăng
+Di Linh
+Dị Nậu
+Dị Sử
+Di Trạch
+Địa Linh
 Địch Quả
 Dịch Vọng
 Dịch Vọng Hậu
@@ -1390,10 +1406,8 @@ Diễn Bích
 Điện Biên
 Điện Biên Đông
 Diên Bình
-Diễn Bình
 Diễn Cát
 Diễn Châu
-Điền Công
 Diên Điền
 Diễn Đoài
 Diên Đồng
@@ -1421,17 +1435,14 @@ Diên Lâm
 Diên Lãm
 Diễn Lâm
 Diễn Liên
-Diên Lộc
 Diễn Lộc
 Điền Lộc
 Diễn Lợi
 Điền Lư
-Diễn Minh
 Điện Minh
 Điền Môn
 Diễn Mỹ
 Điền Mỹ
-Điện Nam
 Điện Nam Bắc
 Điện Nam Đông
 Điện Nam Trung
@@ -1455,8 +1466,6 @@ Diên Sơn
 Diên Tân
 Diễn Tân
 Diễn Thái
-Diễn Thắng
-Điện Thắng
 Điện Thắng Bắc
 Điện Thắng Nam
 Điện Thắng Trung
@@ -1469,7 +1478,19 @@ Diễn Thọ
 Điện Thọ
 Điền Thượng
 Điện Tiến
-Dị Nậu
+Diên Toàn
+Diễn Trung
+Điền Trung
+Điện Trung
+Diễn Trường
+Diễn Vạn
+Điền Xá
+Diên Xuân
+Diễn Xuân
+Diễn Yên
+Điệp Nông
+Điêu Lương
+Diêu Trì
 Dìn Chin
 Định An
 Đỉnh Bàn
@@ -1478,6 +1499,26 @@ Dìn Chin
 Định Bình
 Đình Cả
 Đình Cao
+Đình Chu
+Định Công
+Định Cư
+Đình Dù
+Định Hải
+Định Hiệp
+Định Hoà
+Định Hóa
+Định Hòa
+Định Hưng
+Dĩnh Kế
+Đinh Lạc
+Đình Lập
+Định Liên
+Định Long
+Định Môn
+Định Mỹ
+Đình Phong
+Đình Phùng
+Định Quán
 Đỉnh Sơn
 Định Sơn
 Định Tân
@@ -1491,19 +1532,19 @@ Dìn Chin
 Đinh Trang Thượng
 Dĩnh Trì
 Định Trung
-Định Tường
 Đinh Văn
 Đinh Xá
 Đình Xuyên
 Định Yên
-Dị Sử
-Di Trạch
-Dlê Yang
 ĐLiê Ya
 Dliê Yang
-Đoài Côn
+Đỗ Động
+Đô Lương
+Đỗ Sơn
+Đô Thành
+Đô Vinh
+Đỗ Xuyên
 Đoài Dương
-Đoài Khôn
 Đoan Bái
 Đoàn Đào
 Đoan Hạ
@@ -1516,14 +1557,36 @@ Dliê Yang
 Đốc Binh Kiều
 Độc Lập
 Đốc Tín
-Đỗ Động
 Đồi 61
 Đội Bình
 Đội Cấn
 Đội Cung
 Đồi Ngô
-Đọi Sơn
-Đô Lương
+Dồm Cang
+Đôn Châu
+Đồn Đạc
+Đôn Nhân
+Đôn Phong
+Đôn Phục
+Đôn Thuận
+Đồn Xá
+Đôn Xuân
+Đông
+Đông Á
+Đông An
+Đông Anh
+Đông Ba
+Đông Bắc
+Đồng Bài
+Đồng Bẩm
+Đông Bình
+Đồng Bục
+Đông Các
+Đồng Cẩm
+Đông Cao
+Đồng Chum
+Đông Cơ
+Đồng Cốc
 Đông Cuông
 Đông Cương
 Đông Cường
@@ -1538,7 +1601,6 @@ Dliê Yang
 Đông Dư
 Đồng Du
 Đông Dương
-Đồng Gia
 Đông Giang
 Đồng Giáp
 Đông Hà
@@ -1565,8 +1627,6 @@ Dliê Yang
 Đông Hương
 Đồng Hướng
 Đồng Hưu
-Đông Huy
-Đồng ích
 Đồng Ích
 Đông Kết
 Đông Khê
@@ -1574,7 +1634,6 @@ Dliê Yang
 Đồng Kho
 Đồng Khởi
 Đông Kinh
-Đông Kỳ
 Đồng Kỳ
 Đồng Kỵ
 Đông La
@@ -1582,7 +1641,6 @@ Dliê Yang
 Đông Lai
 Đông Lâm
 Đồng Lâm
-Động Lâm
 Đông Lễ
 Đồng Lê
 Đồng Liên
@@ -1593,10 +1651,8 @@ Dliê Yang
 Đông Lợi
 Đồng Lợi
 Đông Long
-Đồng Luận
 Đông Lương
 Đồng Lương
-Đồng Lý
 Đống Mác
 Đông Mai
 Đồng Mai
@@ -1605,13 +1661,11 @@ Dliê Yang
 Đồng Mỏ
 Đồng Môn
 Đông Mỹ
-Đồng Mỹ
 Đồng Nai
 Đồng Nai Thượng
 Đông Nam
 Đông Ngạc
 Đông Ngàn
-Đồng Nghê
 Đông Ngũ
 Đồng Nguyên
 Đồng Nhân
@@ -1630,6 +1684,26 @@ Dliê Yang
 Động Quan
 Đông Quang
 Đồng Quang
+Đồng Quế
+Đông Quí
+Đổng Quốc Bình
+Đồng Quý
+Đồng Rui
+Đồng Ruộng
+Đông Sang
+Đông Sơn
+Đồng Sơn
+Đồng Tâm
+Đông Tân
+Đồng Tân
+Đông Tảo
+Đông Thái
+Đồng Thái
+Đồng Than
+Đông Thắng
+Đồng Thắng
+Đông Thanh
+Đông Thành
 Đông Thạnh
 Đồng Thanh
 Đồng Thành
@@ -1653,8 +1727,6 @@ Dliê Yang
 Đông Văn
 Đồng Văn
 Đông Vệ
-Đông Viên
-ĐôngViên
 Đồng Việt
 Đông Vinh
 Đông Vĩnh
@@ -1667,27 +1739,42 @@ Dliê Yang
 Đồng ý
 Đông Yên
 Đồng Yên
-Do Nhân
-Đôn Nhân
-Đôn Phong
-Đôn Phục
-Đôn Thuận
-Đồn Xá
-Đôn Xuân
 Đoọc Mạy
-Đỗ Sơn
-Đô Thành
-Đô Vinh
-Đỗ Xuyên
 D'Ran
 Dray Bhăng
 Dray Sáp
 Đu
+Du Già
+Dư Hàng
+Dư Hàng Kênh
+Du Lễ
+Đú Sáng
+Du Tiến
 Đứa Mòn
-Đức Lâm
+Đúc
+Đức An
+Đức Bác
+Đức Bình
+Đức Bình Đông
+Đức Bình Tây
+Đức Bồng
+Đức Chánh
+Đức Chính
+Đức Đồng
+Đức Giang
+Đức Hạnh
+Đức Hiệp
+Đức Hoà
+Đức Hóa
+Đức Hòa
+Đức Hòa Đông
+Đức Hòa Hạ
+Đức Hòa Thượng
+Đức Hồng
+Đức Hợp
+Đức Hương
 Đức Lân
 Đức Lạng
-Đức Lập
 Đức Lập Hạ
 Đức Lập Thượng
 Đức Liên
@@ -1701,7 +1788,6 @@ Dray Sáp
 Đức Minh
 Đức Mỹ
 Đức Nghĩa
-Đức Nhân
 Đức Nhuận
 Đức Ninh
 Đức Ninh Đông
@@ -1713,20 +1799,30 @@ Dray Sáp
 Đức Tài
 Đức Tân
 Đức Thắng
-Đức Thanh
 Đức Thành
 Đức Thạnh
-Đức Thịnh
 Đức Thọ
 Đức Thông
 Đức Thuận
 Đức Thượng
-Đức Thủy
 Đức Tín
 Đức Trạch
 Dục Tú
-Đức Tùng
 Đức Vân
+Đức Xuân
+Đức Xương
+Đức Xuyên
+Dực Yên
+Dun
+Đưng KNớ
+Dũng Liệt
+Dũng Nghĩa
+Dũng Phong
+Dũng Tiến
+Đường 10
+Đường Âm
+Dưỡng Điềm
+Dương Đông
 Dương Đức
 Dương Hà
 Dương Hòa
@@ -1746,6 +1842,22 @@ Dương Quang
 Dương Quỳ
 Dương Sơn
 Dương Thành
+Đường Thượng
+Dương Thủy
+Dương Tơ
+Dương Xá
+Dương Xuân Hội
+Dur KMăl
+Dữu Lâu
+Duy Châu
+Duy Hải
+Duy Hòa
+Duy Minh
+Duy Nghĩa
+Duy Nhất
+Duy Ninh
+Duy Phiên
+Duy Phú
 Duy Phước
 Duy Sơn
 Duy Tân
@@ -1754,18 +1866,19 @@ Duy Thu
 Duy Trinh
 Duy Trung
 Duy Vinh
+Duyên Hà
+Duyên Hải
+Duyên Thái
+Duyệt Trung
+é Tòng
 Ea Bá
 Ea Bar
-EaBar
 Ea BHốk
-EaBia
 Ea Blang
 Ea Bông
 Ea Bung
-Eachà Rang
 Ea Dăh
 Ea Đar
-Ea Đê
 Ea Drăng
 Ea Drông
 Ea D'Rơng
@@ -1789,6 +1902,25 @@ Ea KNuec
 Ea KPam
 Ea Ktur
 Ea Kuăng
+Ea Kuêh
+Ea Lai
+Ea Lâm
+Ea Lê
+Ea M' Doal
+Ea M'DRóh
+Ea M'nang
+Ea Na
+Ea Nam
+Ea Ngai
+Ea Ning
+Ea Nuôl
+Ea Ô
+Ea Păl
+Ea Phê
+Ea Pil
+Ea Pô
+Ea Pốk
+Ea Puk
 Ea Ral
 Ea R'Bin
 Ea Riêng
@@ -1804,12 +1936,36 @@ Ea Tân
 Ea Tar
 Ea Tiêu
 Ea Tih
-Ea Tíh
 Ea Tir
 Ea T'Ling
 Ea Tóh
 Ea Trang
+Ea Trul
+Ea Tu
+Ea Tul
+Ea Uy
+Ea Wer
+Ea Wy
+Ea Yiêng
+Ea Yông
+EaBar
+EaBia
+Eachà Rang
+Ealy
 EaTrol
+Ga Ri
+Gành Dầu
+Gành Hào
+Gào
+Gáo Giồng
+Ghềnh Ráng
+Gia An
+Gia Bắc
+Gia Bình
+Gia Cẩm
+Gia Canh
+Gia Cát
+Gia Điền
 Gia Đông
 Gia Đức
 Gia Hanh
@@ -1820,8 +1976,6 @@ Gia Hòa 2
 Gia Hội
 Gia Hưng
 Gia Huynh
-Giai Phạm
-Giai Xuân
 Gia Khánh
 Gia Kiệm
 Gia Lạc
@@ -1833,28 +1987,12 @@ Gia Lương
 Gia Miễn
 Gia Minh
 Gia Mô
-Giang Biên
-Giàng Chu Phìn
-Giang Điền
-Giang Hải
-Gia Nghĩa
-Giang Ly
-Giang Ma
-Giang Sơn
-Giang Sơn Đông
-Giang Sơn Tây
-Giang Tiên
-Giảng Võ
-Giáp Đắt
+Gia Ninh
 Gia Phố
 Gia Phong
 Gia Phú
 Gia Phù
 Gia Phương
-Giáp Lai
-Giáp Sơn
-Giáp Trung
-Giá Rai
 Gia Ray
 Gia Sàng
 Gia Sinh
@@ -1879,42 +2017,132 @@ Gia Viễn
 Gia Vượng
 Gia Xuân
 Gia Xuyên
+Giai Phạm
+Giai Xuân
+Giang Biên
+Giàng Chu Phìn
+Giang Điền
+Giang Hải
+Giang Ly
+Giang Ma
+Giang Sơn
+Giang Sơn Đông
+Giang Sơn Tây
+Giang Tiên
+Giảng Võ
+Giao An
+Giao Châu
+Giao Hà
+Giao Hải
+Giáo Hiệu
+Giao Hương
+Giao Lạc
+Giáo Liêm
+Giao Long
+Giao Nhân
+Giao Phong
+Giao Tân
+Giao Thanh
+Giao Thạnh
+Giao Thiện
+Giao Thịnh
+Giao Tiến
+Giao Xuân
+Giao Yến
+Giáp Bát
+Giáp Đắt
+Giáp Lai
+Giáp Sơn
+Giáp Trung
 Giếng Đáy
 Gio An
-Gio Bình
 Gio Châu
 Gio Hải
-Gio Hòa
-Giới Phiên
 Gio Linh
 Gio Mai
 Gio Mỹ
-Giồng Giềng
-Giồng Riềng
-Giồng Trôm
-Gio Phong
 Gio Quang
 Gio Sơn
-Gio Thành
 Gio Việt
+Giới Phiên
+Giồng Riềng
+Giồng Trôm
 Giục Tượng
 Glar
 Gò Dầu
-Gôi
 Gò Quao
+Gôi
 Gung Ré
+H Bông
+H' Neng
 Hà An
 Hà Bắc
 Hạ Bằng
+Hà Bầu
+Hà Bình
+Hà Cầu
+Hà Châu
+Hạ Đình
+Hà Đông
+Hà Giang
+Hạ Giáp
+Hà Hải
+Hà Hiệu
+Hạ Hoà
+Hà Hồi
+Hà Huy Tập
+Hà Khánh
+Hà Khẩu
+Hà Kỳ
+Hà Lai
+Hà Lam
+Hà Lâm
+Hà Lầm
+Hà Lang
+Hà Lâu
+Hạ Lễ
+Hà Linh
+Hà Lĩnh
+Hà Lộc
+Hà Long
+Hạ Long
+Hà Lương
+Hạ Lý
+Hà Mãn
+Hạ Mỗ
+Hà Mòn
+Hà Ngọc
+Hà Phong
+Hà Sơn
+Hạ Sơn
+Hà Tam
+Hà Tân
+Hà Tây
+Hà Thạch
+Hà Thái
+Hà Thanh
+Hà Thượng
+Hà Tiến
+Hạ Trạch
+Hà Trung
+Hạ Trung
+Hà Tu
+Hà Vinh
+Hắc Dịch
+Hải An
+Hải Anh
+Hải Ba
+Hai Bà Trưng
+Hải Bắc
+Hải Bình
+Hải Bối
 Hải Cảng
 Hải Chánh
 Hải Châu
 Hải Châu  I
-Hải Châu I
 Hải Châu II
 Hải Chính
 Hải Cường
-Hải Đình
 Hải Định
 Hải Đông
 Hải Dương
@@ -1926,7 +2154,6 @@ Hải Hòa
 Hải Hưng
 Hải Khê
 Hải Lâm
-Hải Lăng
 Hải Lạng
 Hải Lệ
 Hải Lĩnh
@@ -1950,19 +2177,18 @@ Hải Sơn
 Hải Tân
 Hải Tây
 Hải Thái
-Hà Lầm
-Hà Lan
-Hà Lang
-Hà Lâu
-Hạ Lễ
-Hà Linh
-Hà Lĩnh
-Hà Lộc
-Hà Long
-Hạ Long
-Hà Lương
-Hạ Lý
-Hà Mãn
+Hải Thanh
+Hải Thành
+Hải Thượng
+Hải Tiến
+Hải Triều
+Hải Trung
+Hải Trường
+Hải Vân
+Hải Xuân
+Hải Yang
+Hải Yên
+Hải Yến
 Hàm Cần
 Hàm Chính
 Hàm Cường
@@ -1973,16 +2199,37 @@ Hàm Kiệm
 Hàm Liêm
 Hàm Minh
 Hàm Mỹ
-Hàm Nhơn
 Hàm Ninh
-Hạ Mỗ
-Hà Mòn
 Hàm Phú
 Hàm Rồng
 Hàm Tân
 Hàm Thắng
 Hàm Thạnh
 Hàm Tiến
+Hàm Trí
+Hàm Tử
+Hán Đà
+Hán Quảng
+Hàng Bạc
+Hàng Bài
+Hàng Bồ
+Hàng Bông
+Hàng Bột
+Hàng Buồm
+Hang Chú
+Hàng Đào
+Háng Đồng
+Hàng Gai
+Hàng Gòn
+Hàng Kênh
+Hang Kia
+Háng Lìa
+Hàng Mã
+Hàng Trạm
+Hàng Trống
+Hàng Vịnh
+Hanh Cù
+Hạnh Dịch
 Hành Đức
 Hành Dũng
 Hạnh Lâm
@@ -1995,36 +2242,26 @@ Hành Thiện
 Hành Thịnh
 Hành Thuận
 Hành Tín  Đông
-Hành Tín Đông
 Hành Tín Tây
 Hành Trung
-Hà Ninh
-Hán Quảng
 Hảo Đước
-Hào Lý
-Hảo Nghĩa
 Hào Phú
-Hà Phong
-Hà Phú
 Hạp Lĩnh
-Hà Ra
-Hà Sơn
-Hạ Sơn
-Hà Tam
-Hà Tân
-Hà Tây
-Hà Thạch
-Hà Thái
-Hà Thanh
-Hạ Thôn
-Hà Vân
-Hà Vị
-Hà Vinh
-Hà Yên
-H Bông
+Hát Lìu
+Hát Lót
+Hát Môn
+Hậu Lộc
+Hậu Mỹ Bắc A
+Hậu Mỹ Bắc B
+Hậu Mỹ Phú
+Hậu Mỹ Trinh
+Hậu Nghĩa
+Hậu Thành
+Hậu Thạnh
+Hậu Thạnh Đông
+Hậu Thạnh Tây
 Hẹ Muông
 Hiền Chung
-Hiền Đa
 Hiền Giang
 Hiền Hào
 Hiển Khánh
@@ -2038,19 +2275,16 @@ Hiến Thành
 Hiền Thành
 Hiên Vân
 Hiệp An
-Hiệp Bình
 Hiệp Bình Chánh
 Hiệp Bình Phước
 Hiệp Cát
 Hiệp Cường
 Hiệp Đức
-Hiệp Hạ
 Hiệp Hoà
 Hiệp Hòa
 Hiệp Hưng
 Hiệp Lợi
 Hiệp Lực
-Hiệp Mỹ
 Hiệp Mỹ Đông
 Hiệp Mỹ Tây
 Hiệp Ninh
@@ -2058,22 +2292,55 @@ Hiệp Phú
 Hiệp Phước
 Hiệp Sơn
 Hiệp Tân
+Hiệp Thành
+Hiệp Thạnh
+Hiệp Thuận
+Hiệp Tùng
+Hiệp Xương
+Hiếu
+Hiếu Liêm
+Hiếu Nghĩa
+Hiếu Nhơn
+Hiếu Phụng
+Hiếu Thành
+Hiếu Thuận
+Hiếu Trung
+Hiếu Tử
+Him Lam
+HNol
+Hồ
+Hồ Bốn
+Hồ Đắc Kiện
+Hộ Đáp
+Hộ Độ
+Hộ Hải
+Hố Mít
+Hơ Moong
+Hố Nai
+Hố Nai 3
+Hồ Nam
+Hộ Phòng
+Hố Quáng Phìn
+Hồ Sơn
+Hồ Thầu
+Hồ Thị Kỷ
+Hồ Tùng Mậu
+Hồ Xá
+Hoà An
+Hóa An
+Hòa An
 Hòa Ân
-Hoà Bắc
 Hòa Bắc
 Hoà Bình
 Hòa Bình
 Hòa Bình 1
-Hòa Bình 2
 Hòa Bình Thạnh
 Hoà Chánh
-Hoà Châu
 Hòa Châu
 Hòa Chính
 Hoà Chung
 Hòa Cư
 Hòa Cuông
-Hòa Cường
 Hòa Cường Bắc
 Hòa Cường Nam
 Hòa Điền
@@ -2090,19 +2357,23 @@ Hòa Hiệp
 Hòa Hiệp Bắc
 Hòa Hiệp Nam
 Hoà Hiệp Trung
-Hòa Hiệp Trung
 Hoà Hiếu
 Hòa Hội
 Hóa Hợp
 Hòa Hưng
 Hòa Hương
-Hoài Châu
-Hoài Châu Bắc
-Hoài Đức
-Hoài Hải
-Hoài Hảo
-Hoài Hương
-Hoà Liên
+Hòa Khánh
+Hòa Khánh Bắc
+Hòa Khánh Đông
+Hòa Khánh Nam
+Hòa Khánh Tây
+Hòa Khê
+Hòa Khương
+Hòa Kiến
+Hoà Lạc
+Hòa Lạc
+Hòa Lâm
+Hòa Lễ
 Hòa Liên
 Hoa Lộc
 Hoà Lộc
@@ -2115,17 +2386,85 @@ Hoa Lư
 Hoả Lựu
 Hoà Mạc
 Hòa Mạc
-Hoà Minh
 Hòa Minh
 Hoà Mục
 Hoà Mỹ
 Hòa Mỹ
 Hòa Mỹ Đông
 Hòa Mỹ Tây
-Hoa Nam
 Hòa Nam
+Hoà Nghĩa
+Hòa Nghĩa
+Hòa Nhơn
+Hòa Ninh
+Hòa Phát
+Hòa Phong
+Hoà Phú
+Hòa Phú
+Hóa Phúc
+Hòa Phước
+Hòa Quang Bắc
+Hòa Quang Nam
+Hoà Quý
+Hóa Quỳ
+Hoa Sơn
+Hóa Sơn
+Hòa Sơn
+Hòa Tâm
+Hoà Tân
+Hòa Tân
+Hòa Tân Đông
+Hòa Tân Tây
+Hòa Thạch
+Hoa Thám
+Hòa Thắng
+Hoa Thành
+Hóa Thanh
+Hòa Thành
+Hòa Thạnh
+Hòa Thịnh
+Hòa Thọ Đông
+Hòa Thọ Tây
+Hoà Thuận
+Hòa Thuận
+Hòa Thuận Đông
+Hòa Thuận Tây
+Hóa Thượng
+Hoa Thủy
+Hoả Tiến
+Hóa Tiến
+Hòa Tiến
+Hòa Tịnh
+Hòa Trạch
+Hòa Trị
+Hóa Trung
+Hòa Trung
+Hòa Tú 1
+Hòa Tú II
+Hoà Vinh
+Hòa Xá
+Hòa Xuân
+Hòa Xuân Đông
+Hòa Xuân Nam
+Hòa Xuân Tây
+Hoài Châu
+Hoài Châu Bắc
+Hoài Đức
+Hoài Hải
+Hoài Hảo
+Hoài Hương
+Hoài Mỹ
+Hoài Phú
+Hoài Sơn
+Hoài Tân
+Hoài Thanh
+Hoài Thanh Tây
+Hoài Thượng
+Hoài Xuân
+Hoàn Lão
+Hoàn Long
+Hoàn Sơn
 Hoàng An
-Hoằng Anh
 Hoằng Cát
 Hoàng Châu
 Hoằng Châu
@@ -2134,27 +2473,37 @@ Hoằng Đại
 Hoàng Đan
 Hoằng Đạo
 Hoằng Đạt
+Hoàng Diệu
+Hoàng Đông
+Hoàng Đồng
+Hoàng Động
+Hoằng Đông
+Hoằng Đồng
+Hoằng Đức
+Hoàng Giang
+Hoằng Giang
+Hoằng Hà
+Hoằng Hải
+Hoàng Hanh
+Hoàng Hoa
+Hoàng Hoa Thám
+Hoằng Hợp
+Hoàng Khai
+Hoàng Kim
 Hoằng Kim
 Hoàng Lâu
 Hoàng Liên
 Hoàng Liệt
 Hoằng Lộc
 Hoàng Long
-Hoằng Long
 Hoàng Lương
-Hoằng Lương
 Hoằng Lưu
-Hoằng Lý
-Hoàng Mai
-Hoằng Minh
 Hoàng Nam
 Hoằng Ngọc
-Hoàng Ninh
 Hoàng Nông
 Hoằng Phong
 Hoằng Phú
 Hoằng Phụ
-Hoằng Phúc
 Hoằng Phượng
 Hoằng Quang
 Hoàng Quế
@@ -2166,7 +2515,6 @@ Hoàng Tân
 Hoằng Tân
 Hoàng Tây
 Hoằng Thái
-Hoàng Thắng
 Hoằng Thắng
 Hoàng Thanh
 Hoằng Thanh
@@ -2174,89 +2522,45 @@ Hoằng Thành
 Hoang Thèn
 Hoằng Thịnh
 Hoàng Thu Phố
-Hoàn Lão
-Hoàn Long
-Hoàn Sơn
-Hoàn Trạch
-Hoà Phát
-Hòa Phát
-Hoà Phong
-Hòa Phong
-Hoà Phú
-Hòa Phú
-Hóa Phúc
-Hoà Phước
-Hòa Phước
-Hòa Quang
-Hòa Quang Bắc
-Hòa Quang Nam
-Hoà Quý
-Hóa Quỳ
-Hoa Sơn
-Hoà Sơn
-Hóa Sơn
-Hòa Sơn
-Hòa Tâm
-Hoà Tân
-Hòa Tân
-Hòa Tân Đông
-Hòa Tân Tây
+Hoàng Tiến
+Hoằng Tiến
+Hoằng Trạch
+Hoàng Trĩ
+Hoằng Trinh
+Hoằng Trung
+Hoằng Trường
+Hoàng Tung
+Hoàng Vân
+Hoàng Văn Thụ
+Hoàng Việt
+Hoàng Xá
+Hoằng Xuân
+Hoằng Xuyên
+Hoằng Yến
+Hoành Bồ
+Hoành Mô
+Hoành Sơn
 Hoạt Giang
-Hòa Thạch
-Hoa Thám
-Hòa Thắng
-Hoa Thành
-Hóa Thanh
-Hòa Thành
-Hòa Thạnh
-Hòa Thịnh
-Hoà Thọ
-Hòa Thọ Đông
-Hòa Thọ Tây
-Hoà Thuận
-Hòa Thuận
-Hòa Thuận Đông
-Hòa Thuận Tây
-Hóa Thượng
-Hoa Thủy
-Hoà Tiến
-Hoả Tiến
-Hóa Tiến
-Hòa Tiến
-Hòa Tịnh
-Hoà Trạch
-Hòa Trạch
-Hòa Trị
-Hóa Trung
-Hòa Trung
-Hòa Tú 1
-Hòa Tú 2
-Hòa Tú I
-Hòa Tú II
-Hoà Vinh
-Hòa Vinh
-Hòa Xá
-Hoà Xuân
+Hóc Môn
+Hội An
+Hội An Đông
+Hội Hoan
+Hội Hợp
+Hội Nghĩa
+Hồi Ninh
+Hội Phú
+Hội Sơn
 Hội Thương
-Hội Xá
 Hồi Xuân
 Hội Xuân
-Hố Mít
-Hơ Moong
-Hố Nai
-Hố Nai 1
-Hố Nai 3
-Hồ Nam
 Hòn Đất
-Hòn Gai
+Hòn Nghệ
+Hòn Tre
 Hồng An
 Hồng Bắc
 Hồng Bạch
 Hồng Ca
 Hồng Châu
-Hồng Đà
-Hồng Đại
-Hồng Định
 Hồng Dụ
 Hồng Đức
 Hồng Dũng
@@ -2280,14 +2584,10 @@ Hồng Lý
 Hồng Minh
 Hồng Nam
 Hồng Ngài
-Hồng Ngự
 Hồng Phong
 Hồng Phúc
 Hồng Phương
 Hồng Quang
-Hồng Quảng
-Hồng Quỳnh
-Hồng Sĩ
 Hồng Sơn
 Hồng Sỹ
 Hồng Thái
@@ -2300,21 +2600,14 @@ Hồng Thượng
 Hồng Thủy
 Hồng Tiến
 Hồng Trị
-Hồng Trung
 Hồng Vân
 Hồng Việt
-Hòn Nghệ
-Hòn Thơm
-Hòn Tre
 Hợp Châu
 Hợp Đồng
 Hợp Đức
 Hợp Giang
-Hợp Hải
 Hợp Hòa
-Hộ Phòng
 Hợp Hưng
-Hợp Kim
 Hợp Lý
 Hợp Minh
 Hợp Nhất
@@ -2324,9 +2617,22 @@ Hợp Thanh
 Hợp Thành
 Hợp Thịnh
 Hợp Tiến
-Hố Quáng Phìn
-Hồ Sơn
-Hồ Thầu
+Hra
+Hua Bun
+Hua La
+Hua Nà
+Hừa Ngài
+Hua Nhàn
+Hua Păng
+Hua Thanh
+Hua Trai
+Húc
+Húc Động
+Húc Nghì
+Hùng An
+Hưng Bình
+Hưng Chiến
+Hưng Chính
 Hưng Công
 Hùng Cường
 Hưng Đạo
@@ -2334,7 +2640,6 @@ Hưng Điền
 Hưng Điền A
 Hưng Điền B
 Hưng Định
-Hùng Đô
 Hưng Đông
 Hùng Đức
 Hùng Dũng
@@ -2345,10 +2650,8 @@ Hưng Hoá
 Hưng Hòa
 Hưng Hội
 Hưng Khánh
-Hưng Khánh Trung
 Hưng Khánh Trung A
 Hưng Khánh Trung B
-Hưng Lam
 Hưng Lễ
 Hưng Lĩnh
 Hùng Lô
@@ -2367,17 +2670,28 @@ Hưng Phong
 Hưng Phú
 Hưng Phúc
 Hưng Phước
-Hùng Quan
+Hùng Sơn
+Hưng Tân
+Hưng Tây
+Hùng Thắng
+Hùng Thành
+Hưng Thành
+Hưng Thạnh
+Hưng Thi
+Hưng Thịnh
+Hưng Thông
+Hưng Thuận
+Hưng Thủy
+Hùng Tiến
+Hưng Trạch
+Hưng Trí
 Hưng Trung
 Hùng Việt
 Hưng Vũ
 Hùng Vương
-Hưng Xá
-Hưng Xuân
 Hùng Xuyên
 Hưng Yên
 Hưng Yên Bắc
-Hưng Yên Nam
 Huổi Lèng
 Huổi Lếnh
 Huổi Luông
@@ -2391,15 +2705,12 @@ Hương Cần
 Hương Canh
 Hương Chữ
 Hướng Đạo
-Hương Điền
 Hương Đô
 Hương Gián
 Hương Giang
 Hướng Hiệp
 Hương Hồ
-Hương Hoà
 Hương Hóa
-Hương Hòa
 Hương Hữu
 Hương Khê
 Hương Lạc
@@ -2415,16 +2726,13 @@ Hương Mạc
 Hương Mai
 Hương Minh
 Hương Mỹ
-Hương Nê
 Hương Ngải
 Hương Nguyên
-Hương Nha
 Hương Nhượng
 Hương Nộn
 Hương Phong
 Hương Phú
 Hướng Phùng
-Hương Quang
 Hương Sơ
 Hương Sơn
 Hướng Sơn
@@ -2433,29 +2741,48 @@ Hương Thọ
 Hướng Thọ Phú
 Huống Thượng
 Hương Thủy
+Hương Toàn
+Hương Trà
+Hương Trạch
+Hương Vân
+Hương Văn
+Hương Vĩ
+Hướng Việt
+Hương Vinh
+Hương Vĩnh
+Hương Xạ
+Hương Xuân
+Hữu Bằng
+Hữu Đạo
+Hữu Định
+Hữu Hoà
+Hữu Khánh
+Hữu Khuông
+Hữu Kiệm
+Hữu Kiên
+Hữu Lân
+Hữu Lập
 Hữu Lễ
 Hữu Liên
 Hữu Lợi
 Hữu Lũng
 Hữu Nghị
 Hữu Sản
-Hữu Thác
 Hựu Thành
 Hựu Thạnh
 Hữu Văn
 Hữu Vinh
-Hữu Vĩnh
 Huy Bắc
-Huyền Hội
-Huyền Sơn
-Huyền Tụng
 Huy Giáp
 Huy Hạ
 Huy Khiêm
-Huỳnh Hữu Nghĩa
 Huy Tân
 Huy Thượng
 Huy Tường
+Huyền Hội
+Huyền Sơn
+Huyền Tụng
+Huỳnh Hữu Nghĩa
 Hy Cương
 I
 Ia Ake
@@ -2468,7 +2795,6 @@ Ia Boòng
 Ia Broăi
 Ia Chia
 Ia Chim
-Ia Dal
 Ia Đal
 Ia Dêr
 Ia Din
@@ -2488,8 +2814,6 @@ Ia Hrung
 Ia JLơi
 Ia Ka
 Ia KDăm
-Ia K'Đăm
-Ia Ke
 Ia Kênh
 Ia Kha
 Ia Khai
@@ -2498,6 +2822,24 @@ Ia Kla
 Ia Kly
 Ia Ko
 Ia KRai
+Ia Krêl
+Ia Kreng
+Ia Kriêng
+Ia Kring
+Ia Lang
+Ia Lâu
+Ia Le
+Ia Lốp
+Ia Ly
+Ia Ma Rơn
+Ia Me
+Ia Mláh
+Ia Mơ
+Ia Mơ Nông
+Ia Nan
+Ia Nhin
+Ia O
+Ia Pal
 Ia Pếch
 Ia Peng
 Ia Pết
@@ -2527,38 +2869,32 @@ Ia Tul
 Ia Vê
 Ia Yeng
 Ia Yok
-ích Hậu
 Ích Hậu
 III
-ít Ong
 Ít Ong
 IV
 Jơ Ngây
+K' Dang
 Ka Dăng
-Kà Dăng
 Ka Đô
 Ka Đơn
 Ka Lăng
 Ka Long
 Kan Hồ
 KBang
-Kcn Bàu Bàng
-Kcn Bình Đường
-Kcn Đại Đăng
-Kcn Đất Cuốc
-Kcn Đồng An
-Kcn Đồng An 2
+Kế An
+Kế Sách
+Kẻ Sặt
+Kế Thành
 Keng Đu
 Kênh Dương
 Kênh Giang
 Keo Lôm
-Kéo Yên
 Kép
-Kế Sách
-Kẻ Sặt
-Kế Thành
-Khắc Niệm
 Khả Cửu
+Khả Phong
+Kha Sơn
+Khắc Niệm
 Khai Quang
 Khai Sơn
 Khai Thái
@@ -2588,6 +2924,29 @@ Khánh Hiệp
 Khánh Hoà
 Khánh Hòa
 Khánh Hội
+Khánh Hồng
+Khánh Hợp
+Khánh Hưng
+Khánh Khê
+Khánh Lâm
+Khánh Lộc
+Khánh Lợi
+Khánh Long
+Khánh Mậu
+Khánh Nam
+Khánh Nhạc
+Khánh Phú
+Khánh Sơn
+Khánh Thành
+Khánh Thạnh Tân
+Khánh Thiện
+Khánh Thịnh
+Khánh Thuận
+Khánh Thượng
+Khánh Thủy
+Khánh Tiên
+Khánh Tiến
+Khánh Trung
 Khánh Vân
 Khánh Vĩnh
 Khánh Vĩnh Yên
@@ -2597,10 +2956,7 @@ Khánh Yên Hạ
 Khánh Yên Thượng
 Khánh Yên Trung
 Khao Mang
-Khả Phong
-Kha Sơn
 Khau Tinh
-Khâu Tinh
 Khâu Vai
 Khe Mo
 Khe Sanh
@@ -2617,12 +2973,12 @@ Khuê Mỹ
 Khuê Ngọc Điền
 Khuê Trung
 Khun Há
+Khuôn Hà
+Khuôn Lùng
 Khương Đình
 Khương Mai
 Khương Thượng
 Khương Trung
-Khuôn Hà
-Khuôn Lùng
 Khuyến Nông
 Kiến An
 Kiền Bái
@@ -2631,7 +2987,6 @@ Kiến Bình
 Kiên Đài
 Kiến Đức
 Kiến Giang
-Kiểng Phước
 Kiến Hưng
 Kiện Khê
 Kiên Lao
@@ -2641,6 +2996,24 @@ Kiến Quốc
 Kiên Thành
 Kiến Thành
 Kiến Thiết
+Kiên Thọ
+Kiến Xương
+Kiểng Phước
+Kiệt Sơn
+Kiêu Kỵ
+Kim An
+Kim Anh
+Kim Bài
+Kim Bình
+Kim Bôi
+Kim Bon
+Kim Chân
+Kim Chính
+Kim Chung
+Kim Cúc
+Kim Dinh
+Kim Đính
+Kim Định
 Kim Đông
 Kim Đồng
 Kim Đức
@@ -2651,34 +3024,50 @@ Kim Hoa
 Kim Hóa
 Kim Hòa
 Kim Hỷ
-Kim Khê
 Kim Lan
 Kim Lập
 Kim Liên
 Kim Linh
 Kim Loan
-Kim Lộc
 Kim Long
 Kim Lũ
 Kim Lư
-Kim Lương
 Kim Mã
+Kim Mỹ
+Kim Ngọc
+Kim Nỗ
+Kim Nọi
+Kim Phú
+Kim Phượng
+Kim Quan
+Kim Sơn
+Kim Song Trường
+Kim Tân
+Kim Thạch
+Kim Thái
+Kim Thành
+Kim Thư
+Kim Thượng
+Kim Thủy
+Kim Trung
+Kim Xá
+Kim Xuyên
+Kinh Bắc
+Kinh Cùng
+Kinh Dinh
 Kon Chiêng
 Kon Đào
 Kon Dơng
 Kon Gang
-Kông Bơ La
+Kon Pne
+Kon Thụp
 Kông Chro
 Kông HTok
 Kông Lơng Khơng
 Kông Pla
 Kông Yang
-Kon Pne
-Kon Tầng
-Kon Thụp
 KRong
 Krông Á
-KRông á
 KRông Búk
 Krông Jing
 Krông Klang
@@ -2688,7 +3077,6 @@ Krông Năng
 Krông Nô
 Krông Pa
 Kroong
-Kỳ Anh
 Kỳ Bá
 Kỳ Bắc
 Kỳ Châu
@@ -2697,11 +3085,8 @@ Kỳ Giang
 Kỳ Hà
 Kỳ Hải
 Kỳ Hoa
-Kỳ Hợp
-Kỳ Hưng
 Kỳ Khang
 Kỳ Lạc
-Kỳ Lâm
 Kỳ Liên
 Kỳ Lợi
 Kỳ Long
@@ -2722,13 +3107,42 @@ Kỳ Tiến
 Kỳ Trinh
 Kỳ Trung
 Kỳ Văn
-LaDêê
-Laêê
-La Êê
-La Gi
+Kỳ Xuân
+La Bằng
+La Dạ
+La Dêê
 La Hà
 La Hai
 La Hiên
+La Khê
+La Ngà
+La Ngâu
+Lả Nhì Thàng
+La Pan Tẩn
+La Pán Tẩn
+La Phù
+La Sơn
+Lạc An
+Lạc Đạo
+Lạc Dương
+Lạc Hòa
+Lạc Hồng
+Lạc Lâm
+Lạc Long
+Lạc Lương
+Lạc Nông
+Lạc Quới
+Lạc Sơn
+Lạc Sỹ
+Lạc Tấn
+Lạc Tánh
+Lạc Thịnh
+Lạc Vân
+Lạc Vệ
+Lạc Viên
+Lạc Xuân
+Lạch Tray
+Laêê
 Lai Cách
 Lai Đồng
 Lai Hạ
@@ -2744,8 +3158,6 @@ Lai Vu
 Lai Vung
 Lại Xuân
 Lại Yên
-La Khê
-La Lốp
 Lâm
 Lâm Ca
 Lam Cốt
@@ -2759,9 +3171,7 @@ Lâm Hải
 Lâm Hóa
 Lâm Hợp
 Lâm Kiết
-Lâm Lợi
 Lâm Phú
-Lâm Sa
 Lâm San
 Lam Sơn
 Lâm Sơn
@@ -2772,37 +3182,44 @@ Lâm Thủy
 Lâm Trạch
 Lâm Trung Thủy
 Lam Vỹ
-Lâm Xa
-Lâm Xuyên
+Lan Giới
+Lan Mẫu
 Lăng
-La Ngà
-La Ngâu
 Láng Biển
 Lăng Can
 Lang Chánh
 Làng Chếu
+Lăng Cô
+Lãng Công
+Láng Dài
+Làng Giàng
+Láng Hạ
+Lăng Hiếu
+Lạng Khê
+Láng Lớn
+Lang Minh
+Làng Mô
+Lãng Ngâm
+Làng Nhì
+Lạng Phong
+Lang Quán
+Lang Sơn
+Lãng Sơn
+Lạng Sơn
+Lăng Thành
 Lang Thíp
 Láng Thượng
 Láng Tròn
-Lăng Yên
-Lả Nhì Thàng
-Lan Mẫu
 Lao Bảo
 Lào Cai
 Lao Chải
 Lão Hộ
 Lao Và Chải
 Lao Xả Phình
-La Pan Tẩn
-La Pán Tẩn
-Lập Chiệng
-La Phù
 Lập Lễ
 Lập Thạch
 Lấp Vò
-La Sơn
 Lát
-Lầu Thí Ngài
 Lâu Thượng
 Lay Nưa
 Lê Bình
@@ -2819,8 +3236,6 @@ Lê Lợi
 Lê Mao
 Lê Minh Xuân
 Lệ Mỹ
-Leng Su Sìn
-Lệnh Khanh
 Lê Ninh
 Lê Thanh
 Lê Thanh Nghị
@@ -2828,6 +3243,7 @@ Lê Thiện
 Lê Trì
 Lệ Viễn
 Lệ Xá
+Leng Su Sìn
 Lìa
 Lịch Hội Thượng
 Liêm Cần
@@ -2845,6 +3261,27 @@ Liêm Tuyền
 Liên Am
 Liên Bão
 Liên Bảo
+Liên Bạt
+Liên Châu
+Liên Chung
+Liên Đầm
+Liên Giang
+Liên Hà
+Liên Hiệp
+Liên Hoa
+Liên Hoà
+Liên Hòa
+Liên Hội
+Liên Hồng
+Liên Hợp
+Liên Hương
+Liên Khê
+Liên Lộc
+Liên Mạc
+Liên Minh
+Liên Nghĩa
+Liên Ninh
+Liên Phương
 Liên Quan
 Liên Sang
 Liên Sơn
@@ -2855,8 +3292,7 @@ Liên Trạch
 Liên Trung
 Liên Trường
 Liên Vị
-Liên Vũ
-Liệp Muội
+Liêng Srônh
 Liệp Tè
 Liệp Tuyết
 Liễu Đề
@@ -2876,12 +3312,15 @@ Linh Sơn
 Lĩnh Sơn
 Linh Tây
 Linh Thông
-Linh Thượng
 Lĩnh Toại
 Linh Trung
 Linh Trường
 Linh Xuân
 Lộ 25
+Lô Giang
+Lơ Ku
+Lơ Pang
+Lỗ Sơn
 Loan Mỹ
 Lộc An
 Lộc Bắc
@@ -2894,14 +3333,11 @@ Lộc Đức
 Lộc Giang
 Lộc Hà
 Lộc Hạ
-Lộc Hải
 Lộc Hiệp
-Lộc Hoà
 Lộc Hòa
 Lộc Hưng
 Lộc Khánh
 Lộc Lâm
-Lộc Lý
 Lộc Nam
 Lộc Nga
 Lộc Ngãi
@@ -2928,20 +3364,61 @@ Lộc Trì
 Lộc Vĩnh
 Lộc Vượng
 Lộc Yên
-Lô Giang
 Lợi An
 Lợi Bác
 Lợi Bình Nhơn
 Lợi Hải
 Lợi Thuận
-Lơ Ku
 Long An
 Long Anh
+Long Biên
+Long Bình
+Long Bình Điền
+Long Bình Tân
+Long Cang
+Long Chánh
+Long Châu
+Long Chữ
+Long Cốc
+Long Điền
+Long Điền A
+Long Điền B
+Long Điền Đông
+Long Điền Đông A
+Long Điền Tây
+Long Định
+Long Đống
+Long Đức
+Long Giang
+Long Giao
+Long Hà
+Long Hải
 Long Hậu
 Long Hẹ
 Long Hiệp
 Long Hồ
-Long Phúc
+Long Hoa
+Long Hoà
+Long Hòa
+Long Hưng
+Long Hưng A
+Long Hưng B
+Long Hương
+Long Hữu
+Long Hựu Đông
+Long Hựu Tây
+Long Khánh
+Long Khánh A
+Long Khánh B
+Long Khê
+Long Kiến
+Lóng Luông
+Long Mai
+Long Môn
+Long Mỹ
+Long Nguyên
+Lóng Phiêng
+Long Phú
 Long Phụng
 Long Phước
 Lóng Sập
@@ -2972,39 +3449,45 @@ Long Tuyền
 Long Vĩnh
 Long Xá
 Long Xuyên
-Lơ Pang
-Lỗ Sơn
 Luân Giới
 Luận Khê
-Luân Mai
 Luận Thành
 Lục Ba
 Lục Bình
 Lục Dạ
 Lực Hành
 Lục Hồn
-Lục Nam
 Lục Sơn
 Lục Sỹ Thành
+Lùng Cải
+Lũng Cao
+Lũng Chinh
+Lũng Cú
+Lũng Hồ
+Lũng Hoà
+Lùng Khấu Nhin
+Lũng Nặm
+Lũng Niêm
+Lũng Phìn
+Lùng Phình
+Lũng Pù
+Lùng Tám
+Lũng Táo
 Lùng Thẩn
 Lùng Thàng
 Lũng Thầu
 Lùng Vai
-Lũng Vân
 Lương An Trà
 Lương Bằng
 Lương Bình
 Lương Can
-Lương Châu
 Lương Điền
-Lương Hạ
 Lương Hòa
 Lương Hoà A
 Lương Hòa Lạc
 Lương Khánh Thiện
 Lương Lỗ
 Lưỡng Minh
-Lượng Minh
 Lương Mông
 Lương Năng
 Lương Nghĩa
@@ -3019,7 +3502,6 @@ Lương Quới
 Lương Sơn
 Lương Tài
 Lương Tâm
-Lương Thành
 Lương Thế Trân
 Lương Thiện
 Lương Thịnh
@@ -3027,19 +3509,15 @@ Lương Thông
 Lương Thượng
 Lương Trung
 Lưỡng Vượng
-Lử Thẩn
 Lưu Hoàng
 Lưu Kiếm
 Lưu Kiền
 Lưu Kỳ
 Lưu Nghiệp Anh
-Lưu Ngọc
 Lưu Phương
 Lưu Sơn
-Lưu Vệ
 Lưu Vĩnh Sơn
 Lý Bôn
-Lý Hải
 Lý Học
 Lý Nhân
 Lý Nhơn
@@ -3049,13 +3527,17 @@ Lý Thành
 Lý Thường Kiệt
 Lý Trạch
 Lý Văn Lâm
-Lý Vĩnh
 Mã Ba
 Mà Cooi
-Ma Cooih
-Mà Cooih
 Mã Đà
 Ma Đa Guôi
+Ma Lâm
+Má Lé
+Ma Ly Pho
+Ma Nới
+Ma Quai
+Mã Thành
+Ma Thì Hồ
 Mai Châu
 Mái Dầm
 Mai Dịch
@@ -3066,16 +3548,24 @@ Mai Hịch
 Mai Hóa
 Mai Hùng
 Mai Lâm
-Măng Tố
+Mai Lạp
+Mai Long
+Mai Pha
+Mai Phụ
+Mai Sao
+Mai Sơn
+Mai Thủy
+Mai Trung
+Mãn Đức
 Mạn Lạn
-Ma Nới
 Mân Thái
-Mản Thẩn
+Măng Buk
+Măng Cành
+Măng Đen
+Măng Ri
+Măng Tố
 Mão Điền
 Mạo Khê
-Ma Quai
-Mã Thành
-Ma Thì Hồ
 Mậu A
 Mậu Đông
 Mậu Đức
@@ -3088,12 +3578,12 @@ Máy Tơ
 M'Đrắk
 Me
 Mê Linh
-Mèo Vạc
 Mê Pu
 Mễ Sở
 Mễ Trì
-Miền Đồi
+Mèo Vạc
 Mi Hòa
+Miền Đồi
 Minh An
 Minh Bảo
 Minh Cầm
@@ -3127,7 +3617,6 @@ Minh Lương
 Minh Nghĩa
 Minh Ngọc
 Minh Nông
-Minh Phát
 Minh Phú
 Minh Phương
 Minh Phượng
@@ -3141,28 +3630,40 @@ Minh Thắng
 Minh Thanh
 Minh Thành
 Minh Thạnh
-Minh Thọ
 Minh Thuận
 Minh Tiến
 Minh Trí
 Minh Xuân
 Mỏ Cày
-Mộc Bắc
-Mộc Châu
+Mỏ Chè
+Mỏ Công
+Mộ Đạo
+Mồ Dề
+Mộ Đức
+Mộ Lao
+Mò Ó
 Mô Rai
 Mồ Sì San
-Một Ngàn
 Mỏ Vàng
+Mộc Bắc
+Mộc Châu
+Mộc Nam
+Môn Sơn
+Mông Ân
+Mông Dương
+Mông Hóa
+Mông Sơn
+Mong Thọ
+Mong Thọ A
+Mong Thọ B
+Một Ngàn
 Mù Cả
 Mù Căng Chải
+Mù Sang
 Mũi Né
 Mùn Chung
 Muổi Nọi
-Muội Nọi
-Mường ải
 Mường Ải
-Mường ẳng
-Mường Ẳng
 Mường Ảng
 Mường Bám
 Mường Bang
@@ -3190,7 +3691,6 @@ Mường Hoa
 Mường Hoong
 Mường Hum
 Mường Hung
-Mường Khến
 Mường Khiêng
 Mường Khoa
 Mường Khong
@@ -3201,7 +3701,6 @@ Mường Lầm
 Mường Lạn
 Mường Lang
 Mường Lát
-Mường Lay
 Mường Lèo
 Mường Lói
 Mường Lống
@@ -3232,13 +3731,10 @@ Mường Thín
 Mường Típ
 Mường Toong
 Mường Trai
-Mương Tranh
 Mường Tùng
-Mường Tuổng
 Mường Và
 Mường Vi
 Mường Xén
-Mù Sang
 Mỹ An
 Mỹ An Hưng A
 Mỹ An Hưng B
@@ -3248,6 +3744,24 @@ Mỹ Cẩm
 Mỹ Cát
 Mỹ Chánh
 Mỹ Chánh Tây
+Mỹ Châu
+Mỹ Đình 1
+Mỹ Đình 2
+Mỹ Độ
+Mỹ Đông
+Mỹ Đồng
+Mỹ Đức
+Mỹ Đức Đông
+Mỹ Đức Tây
+Mỹ Gia
+Mỹ Hà
+Mỹ Hải
+Mỹ Hạnh Bắc
+Mỹ Hạnh Đông
+Mỹ Hạnh Nam
+Mỹ Hạnh Trung
+Mỹ Hiệp
+Mỹ Hiệp Sơn
 Mỹ Hòa
 Mỹ Hoà Hưng
 Mỹ Hội
@@ -3273,8 +3787,8 @@ Mỹ Ngãi
 Mỹ Nhơn
 Mỹ Phong
 Mỹ Phú
-Mỹ Phúc
 Mỹ Phú Đông
+Mỹ Phúc
 Mỹ Phước
 Mỹ Phước Tây
 Mỹ Phương
@@ -3285,9 +3799,7 @@ Mỹ Quý Đông
 Mỹ Quý Tây
 Mỹ Sơn
 Mỹ Tài
-Mỹ Tâm
 Mỹ Tân
-Mỹ Tây
 Mỹ Thái
 Mỹ Thắng
 Mỹ Thanh
@@ -3300,7 +3812,6 @@ Mỹ Thạnh Đông
 Mỹ Thành Nam
 Mỹ Thạnh Tây
 Mỹ Thạnh Trung
-Mỹ Thiện
 Mỹ Thịnh
 Mỹ Thọ
 Mỹ Thới
@@ -3318,32 +3829,65 @@ Mỹ Xuân
 Mỹ Xương
 Mỹ Xuyên
 Mỹ Yên
-Nà Bó
+N.T Phong Hải
 Nà Bủng
-Nà Cang
 Nà Chì
 Na Cô Sa
 Na Dương
 Na Hang
-Nà Hang
 Nà Hẩu
 Na Hối
 Nà Hỳ
-Nại Hiên Đông
 Na Khê
 Nà Khoa
 Nà Khương
 Na Lay
 Na Loi
-Nam Anh
 Na Mao
+Na Mèo
+Nà Mường
+Nà Nghịu
+Na Ngoi
+Nà Nhạn
+Nà Ơt
+Nà Phặc
+Nà Phòn
+Nà Pó
+Na Sầm
+Na Sang
+Nà Sáy
+Na Son
+Nà Tăm
+Nà Tấu
+Na Tông
+Nà Tòng
+Na Ư
+Nại Hiên Đông
+Nam Anh
 Nam Ban
 Nậm Ban
 Nam Bình
 Nậm Búng
 Năm Căn
 Nậm Càn
+Nậm Cần
 Nậm Cắn
+Nam Cao
+Nam Cát
+Nam Cát Tiên
+Nậm Cha
+Nậm Chà
+Nậm Chạc
+Nậm Chầy
+Nậm Chảy
+Nam Chính
+Nậm Chua
+Nậm Có
+Nậm Cuổi
+Nam Cường
+Nam Đà
+Nam Đàn
+Nấm Dẩn
 Nậm Đét
 Nậm Dịch
 Nam Điền
@@ -3352,10 +3896,7 @@ Nam Đồng
 Nam Động
 Nam Du
 Nam Dương
-Na Mèo
-Nà Mèo
 Nậm ét
-Nậm Ét
 Nậm Giải
 Nam Giang
 Nậm Giôn
@@ -3365,12 +3906,10 @@ Nậm Hăn
 Nậm Hàng
 Nam Hoa
 Nam Hoà
-Nam Hóa
 Nam Hòa
 Nam Hồng
 Nam Hùng
 Nam Hưng
-Nam Hương
 Nam Ka
 Nậm Kè
 Nậm Khăn
@@ -3380,15 +3919,12 @@ Nậm Khắt
 Nam Khê
 Nậm Khòa
 Nam Kim
-Nam La
 Nậm Lành
 Nậm Lạnh
 Nậm Lầu
 Nặm Lịch
 Nam Lĩnh
-Nam Lộc
 Nam Lợi
-Nậm Loỏng
 Nấm Lư
 Nậm Lúc
 Nam Lý
@@ -3408,8 +3944,20 @@ Nậm Nhoóng
 Nậm Nhừ
 Nậm Nhùn
 Nam Ninh
+Nâm N'Jang
+Nâm Nung
+Nậm Păm
+Nam Phong
+Nam Phú
+Nam Phúc Thăng
+Nam Phước
+Nam Phương Tiến
+Nậm Pì
+Nậm Pung
+Nam Quan
+Nam Quang
+Nậm Rạng
 Nam Sách
-Nậm Sài
 Nậm Sỏ
 Nam Sơn
 Nậm Tăm
@@ -3427,69 +3975,42 @@ Nam Tiến
 Nậm Tin
 Nam Toàn
 Nam Trạch
-Nam Tràng
 Nam Triều
 Nam Trung
 Nam Tuấn
 Nậm Ty
 Nậm Tỵ
-Nà Mường
 Nam Vân
 Nậm Vì
 Nam Viêm
-Nam Viên
 Nậm Xây
 Nậm Xe
 Nậm Xé
 Nam Xuân
 Nam Yang
 Nam Yên
-Nàng Đôn
-Nà Nghịu
-Năng Khả
-Nàng Mau
-Na Ngoi
-Năng Tĩnh
-Nà Ngựu
-Năng Yên
-Nà Nhạn
-Nánh Nghê
 Nàn Ma
 Nàn Sán
-Nàn Sín
 Nàn Xín
 Nàn Xỉn
-Nà Ơt
-Nà Phặc
-Nà Phòn
-Nà Pó
-Nà Sác
-Na Sầm
-Na Sang
-Nà Sáy
-Na Son
-Nà Tăm
-Nà Tấu
-Na Tông
-Nà Tòng
-Nật Sơn
-Na ư
-Na Ư
+Nàng Đôn
+Năng Khả
+Nàng Mau
+Năng Tĩnh
+Nánh Nghê
 Nếnh
-Neo
 Nga An
 Nga Bạch
 Ngã Bảy
 Nga Điền
 Nga Giáp
 Nga Hải
-Ngan Dừa
-Nga Nhân
-Ngân Thủy
+Nga Hoàng
+Nga Liên
+Nga My
 Nga Phú
 Nga Phượng
 Nga Quán
-Ngã sáu
 Ngã Sáu
 Nga Sơn
 Nga Tân
@@ -3507,75 +4028,34 @@ Ngã Tư Sở
 Nga Văn
 Nga Vịnh
 Nga Yên
+Ngãi Đăng
+Ngãi Giao
+Ngãi Hùng
+Ngãi Tứ
+Ngãi Xuyên
+Ngàm Đăng Vài
+Ngam La
+Ngan Dừa
+Ngân Thủy
 Nghèn
-Nghĩa An
-Nghĩa Bình
-Nghĩa Chánh
-Nghĩa Châu
-Nghĩa Dân
-Nghĩa Đàn
-Nghĩa Đạo
-Nghĩa Điền
-Nghĩa Đô
-Nghĩa Dõng
-Nghĩa Đồng
-Nghĩa Đức
-Nghĩa Dũng
-Nghĩa Hà
-Nghĩa Hải
-Nghĩa Hành
-Nghĩa Hiệp
-Nghĩa Hiếu
-Nghĩa Hồ
-Nghĩa Hòa
-Nghĩa Hoàn
-Nghĩa Hội
-Nghĩa Hồng
-Nghĩa Hợp
-Nghĩa Hùng
-Nghĩa Hưng
-Nghĩa Hương
-Nghĩa Khánh
-Nghĩa Kỳ
-Nghĩa Lạc
-Nghĩa Thái
-Nghĩa Thắng
-Nghĩa Thành
-Nghĩa Thịnh
-Nghĩa Thọ
-Nghĩa Thuận
-Nghĩa Thương
-Nghĩa Tiến
-Nghĩa Trụ
-Nghĩa Trung
-Nghĩa Xá
-Nghĩa Xuân
-Nghĩa Yên
-Nghi Công
+Nghi Ân
 Nghi Công Bắc
 Nghi Công Nam
 Nghi Diên
 Nghi Đồng
 Nghi Đức
 Nghị Đức
-Nghiêm Xuyên
-Nghiên Loan
 Nghi Hải
 Nghi Hoa
-Nghi Hoà
 Nghi Hòa
-Nghi Hợp
 Nghi Hưng
 Nghi Hương
-Nghi Khánh
 Nghi Kiều
 Nghi Kim
 Nghi Lâm
 Nghi Liên
 Nghi Long
 Nghi Mỹ
-Nghinh Tường
-Nghinh Xuyên
 Nghi Phong
 Nghi Phú
 Nghi Phương
@@ -3597,13 +4077,79 @@ Nghi Vạn
 Nghi Xá
 Nghi Xuân
 Nghi Yên
+Nghĩa An
+Nghĩa Bình
+Nghĩa Chánh
+Nghĩa Châu
+Nghĩa Dân
+Nghĩa Đàn
+Nghĩa Đạo
+Nghĩa Điền
+Nghĩa Đô
+Nghĩa Dõng
+Nghĩa Đồng
+Nghĩa Đức
+Nghĩa Dũng
+Nghĩa Hà
+Nghĩa Hải
+Nghĩa Hành
+Nghĩa Hiệp
+Nghĩa Hiếu
+Nghĩa Hòa
+Nghĩa Hoàn
+Nghĩa Hội
+Nghĩa Hồng
+Nghĩa Hợp
+Nghĩa Hùng
+Nghĩa Hưng
+Nghĩa Hương
+Nghĩa Khánh
+Nghĩa Kỳ
+Nghĩa Lạc
+Nghĩa Lâm
+Nghĩa Lộ
+Nghĩa Lộc
+Nghĩa Lợi
+Nghĩa Long
+Nghĩa Mai
+Nghĩa Minh
+Nghĩa Mỹ
+Nghĩa Ninh
+Nghĩa Phong
+Nghĩa Phú
+Nghĩa Phúc
+Nghĩa Phương
+Nghĩa Sơn
+Nghĩa Tá
+Nghĩa Tâm
+Nghĩa Tân
+Nghĩa Thái
+Nghĩa Thắng
+Nghĩa Thành
+Nghĩa Thịnh
+Nghĩa Thọ
+Nghĩa Thuận
+Nghĩa Thương
+Nghĩa Tiến
+Nghĩa Trụ
+Nghĩa Trung
+Nghĩa Xá
+Nghĩa Xuân
+Nghĩa Yên
+Nghiêm Xuyên
+Nghiên Loan
+Nghinh Tường
+Ngô Đồng
+Ngổ Luông
+Ngô Mây
+Ngô Quyền
+Ngô Xá
 Ngọc Biên
 Ngọc Chấn
 Ngọc Chánh
 Ngọc Châu
 Ngọc Chiến
 Ngọc Chúc
-Ngọc Chung
 Ngọc Côn
 Ngọc Đào
 Ngọc Định
@@ -3612,7 +4158,22 @@ Ngọc Đồng
 Ngọc Động
 Ngọc Đường
 Ngọc Hà
-Ngọc Hải
+Ngọc Hiệp
+Ngọc Hoà
+Ngọc Hòa
+Ngọc Hồi
+Ngọc Hội
+Ngọc Khánh
+Ngọc Khê
+Ngọc Kỳ
+Ngọc Lặc
+Ngọc Lâm
+Ngọc Lập
+Ngọc Lâu
+Ngọc Lây
+Ngọc Liên
+Ngọc Liệp
+Ngọc Linh
 Ngọc Lĩnh
 Ngọc Long
 Ngọc Lũ
@@ -3639,23 +4200,13 @@ Ngọc Xá
 Ngọc Xuân
 Ngọc Xuyên
 Ngọc Yêu
-Ngô Đồng
 Ngòi A
 Ngối Cáy
-Ngòi Hoa
 Ngọk Bay
-Ngọk Lây
 Ngok Réo
 Ngok Tem
-Ngọk Tem
 Ngọk Tụ
 Ngok Wang
-Ngok Yêu
-Ngổ Luông
-Ngô Mây
-Ngô Quyền
-Ngô Thì Nhậm
-Ngô Xá
 Ngũ Chỉ Sơn
 Ngũ Đoan
 Ngũ Hiệp
@@ -3668,10 +4219,8 @@ Ngư Lộc
 Ngũ Phúc
 Ngũ Phụng
 Ngũ Thái
-Ngư Thủy
+Ngư Thủy 
 Ngư Thủy Bắc
-Ngư Thủy Nam
-Ngư Thủy Trung
 Nguyễn An Ninh
 Nguyên Bình
 Nguyễn Cư Trinh
@@ -3691,16 +4240,29 @@ Nguyễn Thái Học
 Nguyễn Thị Minh Khai
 Nguyễn Trãi
 Nguyễn Trung Trực
-Nguyễn Uý
-Nguyễn úy
 Nguyễn Úy
 Nguyễn Văn Cừ
 Nguyễn Văn Thảnh
 Nguyễn Việt Khái
+Nguyên Xá
+Nguyệt Ấn
+Nguyệt Đức
+Nguyệt Hóa
+Nhà Bàng
+Nhà Bè
+Nha Bích
+Nhã Lộng
+Nhà Mát
+Nhã Nam
+Nhạc Kỳ
+Nham Biền
+Nhân Bình
+Nhân Chính
+Nhân Cơ
+Nhân Đạo
 Nhân Hoà
 Nhân Hòa
 Nhân Huệ
-Nhân Hưng
 Nhân Khang
 Nhân La
 Nhân Lý
@@ -3732,7 +4294,7 @@ Nhị Quý
 Nhi Sơn
 Nhị Thành
 Nhị Trường
-Nhồi
+Nho Quan
 Nhơn Ái
 Nhơn An
 Nhơn Bình
@@ -3742,7 +4304,6 @@ Nhơn Hải
 Nhơn Hạnh
 Nhơn Hậu
 Nhơn Hoà
-Nhơn Hòa
 Nhơn Hòa Lập
 Nhơn Hội
 Nhơn Hưng
@@ -3752,7 +4313,6 @@ Nhơn Lý
 Nhôn Mai
 Nhơn Mỹ
 Nhơn Nghĩa
-Nhơn nghĩa A
 Nhơn Nghĩa A
 Nhơn Ninh
 Nhơn Phong
@@ -3764,20 +4324,17 @@ Nhơn Thành
 Nhơn Thạnh
 Nhơn Thạnh Trung
 Nhơn Thọ
-Nho Quan
-Nhuận Đức
-Nhuận Phú Tân
-Nhuận Trạch
 Như Cố
-Nhuế Dương
 Nhữ Hán
 Như Hòa
 Nhữ Khê
-Như Khuê
-Nhượng Bạn
 Như Quỳnh
-Nhựt Chánh
 Như Thụy
+Nhuận Đức
+Nhuận Phú Tân
+Nhuận Trạch
+Nhuế Dương
+Nhựt Chánh
 Nhựt Ninh
 Niệm Nghĩa
 Niêm Sơn
@@ -3792,6 +4349,22 @@ Ninh Điền
 Ninh Đông
 Ninh Dương
 Ninh Gia
+Ninh Giang
+Ninh Hà
+Ninh Hải
+Ninh Hiệp
+Ninh Hòa
+Ninh Hưng
+Ninh Ích
+Ninh Khang
+Ninh Khánh
+Ninh Lai
+Ninh Loan
+Ninh Lộc
+Ninh Mỹ
+Ninh Nhất
+Ninh Phong
+Ninh Phú
 Ninh Phúc
 Ninh Phụng
 Ninh Phước
@@ -3805,7 +4378,6 @@ Ninh Tân
 Ninh Tây
 Ninh Thân
 Ninh Thắng
-Ninh Thành
 Ninh Thạnh
 Ninh Thạnh Lợi
 Ninh Thạnh Lợi A
@@ -3823,36 +4395,24 @@ Nội Hoàng
 Nội Thôn
 Nông Cống
 Nông Hạ
-Nong Hẹt
-Nong Lay
-Nong Luông
-Nông Thịnh
 Nông Thượng
 Nông Tiến
 Nông Trang
 Nông Trường
-Nông Trường Lệ Ninh
-Nông Trường Liên Sơn
-NT Bố Hạ
-N'Thol Hạ
-N'Thôn Hạ
-NT Lam Sơn
+Nông Trường Việt Lâm
+Nong U
+Noong Bua
+Noong Hẻo
+Noọng Hẹt
+Noong Lay
+Noong Luống
 NT Lệ Ninh
 NT Liên Sơn
 NT Mộc Châu
-NT Nghĩa Lộ
-Nt Phong Hải
-N.T Phong Hải
-NT Phúc Do
-NT Thạch Ngọc
-N T Thái Bình
 NT Thái Bình
-NT Than Uyên
-NT Thống Nhất
 NT Trần Phú
-NT Vân Du
 NT Việt Trung
-NT Yên Thế
+N'Thol Hạ
 Nưa
 Núa Ngam
 Núi Đèo
@@ -3866,6 +4426,21 @@ Núi Voi
 Nùng Nàng
 Nước Hai
 Nuông Dăm
+Ô Chợ Dừa
+Ô Lâm
+Ô Long Vỹ
+Ô Quý Hồ
+Óc Eo
+Ôn Lương
+Ông Đình
+P Rao
+Pa Cheo
+Pà Cò
+Pa Ham
+Pá Hu
+Pa Khoá
+Pá Khoang
+Pá Lau
 Pá Lông
 Pá Ma Pha Khinh
 Pá Mỳ
@@ -3876,19 +4451,20 @@ Pa Vây Sử
 Pà Vầy Sủ
 Pa Vệ Sử
 Pả Vi
+Pác Miầu
+Pắc Ngà
+Pắc Ta
+Pải Lủng
 Phà Đánh
-Pha Khinh
 Phả Lại
 Phả Lễ
 Pha Long
+Pha Mu
 Phạm Đình Hổ
-Phạm Hồng Thái
 Phạm Kha
-Phạm Mệnh
 Phạm Ngũ Lão
 Phạm Thái
 Phạm Trấn
-Pha Mu
 Phạm Văn Cội
 Phạm Văn Hai
 Phan
@@ -3897,23 +4473,41 @@ Phan Chu Trinh
 Phan Điền
 Phan Đình Phùng
 Phan Dũng
-Phăng Sô Lin
 Phan Hiệp
 Phan Hòa
 Phan Lâm
 Phấn Mễ
 Phan Rí Cửa
 Phan Rí Thành
-Phình Hồ
-Phìn Hồ
-Phình Sáng
+Phan Sào Nam
+Phan Si Păng
+Phan Sơn
+Phan Thanh
+Phan Thiết
+Phan Tiến
+Phăng Sô Lin
+Pháo Đài
+Phát Diệm
+Phật Tích
+Phì Điền
+Phi Hải
+Phi Liêng
 Phì Nhừ
-Phìn Ngan
 Phi Thông
 Phi Tô
+Phiêng Ban
+Phiêng Cằm
+Phiêng Côn
+Phiêng Khoài
+Phiêng Luông
+Phiêng Pằn
+Phìn Hồ
+Phìn Ngan
+Phình Giàng
+Phình Hồ
+Phình Sáng
 Phổ An
 Phó Bảng
-Phố Bảng
 Phố Cáo
 Phố Châu
 Phổ Châu
@@ -3922,11 +4516,20 @@ Phổ Cường
 Phổ Hòa
 Phố Huế
 Phổ Khánh
-Phố Khương Hạ
 Phố Là
 Phố Lu
 Phổ Minh
 Phố Mới
+Phổ Nhơn
+Phổ Ninh
+Phổ Phong
+Phổ Quang
+Phố Ràng
+Phổ Thạnh
+Phổ Thuận
+Phổ Văn
+Phổ Vinh
+Phồn Xương
 Phong An
 Phong Bình
 Phong Châu
@@ -3941,14 +4544,25 @@ Phong Hải
 Phong Hiền
 Phong Hóa
 Phong Hòa
-Phong Huân
 Phong Khê
 Phong Lạc
 Phổng Lái
-Phỏng Lái
+Phổng Lăng
+Phổng Lập
+Phong Lộc
+Phong Minh
+Phong Mỹ
+Phong Nẫm
+Phong Nậm
+Phong Nha
+Phong Niên
+Phong Phú
+Phong Quang
+Phong Sơn
+Phong Tân
+Phong Thạnh
+Phong Thạnh A
 Phong Thạnh Đông
-Phong Thạnh Đông A
-Phong Thạnh Nam
 Phong Thạnh Tây
 Phong Thạnh Tây A
 Phong Thạnh Tây B
@@ -3958,73 +4572,44 @@ Phong Thu
 Phong Thủy
 Phong Vân
 Phong Xuân
-Phổ Nhơn
-Phổ Ninh
-Phồn Xương
-Phổ Phong
-Phổ Quang
-Phố Ràng
-Phổ Thạnh
-Phổ Thuận
-Phổ Văn
-Phổ Vinh
 Phú An
 Phú An Hòa
 Phú Bài
 Phú Bình
-Phúc An
 Phú Cần
 Phú Cát
-Phúc Chu
-Phúc Diễn
-Phúc Do
-Phúc Đồng
-Phúc Đường
-Phúc Hà
 Phù Chẩn
 Phú Chánh
 Phú Châu
-Phúc Hòa
-Phúc Khánh
-Phúc Khoa
-Phúc La
-Phúc Lai
-Phúc Lâm
-Phục Lễ
-Phục Linh
-Phúc Lộc
-Phúc Lợi
-Phúc Lương
-Phúc Ninh
-Phúc Sạn
-Phúc Sen
-Phúc Sơn
-Phúc Tân
-Phúc Than
-Phúc Thắng
-Phúc Thành
-Phúc Thành A
-Phúc Thành B
-Phúc Thịnh
-Phúc Thọ
-Phúc Thuận
-Phúc Tiến
-Phúc Trạch
-Phúc Trìu
-Phúc Tuy
-Phúc ứng
-Phúc Ứng
 Phú Cường
-Phúc Xá
-Phúc Xuân
-Phúc Yên
 Phú Đa
 Phú Diên
 Phú Diễn
 Phú Điền
-Phú Hữu A
+Phú Đình
+Phú Định
+Phú Đô
+Phú Đông
+Phù Đổng
+Phú Đức
+Phú Dương
+Phú Gia
+Phủ Hà
+Phú Hài
+Phú Hải
+Phú Hậu
+Phú Hiệp
+Phú Hồ
+Phú Hộ
+Phú Hoà
+Phú Hòa
+Phù Hóa
+Phú Hòa Đông
+Phú Hội
+Phú Hưng
+Phú Hữu
+Phú Hựu
 Phú Khánh
-Phụ Khánh
 Phú Khê
 Phù Khê
 Phú Khương
@@ -4036,7 +4621,6 @@ Phú Lai
 Phú Lâm
 Phú Lãm
 Phù Lãng
-Phú Lão
 Phú Lập
 Phú Lễ
 Phú Lệ
@@ -4065,14 +4649,108 @@ Phù Mỹ
 Phú Mỹ Hưng
 Phú Nam
 Phú Nam An
+Phú Ngãi Trị
+Phú Nghĩa
+Phú Nghiêm
+Phú Ngọc
+Phú Nham
+Phù Nham
 Phú Nhuận
 Phú Ninh
 Phù Ninh
+Phú Phong
+Phú Phúc
+Phú Phụng
+Phú Phương
+Phú Quới
+Phú Quý
+Phú Riềng
+Phú Sơn
+Phú Tài
+Phú Tâm
+Phú Tân
+Phú Thái
+Phú Thanh
+Phú Thành
+Phú Thạnh
+Phú Thành A
+Phú Thành B
+Phú Thị
+Phú Thiện
+Phú Thịnh
+Phú Thọ
+Phú Thọ Hòa
+Phủ Thông
+Phú Thứ
+Phú Thuận
+Phú Thuận A
+Phú Thuận B
+Phú Thượng
+Phú Thủy
+Phú Tiến
+Phú Trinh
+Phú Trung
+Phú Túc
+Phù Ủng
+Phú Văn
+Phù Vân
+Phú Vang
+Phú Vinh
+Phú Vĩnh
+Phú Xá
+Phú Xuân
+Phú Xuyên
+Phú Yên
+Phù Yên
+Phúc An
+Phúc Chu
+Phúc Diễn
+Phúc Đồng
+Phúc Hà
+Phúc Hòa
+Phúc Khánh
+Phúc Khoa
+Phúc La
+Phúc Lai
+Phúc Lâm
+Phục Lễ
+Phục Linh
+Phúc Lộc
+Phúc Lợi
+Phúc Lương
+Phúc Ninh
+Phúc Sen
+Phúc Sơn
+Phúc Tân
+Phúc Than
+Phúc Thắng
+Phúc Thành
+Phúc Thành A
+Phúc Thịnh
+Phúc Thọ
+Phúc Thuận
+Phúc Tiến
+Phúc Trạch
+Phúc Trìu
+Phúc Ứng
+Phúc Xá
+Phúc Xuân
+Phúc Yên
+Phùng
+Phụng Châu
+Phùng Chí Kiên
+Phụng Công
+Phùng Giáo
+Phụng Hiệp
+Phùng Hưng
+Phùng Minh
+Phùng Nguyên
+Phụng Thượng
+Phùng Xá
 Phước An
 Phước Bình
 Phước Bửu
-Phước Cát
-Phước Cát 1
+Phước Cát 
 Phước Cát 2
 Phước Chánh
 Phước Chỉ
@@ -4091,7 +4769,6 @@ Phước Hà
 Phước Hải
 Phước Hảo
 Phước Hậu
-Phước Hiển
 Phước Hiệp
 Phước Hoà
 Phước Hòa
@@ -4111,7 +4788,6 @@ Phước Long
 Phước Long A
 Phước Long B
 Phước Long Thọ
-Phước Lưu
 Phước Lý
 Phước Minh
 Phước Mỹ
@@ -4152,15 +4828,25 @@ Phước Vĩnh Tây
 Phước Xuân
 Phương Bình
 Phượng Cách
+Phương Canh
+Phương Chiểu
+Phương Công
+Phương Đình
+Phương Định
+Phương Độ
+Phương Đông
+Phượng Dực
+Phương Giao
+Phương Hải
+Phương Khoan
+Phượng Kỳ
+Phương Lâm
 Phượng Lâu
 Phương Liên
 Phương Liệt
 Phương Liễu
-Phương Linh
-Phương Lĩnh
 Phương Mai
 Phượng Mao
-Phương Mỹ
 Phương Nam
 Phượng Nghi
 Phương Phú
@@ -4177,77 +4863,49 @@ Phương Trung
 Phương Tú
 Phượng Vĩ
 Phương Viên
-Phương Xá
-Phú Phong
-Phú Phúc
-Phú Phụng
-Phú Phương
-Phú Quới
-Phú Quý
-Phú Riềng
-Phú Sơn
-Phú Tài
-Phú Tâm
-Phú Tân
-Phú Thái
-Phú Thanh
-Phú Thành
-Phú Thạnh
-Phú Thành A
-Phú Thành B
-Phú Thị
-Phú Thiện
-Phú Thịnh
-Phú Thọ
-Phú Thọ Hòa
-Phủ Thông
-Phú Thứ
-Phú Thuận
-Phú Thuận A
-Phú Thuận B
-Phú Xuyên
-Phú Yên
-Phù Yên
-Piềng Vế
 Pi Toong
-Plei Cần
 Plei Kần
 Pờ Ê
 Pô Kô
 Pố Lồ
 Pờ Ly Ngài
+Pờ Tó
 Pom Hán
 Pom Lót
 Pơng Drang
-Pờ Tó
-Pờ Y
-Prao
-P Rao
 Pró
-Próh
 Pú Đao
 Pú Hồng
-Púng Bánh
-Púng Luông
-Púng Tra
 Pú Nhi
 Pù Nhi
 Pú Nhung
 Pú Pẩu
-Pù Pin
 Pu Sam Cáp
 Pú Trạng
 Pú Xi
+Púng Bánh
+Púng Luông
+Púng Tra
 Quách Phẩm
 Quách Phẩm Bắc
 Quài Cang
 Quài Nưa
 Quài Tở
 Quản Bạ
-Quan Bản
 Quán Bàu
-Quân Bình
 Quân Chu
+Quân Hà
+Quán Hành
+Quán Hàu
+Quan Hồ Thẩn
+Quan Hoa
+Quan Lạn
+Quán Lào
+Quan Sơn
+Quán Thánh
+Quán Toan
+Quán Triều
+Quán Trữ
 Quảng An
 Quảng Bạch
 Quảng Bị
@@ -4260,6 +4918,21 @@ Quang Chiểu
 Quảng Chính
 Quảng Chu
 Quảng Công
+Quảng Cư
+Quảng Đại
+Quang Diệm
+Quảng Điền
+Quảng Định
+Quảng Đông
+Quảng Đức
+Quảng Giao
+Quảng Hà
+Quảng Hải
+Quang Hán
+Quang Hanh
+Quảng Hiệp
+Quảng Hoà
+Quảng Hòa
 Quảng Hợp
 Quang Húc
 Quang Hưng
@@ -4273,13 +4946,10 @@ Quảng Kim
 Quảng La
 Quảng Lạc
 Quảng Lâm
-Quang Lang
 Quang Lãng
 Quảng Lãng
 Quảng Lập
 Quang Lịch
-Quảng Liên
-Quảng Lĩnh
 Quang Lộc
 Quảng Lộc
 Quảng Lợi
@@ -4288,7 +4958,6 @@ Quảng Long
 Quảng Lưu
 Quang Minh
 Quảng Minh
-Quảng Nạp
 Quảng Ngãi
 Quảng Ngần
 Quảng Ngạn
@@ -4300,6 +4969,24 @@ Quảng Nham
 Quảng Nhâm
 Quảng Nhân
 Quảng Ninh
+Quang Phong
+Quảng Phong
+Quang Phú
+Quảng Phú
+Quảng Phú Cầu
+Quang Phục
+Quảng Phúc
+Quảng Phước
+Quảng Phương
+Quang Sơn
+Quảng Sơn
+Quảng Tâm
+Quảng Tân
+Quảng Thạch
+Quảng Thái
+Quảng Thắng
+Quang Thành
+Quảng Thanh
 Quảng Thành
 Quang Thiện
 Quang Thịnh
@@ -4326,18 +5013,15 @@ Quảng Văn
 Quang Vinh
 Quang Vĩnh
 Quảng Vinh
-Quảng Vọng
 Quảng Xuân
-Quảng Xương
 Quang Yên
 Quảng Yên
-Quân Hà
-Quán Hành
-Quán Hàu
-Quán Hầu
-Quế Bình
+Quất Động
+Quất Lâm
+Quất Lưu
+Quế
+Quế An
 Quế Châu
-Quế Cường
 Quế Hiệp
 Quế Lâm
 Quế Lộc
@@ -4347,35 +5031,42 @@ Quế Minh
 Quế Mỹ
 Quê Mỹ Thạnh
 Quế Nham
-Quế Ninh
 Quế Phong
 Quế Phú
-Quế Phước
-Quế Sơn
 Quế Tân
 Quế Thọ
 Quế Thuận
-Quế Trung
-Quế Xuân
 Quế Xuân 1
 Quế Xuân 2
 Qui Hướng
-Qúi Lộc
 Quí Quân
-Quốc Dân
 Quốc Khánh
 Quốc Oai
-Quốc Phong
 Quốc Thái
 Quốc Toản
-Quốc Tuấn
 Quốc Tử Giám
+Quốc Tuấn
 Quốc Việt
 Quới An
 Quới Điền
 Qưới Sơn
-Quy Mỹ
+Quới Thành
+Quới Thiện
+Quơn Long
+Quy Đạt
+Quy Đức
+Quý Hòa
+Quỳ Hợp
+Quy Kỳ
+Quý Lộc
+Quy Mông
 Quỹ Nhất
+Quý Quân
+Quý Sơn
+Quyết Chiến
+Quyết Tâm
+Quyết Thắng
+Quyết Tiến
 Quỳnh Bá
 Quỳnh Bảng
 Quỳnh Bảo
@@ -4383,7 +5074,6 @@ Quỳnh Châu
 Quỳnh Côi
 Quỳnh Dị
 Quỳnh Diễn
-Quỳnh Diện
 Quỳnh Đôi
 Quỳnh Giang
 Quỳnh Giao
@@ -4426,9 +5116,6 @@ Quỳnh Vinh
 Quỳnh Xá
 Quỳnh Xuân
 Quỳnh Yên
-Quý Quân
-Quý Sơn
-Rã Bản
 Rạch Chèo
 Rạch Dừa
 Rạch Gốc
@@ -4436,48 +5123,59 @@ Rạch Gòi
 Rạch Sỏi
 Rạng Đông
 Rơ Kơi
-Sảng Tủng
+Rô Men
+Rừng Thông
+Sa Bình
+Sà Dề Phìn
+Sa Lông
+Sa Loong
+Sa Nghĩa
 Sa Nhơn
-San Sả Hồ
-San Thàng
-Sàn Viên
-Sán Xả Hồ
-Sào Báy
-Sao Đỏ
-Sao Vàng
 Sa Pa
 Sa Pả
-Sập Vạt
-Sập Xa
 Sa Rài
 Sa Sơn
 Sa Thầy
-Sen Chiểu
+Sài Đồng
+Sài Sơn
+Sam Kha
+Săm Khóe
+Sam Mứn
+Sán Chải
+San Thàng
+Sàn Viên
+Sán Xả Hồ
+Sàng Ma Sáo
+Sảng Mộc
+Sáng Nhè
+Sảng Tủng
+Sào Báy
+Sao Đỏ
+Sao Vàng
+Sập Vạt
+Sập Xa
 Sen Phương
 Sen Thượng
 Sen Thủy
-Sịa
 Sĩ Bình
-Sĩ Hai
-Sì Lờ Lầu
 Sì Lở Lầu
 Si Ma Cai
-Sín Chải
+Si Pa Phìn
+Sịa
 Sín Chéng
-Sinh Long
-Sính Lủng
 Sìn Hồ
-Sính Phình
-Sinh Tồn
 Sin Suối Hồ
 Sín Thầu
-Si Pa Phìn
+Sinh Long
+Sính Lủng
+Sính Phình
+Sinh Tồn
+Sở Dầu
+Sơ Pai
 Sóc Đăng
 Sóc Hà
 Sóc Sơn
-Sở Dầu
 Sơn A
-Sơn An
 Sơn Ba
 Sơn Bằng
 Sơn Bao
@@ -4489,7 +5187,6 @@ Sơn Châu
 Sơn Công
 Sơn Cương
 Sơn Đà
-Sơn Diệm
 Sơn Điền
 Sơn Điện
 Sơn Định
@@ -4497,45 +5194,18 @@ Sơn Đông
 Sơn Đồng
 Sơn Dung
 Sơn Dương
-Sông Âm
-Song An
-Sông Bằng
-Song Bình
-Sông Bình
-Sông Bờ
-Sông Cầu
-Sông Đà
-Sông Đốc
-Song Giang
-Song Giáp
-Sông Hiến
-Sông Hinh
-Song Hồ
 Sơn Giang
-Song Khê
-Sông Khoai
-Song Khủa
-Sông Kôn
-Song Lãng
-Song Liễu
-Sông Lô
-Song Lộc
-Sông Lũy
-Sông Vệ
-Sông Xoài
 Sơn Hà
 Sơn Hạ
 Sơn Hải
 Sơn Hàm
 Sơn Hiệp
-Sơn Hoá
 Sơn Hóa
 Sơn Hòa
 Sơn Hội
 Sơn Hồng
 Sơn Hùng
 Sơn Kiên
-Sơn Kim
 Sơn Kim 1
 Sơn Kim 2
 Sơn Kỳ
@@ -4553,20 +5223,16 @@ Sơn Lôi
 Sơn Long
 Sơn Lư
 Sơn Lương
-Sơn Mai
 Sơn Màu
 Sơn Mùa
 Sơn Mỹ
 Sơn Nam
-Sơn Nga
 Sơn Nguyên
 Sơn Nham
 Sơn Ninh
 Sơn Phong
 Sơn Phú
-Sơn Phúc
 Sơn Phước
-Sơn Quang
 Sơn Tân
 Sơn Tây
 Sơn Thái
@@ -4574,13 +5240,64 @@ Sơn Thành
 Sơn Thành Đông
 Sơn Thành Tây
 Sơn Thịnh
-Sơn Thọ
 Sơn Thượng
 Sơn Thuỷ
+Sơn Thủy
+Sơn Tiến
+Sơn Tinh
+Sơn Tình
+Sơn Trà
+Sơn Trung
+Sơn Trường
+Sơn Vi
+Sơn Vĩ
+Sơn Viên
+Sơn Xuân
+Song An
+Sông Bằng
+Song Bình
+Sông Bình
+Sông Bờ
+Sông Cầu
+Sông Đà
+Sông Đốc
+Song Giang
+Sông Hiến
+Sông Hinh
+Song Hồ
+Song Khê
+Sông Khoai
+Song Khủa
+Sông Kôn
+Song Lãng
+Song Liễu
+Sông Lô
+Song Lộc
+Sông Lũy
+Sông Mã
+Song Mai
+Sông Nhạn
+Song Pe
+Sông Phan
+Song Phú
+Song Phụng
+Song Phương
+Song Phượng
+Sông Ray
+Sông Thao
+Song Thuận
+Sông Trà
+Sông Trầu
+Song Tử Tây
+Song Vân
+Sông Vệ
+Sông Xoài
+Sốp Cộp
+SRó
+Sùng Đô
 Sủng Là
 Sủng Máng
 Sùng Nhơn
-Sủ Ngòi
 Sùng Phài
 Sủng Thài
 Sủng Trà
@@ -4598,56 +5315,66 @@ Suối Giàng
 Suối Hiệp
 Suối Hoa
 Suối Kiết
-Suối Nánh
 Suối Nghệ
 Suối Ngô
 Suối Nho
 Suối Quyền
 Suối Rao
 Suối Tân
-Suối Thầu
 Suối Tiên
 Suối Tọ
 Suối Trai
-Suối Trầu
 Suối Tre
-Sử Pán
-Sỹ Bình
 Tạ An Khương
 Tạ An Khương  Đông
-Tạ An Khương Đông
 Tạ An Khương  Nam
-Tạ An Khương Nam
 Tá Bạ
-Tà Bhing
-Tà B'Hing
 Tà Bhinh
 Tạ Bú
 Tà Cạ
 Tà Chải
 Tả Củ Tỷ
-Tắc Vân
 Tà Đảnh
 Tà Gia
 Tả Gia Khâu
-Tả Giàng Phình
 Tà Hine
 Tà Hộc
 Tà Hừa
-Tái Sơn
-Tài Văn
 Tạ Khoa
 Tà Lai
 Tà Lài
-Tà Lèng
 Tả Lèng
 Tà Long
 Tà Lu
 Tà Lùng
 Tả Lủng
 Ta Ma
+Tà Mít
+Tà Mung
+Tà Năng
+Tả Ngải Chồ
+Tả Ngảo
+Tả Nhìu
+Tà Nung
+Tả Phìn
+Tả Phời
+Tà Pơơ
+Tà Rụt
+Tà Si Láng
+Tả Sìn Thàng
+Tả Sử Choóng
+Tả Thàng
+Tả Thanh Oai
+Tà Tổng
+Tả Van
+Tả Ván
+Tả Van Chư
+Tạ Xá
+Tà Xùa
+Tắc Vân
+Tái Sơn
+Tài Văn
 Tam An
-Tam Anh
 Tam Anh Bắc
 Tam Anh Nam
 Tam Bình
@@ -4662,9 +5389,24 @@ Tam Đảo
 Tam Dị
 Tam Đình
 Tam Đồng
-Tam Dương
 Tam Đường
 Tam Gia
+Tam Giang
+Tam Giang Đông
+Tam Giang Tây
+Tam Hải
+Tam Hiệp
+Tam Hòa
+Tam Hồng
+Tam Hợp
+Tam Hưng
+Tam Kim
+Tam Kỳ
+Tam Lãnh
+Tam Lập
+Tam Lộc
+Tam Lư
+Tam Mỹ Đông
 Tam Mỹ Tây
 Tam Ngãi
 Tam Nghĩa
@@ -4674,8 +5416,8 @@ Tam Phúc
 Tam Phước
 Tam Quan
 Tam Quan Bắc
-Tam Quang
 Tam Quan Nam
+Tam Quang
 Tam Sơn
 Tam Thái
 Tam Thăng
@@ -4688,24 +5430,37 @@ Tam Thuấn
 Tam Thuận
 Tam Tiến
 Tam Trà
-Tà Mung
 Tam Văn
 Tam Vinh
 Tầm Vu
 Tàm Xá
-Tầm Xá
-Tam Xuân 1
-Tam Xuân 2
 Tam Xuân I
 Tam Xuân II
+Tân  Khánh Trung
 Tân An
 Tân Ân
-Tà Năng
 Tân An Hội
 Tân An Luông
 Tân Ân Tây
 Tân An Thạnh
 Tân Bắc
+Tân Bằng
+Tân Biên
+Tân Bình
+Tân Bình Thạnh
+Tân Bửu
+Tân Cảnh
+Tân Chánh
+Tân Chánh Hiệp
+Tân Châu
+Tân Chi
+Tân Chính
+Tân Công Chí
+Tân Công Sính
+Tân Cương
+Tân Dân
+Tân Điền
+Tân Dĩnh
 Tân Định
 Tân Đoàn
 Tân Đông
@@ -4714,18 +5469,7 @@ Tân Đông Hiệp
 Tân Đức
 Tân Dương
 Tân Duyệt
-Tả Ngải Chồ
-Tả Ngảo
-Tăng Bạt Hổ
-Tăng Chiến
-Tăng Hoà
-Tăng Hòa
 Tân Giang
-Tằng Loỏng
-Tăng Nhơn Phú A
-Tăng Nhơn Phú B
-Tăng Thành
-Tăng Tiến
 Tân Hà
 Tân Hải
 Tân Hạnh
@@ -4733,19 +5477,16 @@ Tân Hào
 Tân Hiệp
 Tân Hiệp A
 Tân Hiệp B
-Tả Nhìu
+Tân Hộ Cơ
 Tân Hoa
 Tân Hoà
 Tân Hóa
 Tân Hòa
 Tân Hòa Đông
 Tân Hòa Tây
-Tân Hòa  Thành
 Tân Hòa Thành
 Tân Học
-Tân Hộ Cơ
 Tân Hội
-Tân Hội An
 Tân Hội Đông
 Tân Hội Trung
 Tân Hồng
@@ -4763,14 +5504,29 @@ Tân Khang
 Tân Khánh
 Tân Khánh Đông
 Tân Khánh Hòa
-Tân  Khánh Trung
-Tân Khánh Trung
 Tân Kiên
+Tân Kiểng
+Tân Kiều
+Tân Kim
+Tân Kỳ
+Tân Lạc
+Tân Lâm
+Tân Lâm Hương
+Tân Lân
+Tân Lang
+Tân Lãng
+Tân Lập
+Tân Lập 1
+Tân Lập 2
+Tân Lễ
+Tân Liên
+Tân Liễu
+Tân Linh
+Tân Lĩnh
 Tản Lĩnh
 Tân Lộc
 Tân Lộc Bắc
 Tân Lộc Đông
-Tân lợi
 Tân Lợi
 Tân Lợi Thạnh
 Tân Long
@@ -4789,24 +5545,23 @@ Tân Nam
 Tân Ngãi
 Tân Nghĩa
 Tân Nguyên
-Tân Nhơn Phú
 Tân Nhuận Đông
 Tân Nhựt
 Tân Ninh
 Tân Pheo
 Tân Phong
 Tân Phú
-Tân Phúc
 Tân Phú Đông
+Tân Phú Tây
+Tân Phú Thạnh
+Tân Phú Trung
+Tân Phúc
 Tân Phước
 Tân Phước Hưng
 Tân Phước Khánh
 Tân Phước Tây
 Tân Phương
 Tân Phượng
-Tân Phú Tây
-Tân Phú Thạnh
-Tân Phú Trung
 Tân Quan
 Tân Quang
 Tân Quới
@@ -4830,6 +5585,21 @@ Tân Thái
 Tân Thắng
 Tân Thanh
 Tân Thành
+Tân Thạnh
+Tân Thành A
+Tân Thành B
+Tân Thành Bình
+Tân Thạnh Đông
+Tân Thanh Tây
+Tân Thạnh Tây
+Tân Thiện
+Tân Thiềng
+Tân Thịnh
+Tân Thọ
+Tân Thới
+Tân Thới Hiệp
+Tân Thới Hòa
+Tân Thới Nhất
 Tân Thới Nhì
 Tân Thông Hội
 Tân Thuận
@@ -4850,7 +5620,6 @@ Tân Trường
 Tân Tú
 Tân Túc
 Tân Tuyến
-Tà Nung
 Tân Ước
 Tân Uyên
 Tân Văn
@@ -4863,28 +5632,20 @@ Tân Xã
 Tân Xuân
 Tân Xuyên
 Tân Yên
+Tăng Bạt Hổ
+Tăng Hoà
+Tằng Loỏng
+Tăng Nhơn Phú A
+Tăng Nhơn Phú B
+Tăng Thành
+Tăng Tiến
 Tảo Dương Văn
 Tào Sơn
 Tào Xuyên
-Tả Phìn
-Tả Phời
 Tập Ngãi
-Tà Pơơ
 Tập Sơn
-Tà Rụt
-Tà Si Láng
-Tả Sìn Thàng
-Tả Sử Choóng
-Tả Thàng
-Tả Thanh Oai
 Tát Ngà
-Tà Tổng
 Tất Thắng
-Tả Van
-Tả Ván
-Tả Van Chư
-Tạ Xá
-Tà Xùa
 Tây An
 Tây Bình
 Tây Cốc
@@ -4893,6 +5654,21 @@ Tây Đô
 Tây Giang
 Tây Hiếu
 Tây Hồ
+Tây Hoà
+Tây Hưng
+Tây Lộc
+Tây Lương
+Tây Mỗ
+Tây Ninh
+Tây Phong
+Tây Phú
+Tây Sơn
+Tây Thành
+Tây Thạnh
+Tây Thuận
+Tây Tiến
+Tây Trạch
+Tây Tựu
 Tây Vinh
 Tây Xuân
 Tây Yên
@@ -4901,24 +5677,20 @@ Tây Yên Tử
 Tề Lễ
 Tề Lỗ
 Tế Lợi
-Tênh Phông
 Tế Nông
-Tén Tằn
-Tế Tân
 Tế Thắng
 Tê Xăng
+Tênh Phông
 Thác Bà
 Thạc Gián
+Thác Mơ
 Thạch Bàn
-Thạch Bằng
 Thạch Bình
 Thạch Cẩm
 Thạch Châu
 Thạch Đà
 Thạch Đài
 Thạch Đạn
-Thạch Điền
-Thạch Đỉnh
 Thạch Định
 Thạch Đồng
 Thạch Giám
@@ -4929,31 +5701,36 @@ Thạch Hoà
 Thạch Hóa
 Thạch Hội
 Thạch Hưng
-Thạch Hương
 Thạch Kênh
 Thạch Khê
 Thạch Khoán
-Thạch Phú
+Thạch Khôi
+Thạch Kiệt
+Thạch Kim
+Thạch Lạc
+Thạch Lâm
+Thạch Lập
+Thạch Liên
+Thạch Linh
+Thạch Lỗi
+Thạch Long
+Thạch Lương
+Thạch Mỹ
+Thạch Ngàn
+Thạch Ngọc
 Thạch Quảng
-Thạch Quí
 Thạch Quý
 Thạch Sơn
-Thạch Tân
 Thạch Thán
 Thạch Thang
 Thạch Thắng
-Thạch Thanh
-Thạch Thành
-Thạch Tiến
 Thạch Trị
 Thạch Trung
 Thạch Tượng
 Thạch Văn
-Thạch Vĩnh
 Thạch Xá
 Thạch Xuân
 Thạch Yên
-Thác Mơ
 Thái An
 Thái Bảo
 Thái Bình
@@ -4961,34 +5738,43 @@ Thái Bình Trung
 Thái Cường
 Thái Đào
 Thái Đô
-Thái Đức
 Thái Dương
 Thái Giang
 Thải Giàng Phố
-Thái Hà
-Thái Hoà
 Thái Hòa
 Thái Học
-Thái Hồng
 Thái Hưng
+Thái Long
+Thái Mỹ
+Thái Nguyên
+Thái Niên
+Thài Phìn Tủng
+Thái Phúc
+Thái Phương
+Thái Sơn
+Thái Tân
+Thái Thịnh
+Thái Thọ
+Thái Thượng
+Thái Thủy
+Thái Trị
 Thái Xuyên
-Thái Yên
 Tham Đôn
 Thẩm Dương
 Thân Cửu Nghĩa
+Thân Thuộc
+Than Uyên
+Thần Xa
 Thắng
 Thăng Bình
-Thắng Cương
 Thắng Hải
 Thăng Hưng
-Thân Giáp
 Thắng Lợi
 Thăng Long
 Thắng Mố
 Thắng Nhất
 Thắng Nhì
 Thăng Phước
-Thắng Quân
 Thắng Sơn
 Thắng Tam
 Thăng Thọ
@@ -5000,7 +5786,6 @@ Thành An
 Thạnh An
 Thanh Ba
 Thạnh Bắc
-Thanh Bính
 Thanh Bình
 Thạnh Bình
 Thanh Bình Thịnh
@@ -5016,9 +5801,24 @@ Thanh Điền
 Thanh Đình
 Thanh Định
 Thanh Đồng
-Thành Đông
 Thạnh Đông
 Thạnh Đông A
+Thạnh Đông B
+Thanh Đức
+Thạnh Đức
+Thanh Dương
+Thanh Giang
+Thanh Hà
+Thanh Hải
+Thành Hải
+Thạnh Hải
+Thanh Hóa
+Thanh Hòa
+Thành Hòa
+Thạnh Hoà
+Thạnh Hóa
+Thạnh Hòa
+Thạnh Hòa Sơn
 Thanh Hối
 Thạnh Hội
 Thanh Hồng
@@ -5031,8 +5831,6 @@ Thanh Khê
 Thanh Khê Đông
 Thanh Khê Tây
 Thanh Khương
-Thanh Kim
-Thành Kim
 Thanh Kỳ
 Thanh Lạc
 Thanh Lâm
@@ -5040,7 +5838,6 @@ Thành Lâm
 Thanh Lân
 Thanh Lang
 Thanh Lãng
-Thành Lập
 Thanh Liên
 Thanh Liệt
 Thanh Lĩnh
@@ -5048,7 +5845,6 @@ Thanh Lòa
 Thanh Lộc
 Thành Lộc
 Thạnh Lộc
-Thanh Lộc Đán
 Thành Lợi
 Thạnh Lợi
 Thanh Long
@@ -5056,14 +5852,27 @@ Thành Long
 Thanh Luận
 Thanh Luông
 Thanh Lương
-Thanh Lưu
 Thanh Mai
+Thanh Miện
+Thanh Miếu
+Thanh Minh
+Thành Minh
+Thanh Mỹ
+Thành Mỹ
+Thạnh Mỹ
+Thạnh Mỹ Lợi
+Thạnh Mỹ Tây
+Thạnh Ngãi
+Thanh Nghị
+Thanh Ngọc
+Thanh Nguyên
+Thanh Nhàn
+Thanh Nhật
+Thành Nhất
 Thanh Nho
 Thạnh Nhựt
 Thanh Ninh
-Thanh Nông
 Thanh Nưa
-Thanh Phát
 Thanh Phong
 Thạnh Phong
 Thanh Phú
@@ -5109,13 +5918,27 @@ Thành Trung
 Thanh Trường
 Thanh Tùng
 Thanh Tương
-Thanh Tường
 Thanh Tuyền
 Thanh Uyên
-Thanh Văn
 Thanh Vân
+Thanh Văn
 Thanh Vận
-Thành Vân
+Thanh Vinh
+Thành Vinh
+Thanh Vĩnh Đông
+Thanh Xá
+Thanh Xuân
+Thạnh Xuân
+Thanh Xuân Bắc
+Thanh Xuân Nam
+Thanh Xuân Trung
+Thanh Xương
+Thanh Yên
+Thành Yên
+Thạnh Yên
+Thạnh Yên A
+Thào Chư Phìn
+Thảo Điền
 Thất Hùng
 Thất Khê
 Thể Dục
@@ -5123,19 +5946,20 @@ Thèn Chu Phìn
 Thèn Phàng
 Thèn Sin
 Thị Cầu
+Thị Hoa
+Thị Nại
+Thi Sơn
 Thiện An
 Thiên Cầm
 Thiện Hòa
 Thiện Hưng
 Thiên Hương
 Thiện Kế
-Thiện Kỵ
 Thiên Lộc
 Thiện Long
 Thiện Mỹ
 Thiện Nghiệp
 Thiện Phiến
-Thiên Phú
 Thiên Phủ
 Thiện Tân
 Thiện Thuật
@@ -5143,12 +5967,9 @@ Thiên Tôn
 Thiện Trí
 Thiện Trung
 Thiết Kế
-Thiết ống
 Thiết Ống
-Thiệu Châu
 Thiệu Chính
 Thiệu Công
-Thiệu Đô
 Thiệu Dương
 Thiệu Duy
 Thiệu Giang
@@ -5159,14 +5980,11 @@ Thiệu Hợp
 Thiệu Khánh
 Thiệu Long
 Thiệu Lý
-Thiệu Minh
 Thiệu Ngọc
 Thiệu Nguyên
 Thiệu Phú
 Thiệu Phúc
 Thiệu Quang
-Thiệu Tâm
-Thiệu Tân
 Thiệu Thành
 Thiệu Thịnh
 Thiệu Tiến
@@ -5176,16 +5994,50 @@ Thiệu Vân
 Thiệu Vận
 Thiệu Viên
 Thiệu Vũ
-Thị Hoa
-Thị Nại
-Thị Ngân
 Thịnh Đán
 Thịnh Đức
+Thịnh Hưng
+Thịnh Lang
+Thịnh Liệt
+Thịnh Lộc
+Thịnh Long
+Thịnh Minh
+Thịnh Quang
+Thịnh Sơn
+Thịnh Thành
+Thịnh Vượng
+Thọ An
+Thổ Bình
+Thọ Bình
+Thổ Châu
+Thọ Cường
 Thọ Dân
 Thọ Diên
 Thọ Điền
 Thọ Hải
 Thọ Hợp
+Thọ Lâm
+Thọ Lập
+Thọ Lộc
+Thọ Nghiệp
+Thọ Ngọc
+Thọ Phú
+Thổ Quan
+Thọ Quang
+Thổ Sơn
+Thọ Sơn
+Thọ Tân
+Thổ Tang
+Thọ Thanh
+Thọ Thành
+Thọ Thế
+Thọ Tiến
+Thọ Văn
+Thọ Vinh
+Thọ Vực
+Thọ Xuân
+Thọ Xương
+Thoại Giang
 Thới An
 Thới An Đông
 Thới An Hội
@@ -5202,45 +6054,27 @@ Thới Tân
 Thới Thạnh
 Thới Thuận
 Thới Xuân
-Thọ Lâm
-Thọ Lập
-Thọ Lộc
-Thọ Minh
 Thôm Mòn
 Thông Bình
-Thọ Nghiệp
 Thông Hòa
-Thông Hoè
-Thông Huê
-Thông Huề
 Thống Kênh
 Thông Nguyên
 Thống Nhất
 Thông Nông
-Thọ Ngọc
 Thông Thụ
-Thọ Nguyên
-Thôn Mòn
-Thôn Tế Tiêu
-Thọ Phú
-Thổ Quan
-Thọ Quang
-Thổ Sơn
-Thọ Sơn
-Thọ Tân
-Thổ Tang
-Thọ Thắng
-Thọ Thanh
-Thọ Thành
-Thọ Thế
-Thọ Tiến
 Thốt Nốt
-Thọ Trường
-Thọ Văn
-Thọ Vinh
-Thọ Vực
-Thọ Xuân
-Thọ Xương
+Thứ Ba
+Thu Cúc
+Thu Lũm
+Thứ Mười Một
+Thu Ngạc
+Thu Phong
+Thư Phú
+Thủ Sỹ
+Thu Tà
+Thủ Thiêm
+Thủ Thừa
+Thu Thuỷ
 Thứa
 Thừa Đức
 Thuận
@@ -5263,17 +6097,30 @@ Thuận Lợi
 Thuần Mang
 Thuận Minh
 Thuần Mỹ
-Thượng ấm
+Thuận Mỹ
+Thuận Nam
+Thuận Nghĩa Hòa
+Thuận Phú
+Thuận Phước
+Thuận Quí
+Thuận Sơn
+Thuần Thành
+Thuận Thành
+Thuần Thiện
+Thuận Thiên
+Thuận Thới
+Thuận Yên
+Thúc Kháng
+Thục Luyện
+Thung Nai
 Thượng Ấm
 Thượng Ân
 Thượng Bằng La
-Thượng Bì
 Thượng Bình
 Thượng Cát
 Thượng Cốc
 Thượng Cường
 Thượng Cửu
-Thượng Đạt
 Thượng Đình
 Thượng Giáo
 Thượng Giáp
@@ -5309,25 +6156,29 @@ Thường Thắng
 Thường Thạnh
 Thượng Thanh
 Thường Thới Hậu A
-Thường Thới Hậu B
 Thường Thới Tiền
 Thượng Thôn
-Thượng Tiến
 Thường Tín
 Thượng Trạch
 Thượng Trưng
 Thượng Vũ
 Thượng Vực
+Thường Xuân
+Thượng Yên Công
+Thủy An
+Thụy An
+Thủy Bằng
+Thuỷ Biều
+Thụy Bình
+Thủy Châu
+Thụy Chính
+Thụy Dân
 Thủy Đông
-Thụy Dũng
 Thuỷ Đường
 Thủy Dương
-Thụy Dương
 Thụy Duyên
-Thụy Hà
 Thụy Hải
 Thụy Hòa
-Thụy Hồng
 Thụy Hùng
 Thụy Hưng
 Thuỵ Hương
@@ -5336,17 +6187,12 @@ Thụy Khuê
 Thuỵ Lâm
 Thụy Liên
 Thủy Liễu
-Thủy Liểu
 Thụy Liễu
-Thúy Loa
 Thụy Lôi
 Thủy Lương
-Thụy Lương
 Thụy Ninh
 Thụy Phong
 Thủy Phù
-Thụy Phú
-Thụy Phúc
 Thủy Phương
 Thụy Phương
 Thụy Quỳnh
@@ -5354,7 +6200,6 @@ Thuỷ Sơn
 Thúy Sơn
 Thụy Sơn
 Thủy Tân
-Thụy Tân
 Thủy Tây
 Thủy Thanh
 Thụy Thanh
@@ -5362,19 +6207,18 @@ Thuỷ Triều
 Thụy Trình
 Thụy Trường
 Thủy Vân
-Thụy Văn
 Thụy Vân
+Thụy Văn
 Thụy Việt
 Thuỷ Xuân
-Thủy Xuân
 Thụy Xuân
 Thủy Xuân Tiên
 Tìa Dình
-Tích Cốc
 Tích Giang
 Tích Lương
 Tích Sơn
 Tích Thiện
+Tiệm Tôm
 Tiên An
 Tiền An
 Tiến Bộ
@@ -5392,6 +6236,24 @@ Tiến Dũng
 Tiên Dược
 Tiên Dương
 Tiên Hà
+Tiên Hải
+Tiền Hải
+Tiên Hiệp
+Tiến Hóa
+Tiên Hoàng
+Tiên Hội
+Tiến Hưng
+Tiên Kiên
+Tiên Kiều
+Tiên Kỳ
+Tiên Lãng
+Tiên Lãnh
+Tiên Lập
+Tiên Lộc
+Tiến Lộc
+Tiến Lợi
+Tiên Long
+Tiên Lữ
 Tiên Lục
 Tiên Lương
 Tiên Minh
@@ -5407,7 +6269,6 @@ Tiền Phong
 Tiên Phú
 Tiên Phương
 Tiên Sơn
-Tiến Sơn
 Tiên Tân
 Tiên Thắng
 Tiến Thắng
@@ -5419,9 +6280,7 @@ Tiên Thọ
 Tiên Thuận
 Tiên Thủy
 Tiến Thủy
-Tiên Tiến
 Tiền Tiến
-Tiến Tới
 Tiên Trang
 Tiến Xuân
 Tiên Yên
@@ -5430,25 +6289,19 @@ Tiểu Cần
 Tiêu Động
 Tiêu Sơn
 Tịnh An
-Tịnh ấn Đông
 Tịnh Ấn Đông
-Tịnh ấn Tây
 Tịnh Ấn Tây
 Tĩnh Bắc
 Tịnh Bắc
 Tịnh Biên
 Tịnh Bình
 Tịnh Châu
-Tình Cương
 Tịnh Đông
-Tĩnh Gia
 Tịnh Giang
 Tịnh Hà
 Tĩnh Hải
 Tịnh Hiệp
 Tịnh Hòa
-Tình Húc
-Tĩnh Húc
 Tịnh Khê
 Tịnh Kỳ
 Tịnh Long
@@ -5458,26 +6311,38 @@ Tịnh Phong
 Tịnh Sơn
 Tịnh Thiện
 Tịnh Thọ
+Tịnh Thới
+Tịnh Trà
+Tĩnh Túc
+Tô Châu
+Tô Hạp
+Tô Hiệu
+Tô Mậu
+Tô Múa
+Tơ Tung
+Tỏa Tình
+Toàn Sơn
+Toàn Thắng
+Tóc Tiên
+Tòng Bạt
+Tông Cọ
+Tổng Cọt
+Tòng Đậu
 Tông Lạnh
-Tòng Lệnh
-Tông Lệnh
 Tống Phan
 Tông Qua Lìn
 Tòng Sành
 Tống Trân
 Tốt Động
-Tơ Tung
 Trà An
 Trà Bá
 Trà Bình
 Trà Bui
 Trà Bùi
 Trà Cang
-Trạch Mỹ Lộc
 Trà Cổ
 Trà Côn
 Trà Cú
-Trác Văn
 Trà Đa
 Trà Đốc
 Trà Don
@@ -5488,18 +6353,36 @@ Trà Giác
 Trà Giang
 Trà Giáp
 Trà Hiệp
-Trại Cau
-Trại Chuối
 Trà Ka
-Trà Khê
 Trà Kót
 Trà Lâm
-Trà Lãnh
 Trà Leng
 Trà Linh
 Trà Lĩnh
 Trà Lồng
 Trà Mai
+Trà My
+Trà Nam
+Trà Nóc
+Trà Nú
+Trà Ôn
+Trà Phong
+Trà Phú
+Trà Sơn
+Trà Tân
+Trà Tập
+Trà Tây
+Trà Thanh
+Trà Thủy
+Trà Vân
+Trà Vinh
+Trà Vong
+Trà Xinh
+Trà Xuân
+Trác Văn
+Trạch Mỹ Lộc
+Trại Cau
+Trại Chuối
 Tràm Chim
 Trạm Hành
 Trạm Lộ
@@ -5507,13 +6390,25 @@ Trầm Lộng
 Trạm Tấu
 Trạm Thản
 Trạm Trôi
-Trà My
-Trà Nam
 Trần Cao
 Trân Châu
 Trần Đăng Ninh
 Trần Đề
 Trấn Dương
+Trần Hợi
+Trần Hưng Đạo
+Trần Lãm
+Trần Nguyên Hãn
+Trấn Ninh
+Trần Phán
+Trần Phú
+Trần Quang Diệu
+Trần Quang Khải
+Trần Tế Xương
+Trần Thành Ngọ
+Trần Thới
+Trần Văn Thời
+Trấn Yên
 Trang
 Tràng An
 Trảng Bàng
@@ -5523,40 +6418,36 @@ Tràng Cát
 Tràng Đà
 Trảng Dài
 Trang Hạ
-Tráng Liệt
-Trần Văn Thời
-Trấn Yên
-Trà Ôn
-Trà Phong
-Trà Phú
-Trà Quân
-Trà Sơn
-Trà Tân
-Trà Tập
-Trà Tây
-Trà Thanh
-Trà Thọ
-Trà Thủy
-Trà Trung
+Tràng Lương
+Tràng Minh
+Tràng Phái
+Tràng Sơn
+Tràng Tiền
+Tráng Việt
+Tràng Xá
 Trâu Quỳ
-Trà Vân
-Trà Vinh
-Trà Vong
-Trà Xinh
-Trà Xuân
 Tr'Hy
 Trị An
 Trí Bình
-Triệu ái
+Tri Hải
+Tri Lễ
+Trí Lực
+Trí Nang
+Trí Phải
+Tri Phú
+Tri Phương
+Trí Quả
+Trị Quận
+Trì Quang
+Tri Thủy
+Tri Tôn
+Tri Trung
+Trí Yên
 Triệu Ái
 Triệu An
-Triệu ẩu
-Triệu Ẩu
 Triệu Đại
 Triệu Đề
 Triệu Độ
-Triệu Đông
-Triêu Dương
 Triệu Giang
 Triệu Hải
 Triệu Hòa
@@ -5566,12 +6457,22 @@ Triệu Long
 Triệu Nguyên
 Triệu Phước
 Triệu Sơn
-Tri Trung
-Trí Yên
-Trới
+Triệu Tài
+Triệu Thành
+Triệu Thuận
+Triệu Thượng
+Triệu Trạch
+Triệu Trung
+Triệu Vân
+Trinh Phú
+Trịnh Tường
+Trịnh Xá
 Trọng Con
 Trọng Hóa
 Trọng Quan
+Trù Hựu
+Trù Sơn
+Trừ Văn Thố
 Trúc Bạch
 Trực Chính
 Trực Cường
@@ -5584,16 +6485,13 @@ Trúc Lâm
 Trúc Lâu
 Trực Mỹ
 Trực Nội
-Trực Phú
 Trúc Sơn
 Trực Thái
 Trực Thắng
 Trực Thanh
 Trực Thuận
 Trực Tuấn
-Trù Hựu
 Trung An
-Trung Bì
 Trung Bình
 Trung Chải
 Trung Chánh
@@ -5619,17 +6517,14 @@ Trung Hưng
 Trung Kênh
 Trùng Khánh
 Trung Kiên
-Trung Kính
 Trung Lập
 Trung Lập Hạ
 Trung Lập Thượng
-Trung Lễ
 Trung Lèng Hồ
 Trung Liệt
 Trung Lộc
 Trung Lương
 Trung Lý
-Trung Màu
 Trung Mầu
 Trung Minh
 Trung Môn
@@ -5639,7 +6534,24 @@ Trung Nam
 Trung Ngãi
 Trung Nghĩa
 Trung Nguyên
-Trung Nhất
+Trưng Nhị
+Trung Nhứt
+Trung Phúc
+Trung Phúc Cường
+Trung Phụng
+Trung Phước
+Trung Sơn
+Trung Sơn Trầm
+Trung Tâm
+Trung Thành
+Trung Thạnh
+Trung Thành Đông
+Trung Thành Tây
+Trung Thịnh
+Trung Thu
+Trung Thượng
+Trung Tiến
+Trưng Trắc
 Trung Trạch
 Trung Trực
 Trung Tú
@@ -5648,11 +6560,8 @@ Trung Văn
 Trưng Vương
 Trừng Xá
 Trung Xuân
-Trung ý
-Trung Ý
 Trung Yên
 Trường An
-Trường Bình
 Trường Chinh
 Trương Định
 Trường Đông
@@ -5662,7 +6571,6 @@ Trường Hòa
 Trường Khánh
 Trường Lạc
 Trường Lâm
-Trường Lộc
 Trường Long
 Trường Long A
 Trường Long Hòa
@@ -5683,49 +6591,67 @@ Trường Thịnh
 Trường Thọ
 Trường Thủy
 Trường Trung
-Trương Vương
 Trường Xuân
 Trường Xuân A
 Trường Xuân B
 Trường Yên
-Trù Sơn
-Trừ Văn Thố
-Tt Long Phú
-Tư
-Tủa Chùa
 Tú An
 Tự An
+Tứ Cường
+Tự Cường
+Tứ Dân
+Tự Do
+Tú Đoạn
+Tử Du
+Tứ Hạ
+Tứ Hiệp
+Tứ Kỳ
+Tự Lạn
+Tự Lập
+Tú Lệ
+Tứ Liên
+Tú Lý
+Tư Mại
+Tú Mịch
+Tứ Minh
+Tu Mơ Rông
+Tú Nang
+Tử Nê
+Tụ Nhân
+Tự Nhiên
+Tứ Quận
+Tú Sơn
+Tự Tân
+Tú Thịnh
+Tu Tra
+Tứ Trưng
+Tu Vũ
+Tứ Xã
+Tú Xuyên
+Tứ Yên
+Tủa Chùa
+Tủa Sín Chải
+Tủa Thàng
 Tuần Châu
 Tuân Chính
 Tuân Đạo
 Tuấn Đạo
 Tuần Giáo
-Tuấn Hưng
-Tuân Lộ
-Tuấn Mậu
 Tuân Tức
 Tuấn Việt
-Tư Mại
-Tú Mịch
-Tứ Minh
-Tu Mơ Rông
-Tứ Mỹ
-Tú Nang
-Tử Nê
-Tùng ảnh
+Túc Đán
+Túc Duyên
+Tức Tranh
+Túc Trưng
 Tùng Ảnh
 Tùng Bá
 Tùng Châu
 Tung Chung Phố
-Tư Nghĩa
 Tùng Khê
 Tùng Lâm
 Tùng Lộc
-Tung Qua Lìn
 Túng Sán
 Tùng Vài
-Tụ Nhân
-Tự Nhiên
 Tương Bình Hiệp
 Tường Đa
 Tương Giang
@@ -5740,39 +6666,24 @@ Tượng Sơn
 Tường Thượng
 Tường Tiến
 Tượng Văn
-Tứ Quận
-Tú Sơn
-Từ Sơn
-Tự Tân
-Tú Thịnh
-Tu Tra
-Tú Trĩ
-Tứ Trưng
-Tu Vũ
-Tứ Xã
-Tú Xuyên
-Tứ Xuyên
-Tứ Yên
+Tuy Lai
+Tuy Lộc
+Tuy Phước
 Tuyên Bình
 Tuyên Bình Tây
 Tuyên Thạnh
 Tuyết Nghĩa
-Tuy Lai
-Tuy Lộc
-Tuy Phước
-Uar
-úc Kỳ
-Úc Kỳ
 U Minh
-ứng Hoè
+Uar
+Úc Kỳ
 Ứng Hoè
-Uyên Hưng
 Uy Nỗ
+Uyên Hưng
 V
 Vàm Láng
 Vân Âm
-Văn An
 Vân An
+Văn An
 Vạn An
 Văn Bán
 Văn Bình
@@ -5786,15 +6697,26 @@ Vân Côn
 Văn Đẩu
 Vạn Điểm
 Văn Điển
-Vân Diên
 Vân Đình
-Vần Dính
 Vân Đồn
 Vân Du
 Văn Đức
-Văn Học
-Văn Hội
+Vân Dương
+Vạn Giã
+Vân Giang
+Văn Giang
+Văn Giáo
+Vân Hà
+Văn Hải
+Văn Hán
+Vân Hồ
+Vân Hòa
+Văn Hóa
+Vạn Hoà
+Vạn Hòa
+Văn Hoàng
 Vân Hội
+Văn Hội
 Vạn Hưng
 Vạn Hương
 Vân Khánh
@@ -5806,37 +6728,31 @@ Văn Khúc
 Vạn Kim
 Văn Lang
 Văn Lăng
-Văn Lãng
 Văn Lem
 Vân Lĩnh
 Vạn Linh
-Văn Lộc
 Văn Lợi
 Vạn Long
 Văn Lung
 Văn Luông
-Văn Lương
 Vạn Lương
 Văn Lý
 Vạn Mai
 Văn Miếu
 Văn Minh
-Văn Mỗ
 Văn Môn
-Vân Mộng
 Vạn Mỹ
 Vân Nam
 Văn Nghĩa
 Vân Nham
-Văn Nhân
 Văn Nho
 Văn Nhuệ
 Vạn Ninh
 Vân Nội
 Vạn Phái
 Văn Phong
-Văn Phú
 Vân Phú
+Văn Phú
 Vạn Phú
 Vân Phúc
 Vạn Phúc
@@ -5844,9 +6760,8 @@ Vạn Phước
 Văn Phương
 Văn Quan
 Văn Quán
-Văn Sơn
 Vân Sơn
-Vạn Sơn
+Văn Sơn
 Vân Tảo
 Vạn Thái
 Vạn Thắng
@@ -5854,7 +6769,6 @@ Văn Thành
 Vạn Thạnh
 Vạn Thiện
 Vạn Thọ
-Văn Thủy
 Vân Thủy
 Vạn Thủy
 Văn Tiến
@@ -5864,8 +6778,8 @@ Vân Trình
 Vân Trục
 Vân Trung
 Vân Trường
-Văn Tự
 Vân Từ
+Văn Tự
 Vân Tùng
 Văn Võ
 Văn Vũ
@@ -5875,15 +6789,48 @@ Vạn Xuân
 Văn Xuôi
 Văn Yên
 Vạn Yên
+Vàng Đán
+Vàng Danh
+Vàng Ma Chải
+Vang Quới Đông
+Vang Quới Tây
+Vàng San
 Vật Lại
 Vầy Nưa
 Vệ An
 Vị Bình
-Vĩ Dạ
 Vị Đông
+Vị Hoàng
+Vi Hương
+Vị Tân
+Vị Thắng
+Vị Thanh
+Vĩ Thượng
+Vị Thuỷ
+Vị Trung
+Vị Xuyên
 Viên An
 Viên An Đông
 Viên Bình
+Viên Nội
+Viên Sơn
+Viễn Sơn
+Viên Thành
+Viêng Lán
+Việt Cường
+Việt Dân
+Việt Đoàn
+Việt Hải
+Việt Hoà
+Việt Hòa
+Việt Hồng
+Việt Hùng
+Việt Hưng
+Việt Lâm
+Việt Lập
+Việt Long
+Việt Ngọc
+Việt Quang
 Việt Thắng
 Việt Thành
 Việt Thống
@@ -5891,15 +6838,10 @@ Việt Thuận
 Việt Tiến
 Việt Vinh
 Việt Xuân
-Việt Xuyên
-Việt Yên
-Vị Hoàng
-Vi Hương
 VII
 Vinh An
 Vĩnh An
 Vĩnh Bảo
-Vĩnh Biên
 Vĩnh Bình
 Vĩnh Bình Bắc
 Vĩnh Bình Nam
@@ -5916,11 +6858,9 @@ Vĩnh Điện
 Vĩnh Điều
 Vĩnh Đồng
 Vĩnh Gia
-Vinh Giang
 Vĩnh Giang
 Vinh Hà
 Vĩnh Hà
-Vinh Hải
 Vĩnh Hải
 Vĩnh Hanh
 Vĩnh Hào
@@ -5928,7 +6868,6 @@ Vĩnh Hảo
 Vĩnh Hậu
 Vĩnh Hậu A
 Vinh Hiền
-Vĩnh Hiền
 Vĩnh Hiệp
 Vĩnh Hoà
 Vĩnh Hòa
@@ -5943,11 +6882,9 @@ Vĩnh Hùng
 Vĩnh Hưng
 Vĩnh Hưng A
 Vĩnh Hựu
-Vĩnh Khang
 Vĩnh Khánh
 Vĩnh Khê
 Vĩnh Khúc
-Vĩnh Khương
 Vĩnh Kiên
 Vĩnh Kim
 Vĩnh Lạc
@@ -5960,20 +6897,35 @@ Vĩnh Lộc B
 Vĩnh Lợi
 Vĩnh Long
 Vĩnh Lương
-Vĩnh Minh
 Vinh Mỹ
 Vĩnh Mỹ
 Vĩnh Mỹ A
 Vĩnh Mỹ B
-Vĩnh Nam
 Vĩnh Ngọc
 Vĩnh Ngươn
 Vĩnh Nguyên
 Vĩnh Nhuận
 Vĩnh Niệm
 Vĩnh Ninh
-Vĩnh Thạch
-Vinh Thái
+Vĩnh Ô
+Vĩnh Phong
+Vĩnh Phú
+Vĩnh Phú Đông
+Vĩnh Phú Tây
+Vĩnh Phúc
+Vĩnh Phước
+Vĩnh Phước A
+Vĩnh Phước B
+Vĩnh Phương
+Vinh Quang
+Vĩnh Quang
+Vĩnh Quới
+Vinh Quý
+Vĩnh Quỳnh
+Vĩnh Sơn
+Vinh Tân
+Vĩnh Tân
+Vĩnh Tế
 Vĩnh Thái
 Vĩnh Thắng
 Vinh Thanh
@@ -6011,39 +6963,29 @@ Vinh Xuân
 Vĩnh Xuân
 Vĩnh Xương
 Vĩnh Yên
-Vị Quang
-Vị Tân
-Vị Thắng
-Vị Thanh
-Vĩ Thượng
-Vị Thuỷ
-Vị Trung
-Vị Xuyên
 Võ Cường
 Vô Điếm
-Vôi
 Võ Lao
 Võ Liệt
 Võ Miếu
 Vô Ngại
-Vọng Đông
-Võng La
-Vọng Thê
-Võng Xuyên
 Võ Ninh
 Võ Thị Sáu
 Vô Tranh
 Võ Xu
+Vôi
+Vọng Đông
+Võng La
+Vọng Thê
+Võng Xuyên
 Vũ An
 Vũ Bản
 Vụ Bản
 Vũ Bình
 Vụ Bổn
-Vụ Cầu
 Vũ Chấn
 Vũ Chính
 Vũ Công
-Vực Trường
 Vũ Di
 Vũ Đoài
 Vũ Đông
@@ -6051,32 +6993,47 @@ Vũ Hoà
 Vũ Hòa
 Vũ Hội
 Vũ Lạc
-Vũ Lâm
 Vũ Lăng
 Vũ Lễ
 Vũ Linh
-Vũ Loan
 Vũ Minh
 Vũ Muộn
-Vũng Liêm
 Vũ Ninh
 Vũ Nông
 Vũ Oai
-Vương
-Vượng Lộc
 Vũ Phúc
 Vũ Quang
+Vụ Quang
+Vũ Quí
+Vũ Sơn
+Vũ Thắng
+Vũ Thư
+Vũ Tiến
+Vũ Trung
+Vũ Vân
+Vũ Vinh
+Vũ Xá
+Vũng Liêm
+Vương
+Vượng Lộc
+Vỹ Dạ
+Xà Bang
+Xa Dung
+Xà Hồ
+Xá Lượng
+Xa Lý
+Xà Phiên
+Xà Phìn
+Xá Tổng
+Xích Thổ
+Xiêng My
 Xím Vàng
 Xín Cái
 Xín Chải
 Xín Mần
-Xín Vàng
 Xốp
-Xốp Cộp
-Xuân ái
 Xuân Ái
 Xuân An
-Xuân áng
 Xuân Áng
 Xuân Bắc
 Xuân Bái
@@ -6091,7 +7048,6 @@ Xuân Chinh
 Xuân Chính
 Xuân Đài
 Xuân Đám
-Xuân Đan
 Xuân Đình
 Xuân Đỉnh
 Xuân Định
@@ -6113,9 +7069,28 @@ Xuân Hồng
 Xuân Hưng
 Xuân Hương
 Xuân Huy
+Xuân Khang
+Xuân Khanh
+Xuân Khánh
+Xuân Khê
+Xuân Kiên
+Xuân La
+Xuân Lạc
+Xuân Lai
+Xuân Lam
+Xuân Lâm
+Xuân Lãnh
+Xuân Lao
+Xuân Lập
+Xuân Lẹ
+Xuân Liên
+Xuân Lĩnh
+Xuân Lộc
+Xuân Lôi
+Xuân Long
+Xuân Lũng
 Xuân Lương
 Xuân Mai
-Xuân Mãn
 Xuân Minh
 Xuân Mỹ
 Xuân Ngọc
@@ -6135,7 +7110,6 @@ Xuân Quang 1
 Xuân Quang 2
 Xuân Quang 3
 Xuân Quế
-Xuân Quỳ
 Xuân Sinh
 Xuân Sơn
 Xuân Sơn Bắc
@@ -6150,7 +7124,6 @@ Xuân Thái
 Xuân Thắng
 Xuân Thanh
 Xuân Thành
-Xuân Thạnh
 Xuân Thiên
 Xuân Thiện
 Xuân Thịnh
@@ -6165,8 +7138,6 @@ Xuân Thượng
 Xuân Thủy
 Xuân Tiến
 Xuân Tín
-Xuân Tình
-Xuân Tô
 Xuân Trạch
 Xuân Trúc
 Xuân Trung
@@ -6176,28 +7147,75 @@ Xuân Vân
 Xuân Viên
 Xuân Vinh
 Xuân Yên
-Xuất Hoá
 Xuất Hóa
 Xuất Lễ
 Xương Giang
 Xương Huân
 Xương Lâm
 Xương Thịnh
-Xuyên Mộc
 Xuy Xá
+Xuyên Mộc
 Xy
+Y Can
+Ỷ La
+Y Tịch
+Y Tý
 Ya Hội
 Ya ly
 Ya Ma
+Ya Tăng
+Ya Tờ Mốt
+Ya Xiêr
 Yang Bắc
 Yang Mao
 Yang Nam
 Yang Reh
 Yang Tao
+Yang Trung
+Yên Bắc
+Yên Bài
+Yên Bằng
+Yên Bình
+Yên Bồng
+Yên Cát
+Yên Châu
+Yên Chính
+Yên Cư
+Yên Cường
+Yên Định
+Yên Đỗ
+Yên Đổ
+Yên Đồng
+Yên Đức
+Yên Dương
+Yên Dưỡng
+Yến Dương
+Yên Giả
+Yên Giang
+Yên Hà
+Yên Hải
+Yên Hân
+Yên Hồ
+Yên Hoa
+Yên Hoà
+Yên Hóa
+Yên Hòa
+Yên Hồng
+Yên Hợp
+Yên Hùng
+Yên Hưng
+Yên Khang
+Yên Khánh
+Yên Khê
+Yên Khoái
+Yên Khương
+Yên Kiện
+Yên Kỳ
+Yên Lạc
+Yến Lạc
 Yên Lâm
 Yên Lãng
 Yên Lập
-Yên Lễ
 Yên Lỗ
 Yên Lộc
 Yên Lợi
@@ -6206,8 +7224,6 @@ Yên Luật
 Yên Luông
 Yên Lương
 Yên Mạc
-Yến Mao
-Yên Mật
 Yên Minh
 Yên Mông
 Yên Mỹ
@@ -6217,9 +7233,7 @@ Yên Nghĩa
 Yên Nghiệp
 Yên Nguyên
 Yên Nhân
-Yên Nhuận
 Yên Ninh
-Yên Nội
 Yên Phong
 Yên Phú
 Yên Phụ
@@ -6243,16 +7257,17 @@ Yên Thịnh
 Yên Thổ
 Yên Thọ
 Yên Thuận
+Yên Thường
+Yên Thượng
+Yên Tiến
+Yên Tĩnh
+Yên Trạch
+Yên Trị
+Yên Trung
+Yên Trường
+Yên Từ
 Yên Viên
 Yên Vượng
-Yên Xá
 Yết Kiêu
-ỷ La
-Ỷ La
-Y Sơn
-Y Tịch
-Y Tý
 Za Hung
 Zuôich
-Zuoih
-Zuôih

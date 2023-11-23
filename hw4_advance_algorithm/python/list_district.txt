@@ -1,27 +1,37 @@
 1
-10
-11
-12
-2
 3
 4
 5
 6
+7
+8
+10
+11
+12
+A Lưới
+An Biên
+An Dương
 An Khê
 An Lão
 An Minh
 An Nhơn
 An Phú
 Ân Thi
+Anh Sơn
 Ayun Pa
 Ba Bể
+Ba Chẽ
+Ba Đình
+Ba Đồn
+Bà Rịa
+Bá Thước
+Ba Tơ
+Ba Tri
+Ba Vì
 Bác Ái
 Bắc Bình
 Bắc Giang
 Bắc Hà
-Ba Chẽ
-Bạch Long Vĩ
-Bạch Thông
 Bắc Kạn
 Bạc Liêu
 Bắc Mê
@@ -31,6 +41,19 @@ Bắc Sơn
 Bắc Tân Uyên
 Bắc Trà My
 Bắc Từ Liêm
+Bắc Yên
+Bạch Long Vĩ
+Bạch Thông
+Bảo Lạc
+Bảo Lâm
+Bảo Lộc
+Bảo Thắng
+Bảo Yên
+Bát Xát
+Bàu Bàng
+Bến Cát
+Bến Cầu
+Bến Lức
 Bến Tre
 Biên Hòa
 Bỉm Sơn
@@ -44,6 +67,7 @@ Bình Lục
 Bình Minh
 Bình Sơn
 Bình Tân
+Bình Tân
 Bình Thạnh
 Bình Thuỷ
 Bình Xuyên
@@ -54,11 +78,12 @@ Bù Gia Mập
 Buôn Đôn
 Buôn Hồ
 Buôn Ma Thuột
+Cà Mau
 Cái Bè
+Cai Lậy
 Cai Lậy
 Cái Nước
 Cái Răng
-Cà Mau
 Cẩm Giàng
 Cẩm Khê
 Cam Lâm
@@ -72,54 +97,83 @@ Cẩm Xuyên
 Cần Đước
 Cần Giờ
 Cần Giuộc
+Can Lộc
+Càng Long
+Cao Bằng
+Cao Lãnh
+Cao Lãnh
+Cao Lộc
+Cao Phong
+Cát Hải
+Cát Tiên
+Cầu Giấy
+Cầu Kè
+Cầu Ngang
+Châu Đốc
+Châu Đức
 Châu Phú
 Châu Thành
 Châu Thành A
-Chiêm Hóa
 Chi Lăng
 Chí Linh
+Chiêm Hóa
 Chợ Đồn
 Chợ Gạo
 Chợ Lách
 Chợ Mới
 Chơn Thành
-Chương Mỹ
 Chư Păh
 Chư Prông
 Chư Pưh
 Chư Sê
+Chương Mỹ
 Cờ Đỏ
+Cô Tô
 Cồn Cỏ
 Con Cuông
 Côn Đảo
-Cô Tô
-Cửa Lò
 Củ Chi
 Cư Jút
 Cư Kuin
 Cù Lao Dung
 Cư M'gar
+Cửa Lò
 Đà Bắc
 Đạ Huoai
+Đa Krông
+Đà Lạt
+Đạ Tẻh
 Đại Lộc
 Đại Từ
 Đăk Đoa
 Đắk Glei
-Đạ Tẻh
+Đăk Glong
+Đắk Hà
+Đắk Mil
+Đăk Pơ
+Đắk R'Lấp
+Đắk Song
+Đắk Tô
+Đầm Dơi
+Đầm Hà
+Đam Rông
+Đan Phượng
+Đất Đỏ
 Dầu Tiếng
 Dĩ An
+Di Linh
 Điện Bàn
 Điện Biên
 Điện Biên Đông
 Điện Biên Phủ
 Diễn Châu
 Diên Khánh
-Di Linh
 Định Hóa
 Đình Lập
 Định Quán
-Đoan Hùng
 Đô Lương
+Đồ Sơn
+Đoan Hùng
 Đơn Dương
 Đông Anh
 Đống Đa
@@ -136,11 +190,31 @@ Di Linh
 Đồng Văn
 Đồng Xoài
 Đồng Xuân
-Đồ Sơn
 Đức Cơ
 Đức Hòa
 Đức Huệ
 Đức Linh
+Đức Phổ
+Đức Thọ
+Đức Trọng
+Dương Kinh
+Dương Minh Châu
+Duy Tiên
+Duy Xuyên
+Duyên Hải
+Duyên Hải
+Ea H'leo
+Ea Kar
+Ea Súp
+Gia Bình
+Gia Lâm
+Gia Lộc
+Gia Nghĩa
+Giá Rai
+Gia Viễn
+Giang Thành
+Giao Thủy
+Gio Linh
 Giồng Riềng
 Giồng Trôm
 Gò Công
@@ -152,6 +226,12 @@ Gò Vấp
 Hà Đông
 Hà Giang
 Hạ Hoà
+Hạ Lang
+Hạ Long
+Hà Quảng
+Hà Tiên
+Hà Tĩnh
+Hà Trung
 Hải An
 Hai Bà Trưng
 Hải Châu
@@ -159,27 +239,37 @@ Hải Dương
 Hải Hà
 Hải Hậu
 Hải Lăng
-Hạ Lang
-Hạ Long
 Hàm Tân
 Hàm Thuận Bắc
 Hàm Thuận Nam
 Hàm Yên
-Hà Quảng
-Hà Tiên
-Hà Tĩnh
-Hà Trung
 Hậu Lộc
 Hiệp Đức
 Hiệp Hòa
 Hoà An
 Hoà Bình
 Hòa Bình
+Hoa Lư
+Hòa Thành
+Hòa Vang
+Hoài Ân
+Hoài Đức
+Hoài Nhơn
+Hoàn Kiếm
+Hoằng Hóa
+Hoàng Mai
+Hoàng Mai
+Hoàng Sa
+Hoàng Su Phì
+Hóc Môn
+Hội An
+Hòn Đất
+Hớn Quản
 Hồng Bàng
 Hồng Dân
 Hồng Lĩnh
 Hồng Ngự
-Hớn Quản
+Hồng Ngự
 Huế
 Hưng Hà
 Hưng Nguyên
@@ -193,7 +283,6 @@ Hữu Lũng
 Ia Grai
 Ia H' Drai
 Ia Pa
-Kbang
 KBang
 Kế Sách
 Khánh Sơn
@@ -210,8 +299,25 @@ Kim Bôi
 Kim Động
 Kim Sơn
 Kim Thành
-Lạc Thủy
+Kinh Môn
+Kon Plông
+Kon Rẫy
+Kon Tum
+Kông Chro
+Krông A Na
+Krông Bông
+Krông Búk
+Krông Năng
+Krông Nô
+Krông Pa
+Krông Pắc
+Kỳ Anh
+Kỳ Anh
+Kỳ Sơn
 La Gi
+Lạc Dương
+Lạc Sơn
+Lạc Thủy
 Lai Châu
 Lai Vung
 Lắk
@@ -235,6 +341,7 @@ Long Điền
 Long Hồ
 Long Khánh
 Long Mỹ
+Long Mỹ
 Long Phú
 Long Thành
 Long Xuyên
@@ -247,6 +354,19 @@ Lý Nhân
 Lý Sơn
 Mai Châu
 Mai Sơn
+Mang Thít
+Mang Yang
+M'Đrắk
+Mê Linh
+Mèo Vạc
+Minh Hóa
+Minh Long
+Mỏ Cày Bắc
+Mỏ Cày Nam
+Mộ Đức
+Mộc Châu
+Mộc Hóa
+Móng Cái
 Mù Căng Chải
 Mường Ảng
 Mường Chà
@@ -263,6 +383,7 @@ Mỹ Tho
 Mỹ Tú
 Mỹ Xuyên
 Na Hang
+Na Rì
 Năm Căn
 Nam Đàn
 Nam Định
@@ -274,19 +395,49 @@ Nam Sách
 Nam Trà My
 Nam Trực
 Nam Từ Liêm
-Na Rì
 Ngã Bảy
 Ngã Năm
+Nga Sơn
 Ngân Sơn
+Nghi Lộc
+Nghi Sơn
+Nghi Xuân
+Nghĩa Đàn
+Nghĩa Hành
+Nghĩa Hưng
+Nghĩa Lộ
+Ngô Quyền
+Ngọc Hiển
+Ngọc Hồi
+Ngọc Lặc
+Ngũ Hành Sơn
+Nguyên Bình
+Nhà Bè
 Nha Trang
-Nhơn Trạch
 Nho Quan
+Nhơn Trạch
 Như Thanh
+Như Xuân
+Ninh Bình
+Ninh Giang
+Ninh Hải
+Ninh Hòa
+Ninh Kiều
+Ninh Phước
+Ninh Sơn
+Nông Cống
+Nông Sơn
+Núi Thành
+Ô Môn
+Pác Nặm
+Phan Rang-Tháp Chàm
+Phan Thiết
+Phổ Yên
+Phong Điền
+Phong Thổ
+Phú Bình
 Phù Cát
-Phục Hoà
-Phúc Thọ
 Phù Cừ
-Phúc Yên
 Phú Giáo
 Phú Hoà
 Phú Lộc
@@ -294,32 +445,70 @@ Phú Lương
 Phủ Lý
 Phú Mỹ
 Phù Mỹ
+Phú Nhuận
+Phú Ninh
+Phù Ninh
+Phú Quí
+Phú Quốc
+Phú Riềng
+Phú Tân
+Phú Thiện
+Phú Thọ
+Phú Vang
+Phú Xuyên
+Phù Yên
+Phúc Thọ
+Phúc Yên
 Phụng Hiệp
+Phước Long
+Phước Long
+Phước Sơn
+Pleiku
+Quản Bạ
+Quan Hóa
+Quan Sơn
+Quang Bình
+Quảng Điền
 Quảng Hòa
 Quảng Ngãi
 Quảng Ninh
 Quảng Trạch
 Quảng Trị
-Quảng Uyên
 Quảng Xương
 Quảng Yên
-Quan Hóa
-Quan Sơn
 Quế Phong
 Quế Sơn
 Quế Võ
-Qui Nhơn
 Quốc Oai
 Quỳ Châu
 Quỳ Hợp
+Quy Nhơn
 Quỳnh Lưu
 Quỳnh Nhai
-Quy Nhơn
 Quỳnh Phụ
 Rạch Giá
 Sa Đéc
+Sa Pa
+Sa Thầy
+Sầm Sơn
+Si Ma Cai
+Sìn Hồ
+Sóc Sơn
+Sóc Trăng
+Sơn Động
+Sơn Dương
+Sơn Hà
+Sơn Hòa
+Sơn La
+Sơn Tây
+Sơn Tây
 Sơn Tịnh
 Sơn Trà
+Sông Cầu
+Sông Công
+Sông Hinh
+Sông Lô
+Sông Mã
 Sốp Cộp
 Tam Bình
 Tam Đảo
@@ -332,11 +521,28 @@ Tân An
 Tân Biên
 Tân Bình
 Tân Châu
+Tân Châu
 Tân Hiệp
-Tánh Linh
 Tân Hồng
 Tân Hưng
-Tây Trà
+Tân Kỳ
+Tân Lạc
+Tân Phú
+Tân Phú
+Tân Phú Đông
+Tân Phước
+Tân Sơn
+Tân Thạnh
+Tân Trụ
+Tân Uyên
+Tân Uyên
+Tân Yên
+Tánh Linh
+Tây Giang
+Tây Hồ
+Tây Hoà
+Tây Ninh
+Tây Sơn
 Thạch An
 Thạch Hà
 Thạch Thành
@@ -345,6 +551,7 @@ Thái Bình
 Thái Hoà
 Thái Nguyên
 Thái Thụy
+Than Uyên
 Thăng Bình
 Thanh Ba
 Thanh Bình
@@ -354,14 +561,32 @@ Thanh Hóa
 Thạnh Hóa
 Thanh Khê
 Thanh Liêm
+Thanh Miện
+Thanh Oai
+Thạnh Phú
+Thanh Sơn
+Thanh Thuỷ
+Thanh Trì
+Thạnh Trị
+Thanh Xuân
+Tháp Mười
+Thiệu Hóa
+Thọ Xuân
+Thoại Sơn
+Thới Bình
+Thới Lai
+Thống Nhất
+Thốt Nốt
+Thủ Dầu Một
+Thủ Đức
+Thủ Thừa
+Thuận An
+Thuận Bắc
 Thuận Châu
 Thuận Nam
 Thuận Thành
-Thủ Dầu Một
-Thủ Đức
 Thường Tín
 Thường Xuân
-Thủ Thừa
 Thuỷ Nguyên
 Tiên Du
 Tiền Hải
@@ -371,22 +596,37 @@ Tiên Phước
 Tiên Yên
 Tiểu Cần
 Tịnh Biên
-Tĩnh Gia
 Trà Bồng
 Trà Cú
-Trà Lĩnh
-Từ Liêm
+Trà Ôn
+Trà Vinh
+Trạm Tấu
+Trần Đề
+Trần Văn Thời
+Trấn Yên
+Trảng Bàng
+Trảng Bom
+Tràng Định
+Tri Tôn
+Triệu Phong
+Triệu Sơn
+Trực Ninh
+Trùng Khánh
+Trường Sa
+Tứ Kỳ
 Tu Mơ Rông
 Tư Nghĩa
-Tương Dương
 Từ Sơn
+Tủa Chùa
+Tuần Giáo
+Tương Dương
 Tuy An
 Tuy Đức
-Tuyên Hóa
-Tuyên Quang
 Tuy Hoà
 Tuy Phong
 Tuy Phước
+Tuyên Hóa
+Tuyên Quang
 U Minh
 U Minh Thượng
 Ứng Hòa
@@ -398,22 +638,52 @@ Vân Đồn
 Văn Giang
 Vân Hồ
 Văn Lâm
-Vĩnh Thuận
-Vĩnh Tường
-Vĩnh Yên
+Văn Lãng
+Vạn Ninh
+Văn Quan
+Văn Yên
 Vị Thanh
 Vị Thuỷ
 Vị Xuyên
+Việt Trì
+Việt Yên
+Vinh
+Vĩnh Bảo
+Vĩnh Châu
+Vĩnh Cửu
+Vĩnh Hưng
+Vĩnh Linh
+Vĩnh Lộc
+Vĩnh Lợi
+Vĩnh Long
+Vĩnh Thạnh
+Vĩnh Thuận
+Vĩnh Tường
+Vĩnh Yên
 Võ Nhai
 Vụ Bản
-Vũng Liêm
-Vũng Tàu
 Vũ Quang
 Vũ Thư
+Vũng Liêm
+Vũng Tàu
 Xín Mần
+Xuân Lộc
+Xuân Trường
+Xuyên Mộc
+Ý Yên
+Yên Bái
+Yên Bình
+Yên Châu
+Yên Định
+Yên Dũng
+Yên Khánh
+Yên Lạc
+Yên Lập
+Yên Minh
+Yên Mô
+Yên Mỹ
 Yên Phong
 Yên Sơn
 Yên Thành
 Yên Thế
 Yên Thủy
-Ý Yên
