@@ -6,7 +6,7 @@ import re
 import unidecode
 from typing import List
 
-exceptrionData = ["h", "f", "thànhphố", "hyện", "x", "hzuyện", "tx", "tp", "xã", "tỉnhv", "huyen", "tphố", "thịxã", "tỉnwh", "tphw", "tỉnh", "huyện", "t0p", "thànhmphố", "huyn", "tphố", "tt", "t"]
+exceptrionData = ["quận","h", "f", "thànhphố", "hyện", "x", "hzuyện", "tx", "tp", "xã", "tỉnhv", "huyen", "tphố", "thịxã", "tỉnwh", "tphw", "tỉnh", "huyện", "t0p", "thànhmphố", "huyn", "tphố", "tt", "t"]
 province_dict = dict()
 district_dict = dict()
 ward_dict = dict()
@@ -263,8 +263,6 @@ class Solution:
                 for idx in refIds:
                     if len(ward) < len(ward_dict.get(idx)):
                         ward = ward_dict.get(idx)
-                ward = ward_dict.get(refIds[0])
-                break
             # continue loop
             i = i - 1
         return {
@@ -272,5 +270,5 @@ class Solution:
             "ward": ward,
             "province": province,
         }
-    
+
 solution = Solution()
